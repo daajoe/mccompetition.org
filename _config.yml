@@ -14,38 +14,38 @@ url: ""
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: News
     link: /
     icon: ""
 
-  - text: Skills & Offers
-    link: /skills-and-offers
+  - text: About
+    link: /about
     icon: ""
 
-  - text: Contact Me
-    link: /contact
+  - text: Past Challenges
+    link: /past-challenges
     icon: ""
 
-  - text: My Resume
-    link: /resume
+  - text: MC 2020
+    link: /model-counting-competition
     icon: ""
 
 # Socialmedia Icons
 social_icons:
   - name: linkedin
-    link: https://www.linkedin.com/christianezeani
+    # link: https://www.linkedin.com/christianezeani
     icon: fab fa-linkedin
 
   - name: github
-    link: https://github.com/christianezeani
+    # link: https://github.com/christianezeani
     icon: fab fa-github-square
 
-  - name: facebook
-    link: https://www.facebook.com/christian.ezeani.cyb
-    icon: fab fa-facebook-square
+  # - name: facebook
+  #   link: https://www.facebook.com/christian.ezeani.cyb
+  #   icon: fab fa-facebook-square
 
   - name: twitter
-    link: https://www.twitter.com/christianezeani
+    # link: https://www.twitter.com/christianezeani
     icon: fab fa-twitter
 
 
