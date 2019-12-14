@@ -5,8 +5,8 @@
 # Competition Tracks
 
 The challenge consists of two separate tracks: 
-1. [Model Counting (MC)](about.md), and
-2. [Weighted Model Counting (WMC)](about.md)
+1. [Model Counting (MC)](#track1), and
+2. [Weighted Model Counting (WMC)](#track2)
 
 Note that we only allow non-parallel solvers.
 For more details on active calls for benchmark instances and participation, 
@@ -27,9 +27,12 @@ The odd instances are public and the even instances will be provided later (secr
 - objective: minimize the measure
 
 
-## Track 1: Model Counting
+## Track 1: Model Counting (#track1)
 
-If the solver does not output the exact solution - the solver will not be disqualified, which ensures that we do not require arbitrary precision.
+Solver submissions for this track should output for a given Boolean formula
+the model count of the instance.
+For more details of the problem, we refer to [Model Counting](about.md).
+If the solver does not output the exact model count - the solver will not be disqualified, which ensures that we do not require arbitrary precision.
 
 ### Input Instance Format
 
@@ -103,9 +106,12 @@ e7ca305528a0257235a95c41742f2b3431e1e485  | pace2019-vc-exact-public-v2.tar.bz2-
 
 <!--For individual files we refer to [Download SHA1 sums](/files/pace2019-vc-exact-public-shasums-v2.txt)-->
 
-## Track 2: Weighed Model Counting
+## Track 2: Weighed Model Counting (#track2)
 
-The solution does not have to be exact, but we expect 1% accuracy.
+Solver submissions for this track should output for a given Boolean formula,
+and a weight function, the weighted model count of the instance.
+For more details of the problem, we refer to [Weighted Model Counting](about.md).
+The provided weighted model count does not have to be exact, but we expect 1% accuracy.
 
 
 ### Instances
