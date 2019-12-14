@@ -63,11 +63,11 @@ Szymon Wasik (Poznan University of Technology, Poznan)
 ## Sponsors
 
 
-On behalf of the Organization Committee of the 4th PACE Challenge, we invite you to participate in the sponsoring of metals and travel support for PACE-19.
+On behalf of the Program Committee of MC 2020, we invite you to participate in the sponsoring of metals and travel support for the winners.
 
 
-[data-experts](https://data-experts.de) already announced sponsoring for PACE 2019. 
+[data-experts](https://data-experts.de) already announced sponsoring for MC 2020. 
 
-<img src="/assets/img/networks-logopartners-lang-rgb-1000px.jpg" alt="NETWORKS logo" style="width: 300px;"/>
+<img src="/assets/img/data-experts-logo.jpg" alt="data-experts" style="width: 300px;"/>
 
 ---

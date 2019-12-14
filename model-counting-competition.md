@@ -35,16 +35,15 @@ If the solver does not output the exact solution - the solver will not be disqua
 
 TBA
 
-<!--
-Download: [**Download (Updated: March 05, 2019) Public Instances (Exact)**](/files/pace2019-vc-exact-public-v2.tar.bz2)
+<!--Download: [**Download (Updated: March 05, 2019) Public Instances (Exact)**](/files/pace2019-vc-exact-public-v2.tar.bz2)-->
 
-For verification purposes, we also publish the sha1sum of the public archive:
+<!--For verification purposes, we also publish the sha1sum of the public archive:-->
 
-SHA1 sum | filename 
+<!--SHA1 sum | filename 
 --- | --- 
-e7ca305528a0257235a95c41742f2b3431e1e485  | pace2019-vc-exact-public-v2.tar.bz2
+e7ca305528a0257235a95c41742f2b3431e1e485  | pace2019-vc-exact-public-v2.tar.bz2-->
 
-For individual files we refer to [Download SHA1 sums](/files/pace2019-vc-exact-public-shasums-v2.txt)-->
+<!--For individual files we refer to [Download SHA1 sums](/files/pace2019-vc-exact-public-shasums-v2.txt)-->
 
 ## Track 2: Weighed Model Counting
 

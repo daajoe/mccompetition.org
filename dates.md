@@ -51,4 +51,5 @@
 - Latex Style [LIPIcs](https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/)
 - 2+ pages
 - Should briefly describe the used techniques and references to the original publications. 
+
 ---
