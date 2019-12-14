@@ -30,6 +30,12 @@ menu:
     link: /dates
     icon: ""
 
+  - text: About Model Counting
+    link: /about
+    icon: ""
+
+
+
 # Socialmedia Icons
 social_icons:
   - name: linkedin
