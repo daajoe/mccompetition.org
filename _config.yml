@@ -6,7 +6,7 @@ defaults:
     values:
       layout: default
 
-title: Model Counting Competition
+title: Model Counting Competition MC 2020
 # subtitle: Full-Stack Developer
 
 baseurl: "mc_test"
@@ -15,19 +15,19 @@ url: ""
 # Side Menu Links
 menu:
   - text: News
-    link: /
+    link: /news
     icon: ""
 
-  - text: About
+  - text: Organization
     link: /about
     icon: ""
 
-  - text: Past Challenges
-    link: /past-challenges
+  - text: Competition Tracks
+    link: /model-counting-competition
     icon: ""
 
-  - text: MC 2020
-    link: /model-counting-competition
+  - text: Calls & Important Dates
+    link: /dates
     icon: ""
 
 # Socialmedia Icons
