@@ -5,13 +5,13 @@
 
 - December 18th, 2019: Announcement of the challenge (Tracks)
 - December 22th, 2019: Call for Benchmarks
-<!--- November 16th, 2018: Announcement of the tracks and additional informations (input formats and problem feasibility checker are available online)
+<!-- November 16th, 2018: Announcement of the tracks and additional informations (input formats and problem feasibility checker are available online)
 - December 10th, 2018: Public htd instances are available
 - January 7th, 2019: Public vc instances are available
 - March 8th, 2019: Leaderboard online (by organizers) and submission *open* for preliminary versions (bugfixing for the authors and initial comparison on public instances)-->
 - May 6nd, 2020 (AoE)  -- Deadline (DS) -- Submission
 - June 3rd, 2020 (AoE) -- Deadline (DD) -- Submission of a solver description via Easychair
-<!--- July 1st, 2019: Announcement of the results
+<!-- July 1st, 2019: Announcement of the results
 - September 11-13, 2019 (International Symposium on Parameterized and Exact Computation ([IPEC 2019](http://fpt.wikidot.com/ipec)) in Munich, Germany)
   - Award ceremony
   - Poster Session (tbd) -->
