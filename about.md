@@ -14,9 +14,10 @@ The 1st international competition on model counting (MC-2020) is a competition t
 
 ## Field of Research -->
 
-Model counting is very vibrant field that provided both recent advances in theory as well as in practical solving including various applications. State-ofthe-art SAT or WMC (weighted model counting) search engines so far rely on standard techniques from SAT-based solving, knowledge compilation, or approximate solving by means of sampling using SAT solvers. There have been also successful implementations for parallel and distributed computation as well as massively parallel computation approaches.  
+Model counting is very vibrant field that provided both recent advances in theory as well as in practical solving including various applications. State-of-the-art SAT or WMC (weighted model counting) search engines so far rely on standard techniques from SAT-based solving, knowledge compilation, or approximate solving by means of sampling using SAT solvers. There have been also successful implementations for parallel and distributed computation as well as massively parallel computation approaches.  
 <!-- Beside the theoretical research there are many implementations available, just to name some state of the art solvers, c2d, d4, DSHARP, miniC2D, cnf2eadt, bdd_minisat_all, and sdd (based on knowledge compilation techniques); ApproxMC4, and sts (based on approximate counting or sampling); Cache, sharpCDCL4, and sharpSAT (CDCL-based solvers using component caching); gpusat, countAntom, and dCountAntom) (parallel or distributed solvers). There are also preprocessors available B+E and pmc. Many solvers are highly competitive and solve various instances. However, there has still not been a competition on the topics related to model counting.  -->
 
+---
 
 <!-- # Sponsors -->
 
