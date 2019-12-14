@@ -18,6 +18,10 @@ menu:
     link: /news
     icon: ""
 
+  - text: About Model Counting
+    link: /about
+    icon: ""
+
   - text: Organization
     link: /
     icon: ""
@@ -29,11 +33,6 @@ menu:
   - text: Submission & Important Dates
     link: /dates
     icon: ""
-
-  - text: About Model Counting
-    link: /about
-    icon: ""
-
 
 
 # Socialmedia Icons
