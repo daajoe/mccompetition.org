@@ -34,7 +34,9 @@ If the solver does not output the exact solution - the solver will not be disqua
 ### Instances
 
 TBA
-<!--Download: [**Download (Updated: March 05, 2019) Public Instances (Exact)**](/files/pace2019-vc-exact-public-v2.tar.bz2)
+
+<!--
+Download: [**Download (Updated: March 05, 2019) Public Instances (Exact)**](/files/pace2019-vc-exact-public-v2.tar.bz2)
 
 For verification purposes, we also publish the sha1sum of the public archive:
 
