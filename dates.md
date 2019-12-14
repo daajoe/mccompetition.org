@@ -38,7 +38,7 @@
 
 
 
-##### Solver
+#### Solver
 
 - Content of the Repository 
   -  LICENSE.md or LICENSE.txt file at the root
@@ -47,7 +47,7 @@
       -  Language specific file for easy installation (e.g., *CMakeLists.txt* for cmake or *environment.yaml* for anaconda); the file is not mandatory, however, we encourage to provide it at the time of the submission of the solver description
 
 
-##### Solver Description
+#### Solver Description
 - Latex Style [LIPIcs](https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/)
 - 2+ pages
 - Should briefly describe the used techniques and references to the original publications. 
