@@ -1,7 +1,14 @@
 ---
 ---
 
-# About
+# MC 2020 - Introduction
+
+The 1st international competition on model counting (MC-2020) is a competition to deepen the relationship between latest theoretical and practical development on the various model counting problems and their practical applications. It targets the problem of counting the number of models of a Boolean formula. MC-2020 aims to identify new challenging benchmarks and to promote new solvers for the problem as well as to compare them with state-of-the-art solvers. The MC-2020 follows a direction in the community of constraint solving, where already many competitions have been organized such as on [ASP](https://sites.google.com/view/aspcomp2019/) (7 editions), [CSP](http://xcsp.org/competition) (19 editions), [SAT](http://sat-race-2019.ciirc.cvut.cz/) (19 editions), [SMT](https://smt-comp.github.io/2019/) (14 editions), [MaxSAT](https://maxsat-evaluations.github.io/2019/) Evaluation (13 editions), [QBF](http://www.qbflib.org/) (8 editions).
+
+---
+
+
+# Model Counting
 
 <!-- ---
 
@@ -13,12 +20,7 @@ Model counting is very vibrant field that provided both recent advances in theor
 
 <!-- # Sponsors -->
 
----
 
-#  Applied Computational Methods and Programs
-The solving algorithms will be based on various combinatorial modeling and solving paradigms. As programming languages we plan to allow C, C++, C#, Java8, Java10, Python2, Python3, Rust, and VB.NET. The source code of the solvers have to be released under an open source license (e.g. GPL, MIT, or public domain). The used solvers in the back-end may include commercial solvers such as [IBM Cplex](http://www-01.ibm.com/software/integration/optimization/cplex-optimizer), [gurobi](https://www.gurobi.com/), as well as open source solvers. For parallel solving on GPUs, we aim for Nvidia cuda.
-
----
 
 <!-- # Previous Work
 
