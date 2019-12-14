@@ -31,6 +31,64 @@ The odd instances are public and the even instances will be provided later (secr
 
 If the solver does not output the exact solution - the solver will not be disqualified, which ensures that we do not require arbitrary precision.
 
+### Input Instance Format
+
+Input files are given in [DIMACS CNF format](https://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html).
+
+#### DIMACS CNF (.dimacs)
+
+* Line separator ‘\n’
+* Lines starting with character c are interpreted as comments
+* Variables are consecutively numbered from 1 to n
+* Problem description
+  * Form "p cnf NumVariables NumClauses"
+    * Line starting with character p 
+    * followed by the problem descriptor cnf 
+    * followed by number n of variables
+    * followed by number m of clauses
+    * each separated by space each time
+  * Unique (No other line may start with p)
+  * Has to be the first line (except comments)
+* Remaining lines indicate clauses
+  * consisting of decimal integers separated by space
+  * Lines are terminated by character "0"
+  * Line "2 -1 3 0\n" indicates the clause "2 or not 1 or 3"
+* Empty lines or lines consisting of spaces may occur and only will be ignored  
+
+Example:
+
+```AsciiDoc
+c This file describes a DIMACS CNF in MC 2020 format with 6 variables and 4 clauses 
+p cnf 6 4
+-1 -2 0
+2 3 -2 0
+c this is a comment and will be ignored
+4 5 0
+4 6 0
+```
+
+### Output Format (.mc)
+
+* Line separator ‘\n’
+* Lines starting with character c are interpreted as comments
+* Vertices are consecutively numbered from 1 to n
+* Solution description
+  * Form "s mc numSolutions"
+    * Line starting with character s
+    * followed by the problem descriptor mc 
+    * followed by number numSolutions indicating the model count
+    * each separated by space each time
+  * Unique (No other line may start with s)
+  * Has to be the first line (except comments)
+* Empty lines or lines consisting of spaces may occur and only will be ignored  
+
+
+```AsciiDoc
+c This file describes that the model count is 5
+s mc 5
+```
+
+
 ### Instances
 
 TBA
