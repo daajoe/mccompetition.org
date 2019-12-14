@@ -111,7 +111,7 @@ e7ca305528a0257235a95c41742f2b3431e1e485  | pace2019-vc-exact-public-v2.tar.bz2-
 ---
 
 
-## Track 2: Weighed Model Counting 
+## Track 2: Weighted Model Counting 
 
 Solver submissions for this track should output for a given Boolean formula,
 and a weight function, the weighted model count of the instance.
