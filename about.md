@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# The Problem: Model Counting
+# The Problems: (Weighted) Model Counting
 
-Given a Boolean formula the model counting problem, MC for short, asks to output the number of models (satisfying assignments) of a formula. If in addition each literal in the formula has an associated weight and we are interested in the sum of weights of all models, where the weight of a model is the product of the weights of its literals, we speak about weighted model counting (WMC).
+Given a Boolean formula the _model counting problem (MC)_ for short, asks to output the number of models (satisfying assignments) of a formula. If in addition each literal in the formula has an associated weight and we are interested in the sum of weights of all models, where the weight of a model is the product of the weights of its literals, we speak about _weighted model counting (WMC)_.
 
 ---
 
@@ -16,7 +16,7 @@ Many computational problems in modern society account to probabilistic reasoning
 
 ## Computational Complexity
 
-While the task of deciding whether a formula has a solution (SAT) is already known to be NP-complete, its generalization MC is even harder. Namely, MC is known to be #P-complete. Actually, this is computationally very hard, as for any problem in the polynomial hierarchy there is a deterministic polynomial-time Turing reduction to a the model counting problem or in other words every problem on the polynomial hierarchy can be solved polynomial-time by a machine that uses the model counting problem as an oracle.
+While the task of deciding whether a formula has a solution (SAT) is already known to be NP-complete, its generalization (W)MC is even harder. Namely, (W)MC is known to be #P-complete. Actually, this is computationally very hard, as for any problem in the polynomial hierarchy there is a deterministic polynomial-time Turing reduction to a the model counting problem or in other words every problem on the polynomial hierarchy can be solved polynomial-time by a machine that uses the model counting problem as an oracle.
 
 ---
 

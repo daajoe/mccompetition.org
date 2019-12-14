@@ -4,11 +4,11 @@
 
 # Competition Tracks
 
-The challenge will likely consists of two separate tracks: 
-* exact counting and
-* heuristic or weighted counting (sum-of-weights)
+The challenge consists of two separate tracks: 
+* [Model Counting (MC)](about.md), and
+* [Weighted Model Counting (WMC)](about.md)
 
-The problem is known to be computationally hard.
+
 
 ---
 
