@@ -29,7 +29,7 @@ Previous simulations included works on the [Turing](https://www.cs.uni-potsdam.d
 
 --- -->
 
-# Organizers
+# Organization
 
 ### Program Co-Chair
 * Markus Hecher (TU Wien, Vienna)
