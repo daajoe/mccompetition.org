@@ -18,15 +18,15 @@
   -->
 
   <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Model Counting Competition</title>
+<title>Model Counting Competition MC 2020</title>
 <meta name="generator" content="Jekyll v3.8.6" />
-<meta property="og:title" content="Model Counting Competition" />
+<meta property="og:title" content="Model Counting Competition MC 2020" />
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="http://localhost:4000/" />
 <meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="Model Counting Competition" />
+<meta property="og:site_name" content="Model Counting Competition MC 2020" />
 <script type="application/ld+json">
-{"@type":"WebSite","url":"http://localhost:4000/","headline":"Model Counting Competition","name":"Model Counting Competition","@context":"https://schema.org"}</script>
+{"@type":"WebSite","url":"http://localhost:4000/","name":"Model Counting Competition MC 2020","headline":"Model Counting Competition MC 2020","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -55,31 +55,25 @@
     
     <ul class="pan-layout-left__menu">
       
-
       <li data-menu-link="/news">
-        <a href="/">News</a>
+        <a href="/news">News</a>
       </li>
-
-
+      
       <li data-menu-link="/about">
+        <a href="/about">About Model Counting</a>
+      </li>
+      
+      <li data-menu-link="/">
         <a href="/">Organization</a>
       </li>
-
-
+      
       <li data-menu-link="/model-counting-competition">
-        <a href="/about">Competition Tracks</a>
+        <a href="/model-counting-competition">Competition Tracks</a>
       </li>
-
+      
       <li data-menu-link="/dates">
-        <a href="/about">Calls & Important Dates</a>
+        <a href="/dates">Submission & Important Dates</a>
       </li>
-     
-      
-      <!--<li data-menu-link="/past-challenges">
-        <a href="/past-challenges">Past Challenges</a>
-      </li>-->
-      
-      
       
     </ul>
     
@@ -127,7 +121,7 @@
   <div class="pan-layout-header__content">
     <div class="pan-layout-header__avatar">
       MC 2020
-      <!-- <span>Model Counting Competition</span>
+      <!-- <span>Model Counting Competition MC 2020</span>
       
       
       <img src="https://secure.gravatar.com/avatar/?d=mm&r=g&s=40" alt="">
@@ -137,24 +131,76 @@
 </section>
 
       <section class="pan-layout-content">
-        <h1 id="the-problem">The Problem</h1>
+        <h1 id="mc-2020">MC 2020</h1>
 
-<p>Given a Boolean formula the model counting problem, MC for short, asks to output the number of models (satisfying assignments) of a formula. If in addition each literal in the formula has an associated weight and we are interested in the sum of weights of all models, where the weight of a model is the product of the weights of its literals, we speak about weighted model counting (WMC).</p>
+<p>The <em>1st International Competition on Model Counting (MC 2020)</em> is a competition to deepen the relationship between latest theoretical and practical development on the various model counting problems and their practical applications. It targets the problem of counting the number of models of a Boolean formula.</p>
+
+<p>MC 2020 aims to identify new challenging benchmarks and to promote new solvers for the problem as well as to compare them with state-of-the-art solvers. The MC 2020 follows a direction in the community of constraint solving, where already many competitions have been organized such as on <a href="https://sites.google.com/view/aspcomp2019/">ASP</a> (7 editions), <a href="http://xcsp.org/competition">CSP</a> (19 editions), <a href="http://sat-race-2019.ciirc.cvut.cz/">SAT</a> (19 editions), <a href="https://smt-comp.github.io/2019/">SMT</a> (14 editions), <a href="https://maxsat-evaluations.github.io/2019/">MaxSAT</a> Evaluation (13 editions), <a href="http://www.qbflib.org/">QBF</a> (8 editions).</p>
+
+<h2 id="for-competition-details-we-refer--to-the-submission-information">For competition details, we refer <!--to the [Tracks of MC 2020](model-counting-competition.md) and--> to the <a href="dates.md">Submission Information</a>.</h2>
+
+<h1 id="model-counting">Model Counting</h1>
+
+<!-- ---
+
+## Field of Research -->
+
+<p>Model counting is very vibrant field that provided both recent advances in theory as well as in practical solving including various applications. State-of-the-art SAT or WMC (weighted model counting) search engines so far rely on standard techniques from SAT-based solving, knowledge compilation, or approximate solving by means of sampling using SAT solvers. There have been also successful implementations for parallel and distributed computation as well as massively parallel computation approaches.</p>
+
+<p>For further details on the problem, we refer to the <a href="about.md">page on model counting</a>.
+<!-- Beside the theoretical research there are many implementations available, just to name some state of the art solvers, c2d, d4, DSHARP, miniC2D, cnf2eadt, bdd_minisat_all, and sdd (based on knowledge compilation techniques); ApproxMC4, and sts (based on approximate counting or sampling); Cache, sharpCDCL4, and sharpSAT (CDCL-based solvers using component caching); gpusat, countAntom, and dCountAntom) (parallel or distributed solvers). There are also preprocessors available B+E and pmc. Many solvers are highly competitive and solve various instances. However, there has still not been a competition on the topics related to model counting.  --></p>
 
 <hr />
 
-<h2 id="applications">Applications</h2>
+<!-- # Sponsors -->
 
-<p>Many computational problems in modern society account to probabilistic reasoning, statistics, and combinatorics. Examples of such problems are identifying the reliability of energy infrastructure recognizing spam, or learning preference distributions, carrying out patient case simulations, or predicting weather. A variety of these real-world problems can be solved by representing the question in (Boolean) formulas and associating the number of models of the formula directly with the answer to the question.</p>
+<!-- # Previous Work
+
+Previous simulations included works on the [Turing](https://www.cs.uni-potsdam.de/bs/research/labs.html#turing) and [Zuse](https://www.cs.uni-potsdam.de/bs/research/labsZuse.html) Cluster at University of Potsdam for various projects. As well as various clusters at TU Wien, more detailed, [Behemoth](https://www.ac.tuwien.ac.at/students/), Cobra, which Markus and I helped to congure for operations, and Lion used for the ASP'14 Competition at FLoC Clusters. In addition, we contributed to [benchmark-tools](https://github.com/potassco/benchmark-tool), which allow reproducibility of benchmarks under various cluster schedulers. Finally, Markus Hecher and I were organizers of the 4th Parameterized Algorithms and Computational Experiments Challenge (PACE 2019).
+
+--- -->
+
+<h1 id="organization">Organization</h1>
+
+<h3 id="program-co-chair">Program Co-Chair</h3>
+<ul>
+  <li>Markus Hecher (TU Wien, Vienna)</li>
+  <li>Johannes K. Fichte (TU Dresden, Dresden)</li>
+</ul>
+
+<h3 id="student">Student</h3>
+<ul>
+  <li>Florim Hamiti (TU Dresden, Dresden)</li>
+</ul>
+
+<h3 id="scientific-partners">Scientific Partners</h3>
+<ul>
+  <li>Adnan Darwiche (University of California at Los Angeles)</li>
+  <li>Arthur Choi (University of California at Los Angeles)</li>
+  <li>Armin Biere (Johannes Kepler Universitat Linz)</li>
+  <li>Kuldeep S. Meel (National University of Singapore)</li>
+  <li>Markus Hecher (TU Wien)</li>
+  <li>Johannes K. Fichte (TU Dresden)</li>
+  <li>Marijn Heule (Carnegie Mellon University)</li>
+  <li>Norbert Manthey (Amazon AWS Dresden)</li>
+  <li>Stefan Mengel (CNRS at Centre de Recherche en Informatique de Lens)</li>
+  <li>Pierre Marquis (CNRS at Centre de Recherche en Informatique de Lens and Université d’Artois)</li>
+  <li>Fahim Bacchus (University of Toronto)</li>
+  <li>Vibhav Gogate (University of Texas at Dallas)</li>
+</ul>
+
+<h3 id="evaluation-plattform--optilio">Evaluation Plattform / optil.io</h3>
+<p>Szymon Wasik (Poznan University of Technology, Poznan)</p>
+
+<h2 id="sponsors">Sponsors</h2>
+
+<p>On behalf of the Program Committee of MC 2020, we invite you to participate in the sponsoring of metals and travel support for the winners.</p>
+
+<p><a href="https://data-experts.de">data-experts</a> already announced sponsoring for MC 2020.</p>
+
+<p><img src="/assets/img/data-experts-logo.jpg" alt="data-experts" style="width: 300px;" /></p>
 
 <hr />
-
-<h2 id="computational-complexity">Computational Complexity</h2>
-
-<p>While the task of deciding whether a formula has a solution (SAT) is already known to be NP-complete, its generalization MC is even harder. Namely, MC is known to be #P-complete. Actually, this is computationally very hard, as for any problem in the polynomial hierarchy there is a deterministic polynomial-time Turing reduction to a the model counting problem or in other words every problem on the polynomial hierarchy can be solved polynomial-time by a machine that uses the model counting problem as an oracle.</p>
-
-<hr />
-
 
       </section>
 
