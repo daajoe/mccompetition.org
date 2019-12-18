@@ -5,7 +5,7 @@
 
 - December 18th, 2019: Announcement of the challenge (Tracks)
 - December 22th, 2019: Call for Benchmarks
-- May 6nd, 2020 (AoE)  -- Deadline (DS) -- Submission
+- May 22th, 2020 (AoE)  -- Deadline (DS) -- Submission
 - June 3rd, 2020 (AoE) -- Deadline (DD) -- Submission of a solver description via Easychair
 
 
@@ -67,7 +67,6 @@ September 11-13, 2019 (International Symposium on Parameterized and Exact Comput
 
 
 #### Solver Description
-- Latex Style [LIPIcs](https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/)
 - 2+ pages
 - Should briefly describe the used techniques and references to the original publications. 
 
