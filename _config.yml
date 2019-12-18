@@ -9,7 +9,7 @@ defaults:
 title: Model Counting Competition MC 2020
 # subtitle: Full-Stack Developer
 
-baseurl: "mc_test"
+baseurl: ""
 url: ""
 
 # Side Menu Links
