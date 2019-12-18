@@ -67,6 +67,7 @@ On behalf of the Program Committee of MC 2020, we invite you to participate in t
 
 
 [data-experts](https://data-experts.de) already announced sponsoring for MC 2020.
+
 <img src="assets/images/data-experts-logo.png" alt="data-experts" style="width: 300px;"/>
 
 ---
