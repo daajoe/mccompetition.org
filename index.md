@@ -53,7 +53,7 @@ Previous simulations included works on the [Turing](https://www.cs.uni-potsdam.d
 * Marijn Heule (Carnegie Mellon University)
 * Norbert Manthey (Amazon AWS Dresden)
 * Stefan Mengel (CNRS at Centre de Recherche en Informatique de Lens)
-* Pierre Marquis (CNRS at Centre de Recherche en Informatique de Lens and Universite d'Artois)
+* Pierre Marquis (CNRS at Centre de Recherche en Informatique de Lens and Université d'Artois)
 * Fahim Bacchus (University of Toronto)
 * Vibhav Gogate (University of Texas at Dallas)
 
