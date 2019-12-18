@@ -66,8 +66,7 @@ Szymon Wasik (Poznan University of Technology, Poznan)
 On behalf of the Program Committee of MC 2020, we invite you to participate in the sponsoring of metals and travel support for the winners.
 
 
-[data-experts](https://data-experts.de) already announced sponsoring for MC 2020. 
-
+[data-experts](https://data-experts.de) already announced sponsoring for MC 2020.
 <img src="assets/images/data-experts-logo.png" alt="data-experts" style="width: 300px;"/>
 
 ---
