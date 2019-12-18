@@ -7,7 +7,7 @@ The _1st International Competition on Model Counting (MC 2020)_ is a competition
 
 MC 2020 aims to identify new challenging benchmarks and to promote new solvers for the problem as well as to compare them with state-of-the-art solvers. The MC 2020 follows a direction in the community of constraint solving, where already many competitions have been organized such as on [ASP](https://sites.google.com/view/aspcomp2019/) (7 editions), [CSP](http://xcsp.org/competition) (19 editions), [SAT](http://sat-race-2019.ciirc.cvut.cz/) (19 editions), [SMT](https://smt-comp.github.io/2019/) (14 editions), [MaxSAT](https://maxsat-evaluations.github.io/2019/) Evaluation (13 editions), [QBF](http://www.qbflib.org/) (8 editions).
 
-For competition details, we refer <!--to the [Tracks of MC 2020](model-counting-competition.md) and--> to the [Submission Information](dates.md).
+For competition details, we refer <!--to the [Tracks of MC 2020](model-counting-competition.md) and--> to the [Submission Information](dates).
 ---
 
 
@@ -19,7 +19,7 @@ For competition details, we refer <!--to the [Tracks of MC 2020](model-counting-
 
 Model counting is very vibrant field that provided both recent advances in theory as well as in practical solving including various applications. State-of-the-art SAT or WMC (weighted model counting) search engines so far rely on standard techniques from SAT-based solving, knowledge compilation, or approximate solving by means of sampling using SAT solvers. There have been also successful implementations for parallel and distributed computation as well as massively parallel computation approaches. 
 
-For further details on the problem, we refer to the [page on model counting](about.md).
+For further details on the problem, we refer to the [page on model counting](about).
 <!-- Beside the theoretical research there are many implementations available, just to name some state of the art solvers, c2d, d4, DSHARP, miniC2D, cnf2eadt, bdd_minisat_all, and sdd (based on knowledge compilation techniques); ApproxMC4, and sts (based on approximate counting or sampling); Cache, sharpCDCL4, and sharpSAT (CDCL-based solvers using component caching); gpusat, countAntom, and dCountAntom) (parallel or distributed solvers). There are also preprocessors available B+E and pmc. Many solvers are highly competitive and solve various instances. However, there has still not been a competition on the topics related to model counting.  -->
 
 ---

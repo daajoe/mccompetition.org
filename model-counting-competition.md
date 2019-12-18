@@ -10,7 +10,7 @@ The challenge consists of two separate tracks:
 
 Note that we only allow non-parallel solvers.
 For more details on active calls for benchmark instances and participation, 
-we refer to [Submission & Important Dates](dates.md).
+we refer to [Submission & Important Dates](dates).
 
 ## Benchmark Instances
 
@@ -32,7 +32,7 @@ The odd instances are public and the even instances will be provided later (secr
 
 Solver submissions for this track should output for a given Boolean formula
 the model count of the instance.
-For more details of the problem, we refer to [Model Counting](about.md).
+For more details of the problem, we refer to [Model Counting](about).
 If the solver does not output the exact model count - the solver will not be disqualified, which ensures that we do not require arbitrary precision.
 
 ### Input Instance Format
@@ -115,7 +115,7 @@ e7ca305528a0257235a95c41742f2b3431e1e485  | pace2019-vc-exact-public-v2.tar.bz2-
 
 Solver submissions for this track should output for a given Boolean formula,
 and a weight function, the weighted model count of the instance.
-For more details of the problem, we refer to [Weighted Model Counting](about.md).
+For more details of the problem, we refer to [Weighted Model Counting](about).
 The provided weighted model count does not have to be exact, but we expect 1% accuracy.
 
 
