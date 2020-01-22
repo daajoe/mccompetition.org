@@ -4,7 +4,7 @@
 # Important Dates
 
 - December 18th, 2019: Announcement of the challenge (Tracks)
-- December 22th, 2019: Call for Benchmarks
+- January 22nd, 2019: Call for Benchmarks
 - May 22th, 2020 (AoE)  -- Deadline (DS) -- Submission
 - June 3rd, 2020 (AoE) -- Deadline (DD) -- Submission of a solver description via Easychair
 
@@ -28,7 +28,16 @@ September 11-13, 2019 (International Symposium on Parameterized and Exact Comput
 
 ## Call for Benchmarks
 
+Model Counting Competition MC 2020 invites submission of collections of (weighted) model counting instances in the standard DIMACS-based submission formats as given at 
+the [competition tracks](model-counting-competition).
 
+### Submission Procedure
+
+A benchmark submission should consist of a single zip or gzipped tar package, containing the instance files and a description of the benchmarks.
+Please use appropriate file naming conventions, where suited. Ideally, each instance file name should contain a short descriptive part for the problem domain as well as the parameters used for generating the instance as applicable.
+The benchmark description description must be be submitted as PDF. The description should include author information with affiliations, a description of the problem domains, a description of the parameters used for generating the instances, and the file name convention. References should be used as appropriate.
+The benchmark descriptions will be posted on the MC 2020 website. Furthermore, the organizers are considering publishing the collection of system and benchmark descriptions on arxiv.
+Please submit benchmarks by email to [benchmarks@mccompetition.org](mailto:benchmarks@mccompetition.org) using the subject title "MC 2020 benchmark submission" by *March 5 AoE* the latest.
 
 ## Call for Participation
 
