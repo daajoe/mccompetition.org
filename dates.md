@@ -5,6 +5,7 @@
 
 - December 18th, 2019: Announcement of the challenge (Tracks)
 - January 22nd, 2019: Call for Benchmarks
+- March 5th, 2020 (AoE)  -- Deadline  -- Benchmark Submission
 - May 22th, 2020 (AoE)  -- Deadline (DS) -- Submission
 - June 3rd, 2020 (AoE) -- Deadline (DD) -- Submission of a solver description via Easychair
 
@@ -43,7 +44,7 @@ Please submit benchmarks by email to [benchmarks@mccompetition.org](mailto:bench
 
 #### Registration
 1. Register at optil.io (<https://www.optil.io/optilion/login>)
-2. Access Easychair (<https://easychair.org/conferences/?conf=mc2020>) and register your group 
+2. Access Easychair (TBA, <https://easychair.org/conferences/?conf=TBA>) and register your group 
    - Use as title of the paper your login name at optil
    - Place the name of your solver in the abstract
 3. Submit your solution via optil (as soon as the optil submission is open) 
@@ -57,11 +58,11 @@ Please submit benchmarks by email to [benchmarks@mccompetition.org](mailto:bench
  However, please contact us in advance, since we need to get it running on optil.io. 
 4. Submissions Solver: Deadline (DS)
    1. Submission via [optil.io](https://www.optil.io/optilion/)
-   2. Register solver and participants via [EasyChair](https://easychair.org/conferences/?conf=mc2020)
+   2. Register solver and participants via [EasyChair](https://easychair.org/conferences/?conf=TBA)
    3. Create a release in the public repository of the solver (name: mc-2020)
 5. Submission Description: Deadline (DD)
    1. Place the source code of the solver in a digital library (e.g., [Zenodo](https://zenodo.org/)) and generate a DOI 
-   2. Submit solver description via [EasyChair](https://easychair.org/conferences/?conf=mc2020) use DOI to refer to the solver and include a reference to the public source code repository 
+   2. Submit solver description via [EasyChair](https://easychair.org/conferences/?conf=TBA) use DOI to refer to the solver and include a reference to the public source code repository 
 <!--For parallel solving on GPUs, we aim for Nvidia cuda.-->
 
 
