@@ -36,7 +36,7 @@ the [competition tracks](model-counting-competition).
 
 A benchmark submission should consist of a single zip or gzipped tar package, containing the instance files and a description of the benchmarks.
 Please use appropriate file naming conventions, where suited. Ideally, each instance file name should contain a short descriptive part for the problem domain as well as the parameters used for generating the instance as applicable.
-The benchmark description description must be be submitted as PDF. The description should include author information with affiliations, a description of the problem domains, a description of the parameters used for generating the instances, and the file name convention. References should be used as appropriate.
+The benchmark description must be submitted as PDF. The description should include author information with affiliations, a description of the problem domains, a description of the parameters used for generating the instances, and the file name convention. References should be used as appropriate.
 The benchmark descriptions will be posted on the MC 2020 website. Furthermore, the organizers are considering publishing the collection of system and benchmark descriptions on arxiv.
 Please submit benchmarks by email to [benchmarks@mccompetition.org](mailto:benchmarks@mccompetition.org) using the subject title "MC 2020 benchmark submission" by *March 5 AoE* the latest.
 
