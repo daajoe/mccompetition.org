@@ -51,7 +51,7 @@ Previous simulations included works on the [Turing](https://www.cs.uni-potsdam.d
 * Markus Hecher (TU Wien)
 * Johannes K. Fichte (TU Dresden)
 * Marijn Heule (Carnegie Mellon University)
-* Norbert Manthey (Amazon AWS Dresden)
+* Norbert Manthey
 * Stefan Mengel (CNRS at Centre de Recherche en Informatique de Lens)
 * Pierre Marquis (CNRS at Centre de Recherche en Informatique de Lens and Université d'Artois)
 * Fahim Bacchus (University of Toronto)
