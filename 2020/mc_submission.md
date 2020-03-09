@@ -1,36 +1,12 @@
 ---
 ---
+# Model Counting Competition: Submission Information
 
-# Important Dates
-
-- December 18th, 2019: Announcement of the challenge (Tracks)
-- January 22nd, 2019: Call for Benchmarks
-- March 5th, 2020 (AoE)  -- Deadline  -- Benchmark Submission
-- May 22th, 2020 (AoE)  -- Deadline (DS) -- Submission
-- June 3rd, 2020 (AoE) -- Deadline (DD) -- Submission of a solver description via Easychair
-
-
-
-<!-- November 16th, 2018: Announcement of the tracks and additional informations (input formats and problem feasibility checker are available online)
-December 10th, 2018: Public htd instances are available
-January 7th, 2019: Public vc instances are available
-March 8th, 2019: Leaderboard online (by organizers) and submission *open* for preliminary versions (bugfixing for the authors and initial comparison on public instances)-->
-
-<!-- July 1st, 2019: Announcement of the results
-September 11-13, 2019 (International Symposium on Parameterized and Exact Computation ([IPEC 2019](http://fpt.wikidot.com/ipec)) in Munich, Germany)
- Award ceremony
- Poster Session (tbd) -->
-
-
-
----
-
-# Submission Information
 
 ## Call for Benchmarks
 
-Model Counting Competition MC 2020 invites submission of collections of (weighted) model counting instances in the standard DIMACS-based submission formats as given at 
-the [competition tracks](model-counting-competition).
+Model Counting Competition MC 2020 invites submission of collections of (weighted) model counting instances in the 
+standard DIMACS-based submission formats as given at the [competition tracks and format](mc_format).
 
 ### Submission Procedure
 
@@ -42,9 +18,11 @@ Please submit benchmarks by email to [benchmarks@mccompetition.org](mailto:bench
 
 ## Call for Participation
 
+- DIMACS-based submission formats as given at the [competition format description](mc_format).
+
 #### Registration
 1. Register at optil.io (<https://www.optil.io/optilion/login>)
-2. Access Easychair (TBA, <https://easychair.org/conferences/?conf=TBA>) and register your group 
+2. Access Easychair (mc2020, <https://easychair.org/conferences/?conf=mc2020>) and register your group 
    - Use as title of the paper your login name at optil
    - Place the name of your solver in the abstract
 3. Submit your solution via optil (as soon as the optil submission is open) 

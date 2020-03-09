@@ -6,8 +6,11 @@ defaults:
     values:
       layout: default
 
-title: Model Counting Competition MC 2020
-# subtitle: Full-Stack Developer
+title: Model Counting
+email: daajoe@users.noreply.github.com
+description: >-
+  Model Counting
+tagline: Since 2020
 
 baseurl: ""
 url: ""
@@ -17,41 +20,42 @@ menu:
   - text: News
     link: /news
     icon: ""
+    #TODO: Newsletter
 
-  - text: About Model Counting
-    link: /about
+#  - text: About
+#    link: /2020/about
+#    icon: ""
+
+  - text: Competition<br> (MC 2020)
+    link: /2020/mc_description
     icon: ""
 
-  - text: Organization
-    link: /
+  - text: Workshop<br> (MCW 2020)
+    link: /2020/mcw_description
     icon: ""
 
-  - text: Competition Tracks
-    link: /model-counting-competition
+  - text: Submission &<br>Important Dates
+    link: /2020/dates
     icon: ""
 
-  - text: Submission & Important Dates
-    link: /dates
+  - text: Program
+    link: /2020/mcw_program
     icon: ""
 
 
 # Socialmedia Icons
 social_icons:
-  - name: linkedin
-    # link: https://www.linkedin.com/christianezeani
-    icon: fab fa-linkedin
+#  - name: rssfeed
+#    link: https://mccompetition.org/feed.xml
+#    icon: fab fa-rssfeed
 
   - name: github
-    # link: https://github.com/christianezeani
+    link: https://github.com/daajoe/mccompetition.org
     icon: fab fa-github-square
 
-  # - name: facebook
-  #   link: https://www.facebook.com/christian.ezeani.cyb
-  #   icon: fab fa-facebook-square
-
-  - name: twitter
+#  - name: twitter
     # link: https://www.twitter.com/christianezeani
-    icon: fab fa-twitter
+#    icon: fab fa-twitter
 
 
     
