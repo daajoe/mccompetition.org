@@ -43,18 +43,18 @@ Consult the [SAT 2020 Registration](https://sat2020.idea-researchlab.org/registr
 
 See [submission instructions page](mcw_submission)
 
-## Committee
+<!--## Committee -->
 
-### Chairs
+## Organizers
 
 - Florent Capelli, University of Lille, France
 - Johannes K. Fichte, TU Dresden, Germany
 - Kuldeep Meel, NUS, Singapore
 - Markus Hecher, TU Wien, Austria
-- Stefan Mengel, CRIL, France
+- Stefan Mengel, CNRS, France
 
-### Program Committee
-- tba
+<!-- ### Program Committee
+- tba -->
 
 
 ## Contact 
@@ -64,13 +64,13 @@ For any questions related to the workshop, the preferred solution to contact the
 Johannes Fichte<br />
 TU Dresden<br />
 Fakultät Informatik<br />
-01062 Dresden, GERMANY<br />	
+01062 Dresden, Germany<br />	
 
 Markus Hecher<br />
 Technische Universität Wien<br />
 Institut für Logic and Computation 192-02<br />
 Forschungsbereich für Datenbanken und Artificial Intelligence<br />
 Favoritenstraße 9<br />
-A-1040 Wien, AUSTRIA
+A-1040 Wien, Austria
 
 ---
