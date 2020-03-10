@@ -50,7 +50,7 @@ See [submission instructions page](mcw_submission)
 - Florent Capelli, University of Lille, France
 - Johannes K. Fichte, TU Dresden, Germany
 - Kuldeep Meel, NUS, Singapore
-- Markus Hecher, TU Wien, Austira
+- Markus Hecher, TU Wien, Austria
 - Stefan Mengel, CRIL, France
 
 ### Program Committee

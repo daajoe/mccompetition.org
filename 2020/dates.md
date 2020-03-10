@@ -6,10 +6,10 @@
 
 - December 18th, 2019: Announcement of the challenge (Tracks)
 - January 22nd, 2019: Call for Benchmarks
-- <span style="color:blue">__March 15th, 2020 (AoE) / Extended  -- Deadline  -- Benchmark Submission__</span>
-- March 25th, 2020 (AoE)  Optil System Open for Submissions
-- May 22th, 2020 (AoE)  -- Deadline (DS) -- Submission
-- June 3rd, 2020 (AoE) -- Deadline (DD) -- Submission of a solver description via Easychair
+- <span style="color:blue">__March 15th, 2020 (AoE) / Extended:  -- Deadline  -- Benchmark Submission__</span>
+- March 25th, 2020 (AoE):  Optil System Open for Submissions
+- May 22th, 2020 (AoE):  -- Deadline (DS) -- Submission
+- June 3rd, 2020 (AoE): -- Deadline (DD) -- Submission of a solver description via Easychair
 
 
 
@@ -46,7 +46,7 @@ September 11-13, 2019 (International Symposium on Parameterized and Exact Comput
 - [EasyChair proceedings style](https://easychair.org/publications/easychair.zip)
 - Length:
   - Long papers: <=14 pages + references
-  - Short papers 2-6 pages + references
+  - Short papers: 2-6 pages + references
 
 [Detailed Submission information](mcw_submission).
 

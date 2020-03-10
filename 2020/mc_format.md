@@ -191,10 +191,11 @@ s wmc 5.53
 
 ## Track 3: Projected Model Counting 
 
-Solver submissions for this track should output for a given Boolean formula,
-and a weight function, the weighted model count of the instance.
+Solver submissions for this track should output, for a given Boolean formula
+and set of projection variables, the projected model count of the instance.
 For more details of the problem, we refer to [Projected Model Counting](about).
-The provided weighted model count does not have to be exact, but we expect 1% accuracy.
+If the solver does not output the exact projected model count - the solver will not be disqualified, but the instance 
+will count as not solved. This ensures that we do not require arbitrary precision.
 
 
 ### Input Instance Format
@@ -221,6 +222,7 @@ Input files are given in _Projected CNF format_, which is a slight extension of
 * Set of projected variables 
   * Line of the form "vp VARID1 VARID2 VARID3 0"
   * Unique (No other line may start with vp)
+  * Line may occur at any time after the p line, esp. also as last line in the file
   * Defines the projected variables, i.e., variables that are important and which are the ones that _will_ be considered for the count
   * Consisting of decimal integers separated by space
   * Lines are terminated by character "0"

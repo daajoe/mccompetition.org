@@ -15,7 +15,7 @@ layout: default
 
 
 ## Projected Model Counting (pmc) 
-- Given: a Boolean formula F and a set P of projection atoms; 
+- Given: a Boolean formula F and a set P of projection variables; 
 - Task: output the number of models of F that are different when models are restricted to the variables that occur in P.
 
 
