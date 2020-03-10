@@ -226,7 +226,8 @@ Input files are given in _Projected CNF format_, which is a slight extension of
   * Defines the projected variables, i.e., variables that are important and which are the ones that _will_ be considered for the count
   * Consisting of decimal integers separated by space
   * Lines are terminated by character "0"
-  * Line "vp 1 2 0\n" indicates the set {1, 2} of projection variables 
+  * Line "vp 1 2 0\n" indicates the set {1, 2} of projection variables
+  * 1 <= VARID <= n (n... number of variables)   
 * Remaining lines indicate clauses
   * consisting of decimal integers separated by space
   * Lines are terminated by character "0"
