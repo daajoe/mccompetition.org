@@ -2,9 +2,23 @@
 layout: default
 ---
 
-# The Problems: (Weighted) Model Counting
+# The Problems: 
 
-Given a Boolean formula the _model counting problem (MC)_ for short, asks to output the number of models (satisfying assignments) of a formula. If in addition each literal in the formula has an associated weight and we are interested in the sum of weights of all models, where the weight of a model is the product of the weights of its literals, we speak about _weighted model counting (WMC)_.
+## Model Counting (mc)
+
+- Given: a Boolean formula F;
+- Task: output the number of models (satisfying assignments) of the formula F. 
+
+## Weighted Model Counting (wmc) 
+- Given: a Boolean formula F and a weight for each literal that occurs in F; 
+- Task: output sum of weights of all models, where the weight of a model is the product of the weights of its literals.
+
+
+## Projected Model Counting (pmc) 
+- Given: a Boolean formula F and a set P of projection variables; 
+- Task: output the number of models of F that are different when models are restricted to the variables that occur in P.
+
+
 
 ---
 

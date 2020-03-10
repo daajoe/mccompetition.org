@@ -6,11 +6,6 @@
 ## Competition
 The _1st International Competition on Model Counting (MC 2020)_ is a competition to deepen the relationship between latest theoretical and practical development on the various model counting problems and their practical applications. It targets the problem of counting the number of models of a Boolean formula. 
 
-## Workshop
-The _International Workshop on Model Counting (MC 2020)_ is a competition to deepen the relationship between latest theoretical and practical development on the various model counting problems and their practical applications. It targets the problem of counting the number of models of a Boolean formula. 
-
-The aim of the pragmatics of SAT workshop is to allow researchers concerned with the design of efficient SAT solvers at large or SAT encodings to meet and discuss about their latest results. The workshop is also the place for users of SAT technology to present their applications.
-
 ## Background
 The success of solver technologies for declarative languages, such as SAT, in the last two decades is mainly due to both the availability of numerous efficient solver implementations and to the growing number of problems that can efficiently be solved through the declarative approach. Designing efficient solvers requires both understanding of the fundamental algorithms underlying the solvers, as well as in-depth insights into how to implement the algorithms for obtaining efficient and robust solvers.
 
@@ -23,11 +18,9 @@ The aim of the workshop is to allow researchers to share both fundamental theore
 
 MC 2020 aims to identify new challenging benchmarks and to promote new solvers for the problem as well as to compare them with state-of-the-art solvers. The MC 2020 follows a direction in the community of constraint solving, where already many competitions have been organized such as on [ASP](https://sites.google.com/view/aspcomp2019/) (7 editions), [CSP](http://xcsp.org/competition) (19 editions), [SAT](http://sat-race-2019.ciirc.cvut.cz/) (19 editions), [SMT](https://smt-comp.github.io/2019/) (14 editions), [MaxSAT](https://maxsat-evaluations.github.io/2019/) Evaluation (13 editions), [QBF](http://www.qbflib.org/) (8 editions).
 
-For competition details, we refer <!--to the [Tracks of MC 2020](model-counting-competition.md) and--> to the [Submission Information](dates).
----
+For competition details, we refer <!--to the [Tracks of MC 2020](model-counting-competition.md) and--> to the [Submission Information](mc_submission).
 
-
-# Model Counting
+## Model Counting
 
 <!-- ---
 
@@ -50,7 +43,7 @@ Previous simulations included works on the [Turing](https://www.cs.uni-potsdam.d
 
 --- -->
 
-# Organization
+## Organization
 
 ### Program Co-Chair
 * Markus Hecher (TU Wien, Vienna)
@@ -84,6 +77,6 @@ On behalf of the Program Committee of MC 2020, we invite you to participate in t
 
 [data-experts](https://data-experts.de) already announced sponsoring for MC 2020.
 
-<img src="assets/images/data-experts-logo.png" alt="data-experts" style="width: 300px;"/>
+<img src="../assets/images/data-experts-logo.png" alt="data-experts" style="width: 300px;"/>
 
 ---
