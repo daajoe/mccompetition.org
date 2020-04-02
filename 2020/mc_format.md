@@ -91,8 +91,8 @@ c this is a comment and will be ignored
 
 
 ```AsciiDoc
-c This file describes that the model count is 5
-s mc 5
+c This file describes that the model count is 30
+s mc 30
 ```
 
 
@@ -264,8 +264,8 @@ c this is a comment and will be ignored
 
 
 ```AsciiDoc
-c This file describes that the projected model count is 2
-s pmc 2
+c This file describes that the projected model count is 3
+s pmc 3
 ```
 
 ### Instances
