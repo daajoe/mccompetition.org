@@ -142,9 +142,10 @@ Input files are given in _Weighted CNF format_, which is a slight extension of [
   * Unique (No other line may start with p)
   * Has to be the first line (except comments)
 * Weight function
-  * Lines of the form "w Variable Weight 0"
-  * Defines the floating point Weight for Variable
-  * If the weight for a variable is not defined, it is considered to be of weight 1
+  * Lines of the form "w Literal Weight 0"
+  * Defines the floating point Weight for Literal, where 0 <= Weight <= 1 
+  * We do not use more than 9 significant digits after the decimal point
+  * If the weight for a literal is not defined, it is considered to be of weight 1
 * Remaining lines indicate clauses
   * consisting of decimal integers separated by space
   * Lines are terminated by character "0"
@@ -157,8 +158,10 @@ Example:
 c This file describes a weighted CNF in MC 2020 format with 6 variables and 4 clauses 
 p wcnf 6 4
 w 1 0.4 0
+w -1 0.6 0
 w 4 0.5 0
-w 5 1.1 0
+w -4 0.5 0
+w 5 1.0 0
 -1 -2 0
 2 3 -2 0
 c this is a comment and will be ignored
@@ -183,8 +186,8 @@ c this is a comment and will be ignored
 
 
 ```AsciiDoc
-c This file describes that the weighted model count is 5.53
-s wmc 5.53
+c This file describes that the weighted model count is 8.0
+s wmc 8.0
 ```
 
 
