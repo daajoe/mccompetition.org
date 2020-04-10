@@ -25,7 +25,7 @@ Please submit benchmarks by email to [benchmarks@mccompetition.org](mailto:bench
 2. Access Easychair (mc2020, <https://easychair.org/conferences/?conf=mc2020>) and register your group 
    - Use as title of the paper your login name at optil
    - Place the name of your solver in the abstract
-__3. Test the formats of your solution via optil for [Model Counting](https://www.optil.io/optilion/problem/3183), [Weighted Model Counting](https://www.optil.io/optilion/problem/3184) and [Projected Model Counting](https://www.optil.io/optilion/problem/3185)__
+3. __Test the formats of your solution via optil for [Model Counting](https://www.optil.io/optilion/problem/3183), [Weighted Model Counting](https://www.optil.io/optilion/problem/3184) and [Projected Model Counting](https://www.optil.io/optilion/problem/3185)__
 4. Submit your solution via optil (as soon as the optil submission is open) 
 
 
