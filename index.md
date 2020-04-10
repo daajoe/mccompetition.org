@@ -1,6 +1,9 @@
 ---
 ---
 
+# <span style="color:red">__We are continuously monitoring the COVID-19 situation and are probably adapting according to the [SAT 2020 conference](https://sat2020.idea-researchlab.org/) __</span>
+
+
 # MC 2020 (Model Counting 2020)
 
 The _1st International Competition on Model Counting (MC 2020)_ is a competition to deepen the relationship between latest theoretical and practical development on the various model counting problems and their practical applications. It targets the problem of counting the number of models of a Boolean formula. 
