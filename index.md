@@ -1,7 +1,7 @@
 ---
 ---
 
-# <span style="color:red">__We are continuously monitoring the COVID-19 situation and are probably adapting according to the [SAT 2020 conference](https://sat2020.idea-researchlab.org/) __</span>
+# <span style="color:red">We are continuously monitoring the COVID-19 situation and are probably adapting according to the [SAT 2020 conference](https://sat2020.idea-researchlab.org/)</span>
 
 
 # MC 2020 (Model Counting 2020)
