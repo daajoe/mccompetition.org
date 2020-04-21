@@ -2,6 +2,25 @@
 ---
 # Model Counting Competition: Submission Information
 
+## Tracks / Challenges
+1. *Model Counting (mc)*
+(Compute the number of satisfying assignments to a given CNF):<br/>
+[Details for the track (Formats)](2020/mc_format#track-1-model-counting)<br/>
+[**Optil Test Submission** (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3183)<br/>
+[Optil Track Submission (tba) ](tba)<br/>
+
+2. *Weighted Model Counting (wmc)*
+(Compute the weighted model count of a given CNF and weights):<br/>
+[Details for the track (Formats)](2020/mc_format#track-2-weighted-model-counting)<br/>
+[**Optil Test Submission** (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3184)<br/>
+[Optil Track Submission (tba): tba](#tba)<br/>
+
+
+3. *Projected Model Counting (pmc)*
+(Compute the projected model count of a given CNF and projection variables):<br/>
+[Details for the track (Formats)](2020/mc_format#track-3-projected-model-counting)<br/>
+[**Optil Test Submission** (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3185)<br/>
+[Optil Track Submission (tba)](#tba)<br/>
 
 ## Call for Benchmarks
 
@@ -15,6 +34,7 @@ Please use appropriate file naming conventions, where suited. Ideally, each inst
 The benchmark description must be submitted as PDF. The description should include author information with affiliations, a description of the problem domains, a description of the parameters used for generating the instances, and the file name convention. References should be used as appropriate.
 The benchmark descriptions will be posted on the MC 2020 website. Furthermore, the organizers are considering publishing the collection of system and benchmark descriptions on arxiv.
 Please submit benchmarks by email to [benchmarks@mccompetition.org](mailto:benchmarks@mccompetition.org) using the subject title "MC 2020 benchmark submission" by *March 5 AoE* the latest.
+
 
 ## Call for Participation
 

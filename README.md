@@ -10,3 +10,7 @@ Pages
 
 ## Running the pages locally
 [See Jerkyll: https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
+
+```bundle exec jekyll serve```
+
+See: http://localhost:4000

@@ -3,6 +3,31 @@
 
 # MC 2020 (Model Counting 2020)
 
+
+## Tracks / Challenges
+1. *Model Counting (mc)*
+(Compute the number of satisfying assignments to a given CNF):<br/>
+[Details for the track (Formats)](mc_format#track-1-model-counting)<br/>
+[Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3183)<br/>
+[Optil Track Submission (tba) ](#tba)<br/>
+[**Download Public Instances (available now: 2020-04-21)**](/assets/files/2020/mcc2020_track1-mc_public.tar);
+
+2. *Weighted Model Counting (wmc)*
+(Compute the number of satisfying assignments to a given CNF):<br/>
+[Details for the track (Formats)](mc_format#track-2-weighted-model-counting)<br/>
+[Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3184)<br/>
+[Optil Track Submission (tba)](#tba)<br/>
+[Download Public Instances (tba)](#tba);
+
+
+3. *Projected Model Counting (pmc)*
+(Compute the number of satisfying assignments to a given CNF):<br/>
+[Details for the track (Formats)](mc_format#track-3-projected-model-counting)<br/>
+[Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3185)<br/>
+[Optil Track Submission (tba)](#tba)<br/>
+[Download Public Instances (tba)](#tba);
+
+
 ## Competition
 The _1st International Competition on Model Counting (MC 2020)_ is a competition to deepen the relationship between latest theoretical and practical development on the various model counting problems and their practical applications. It targets the problem of counting the number of models of a Boolean formula. 
 
@@ -29,9 +54,11 @@ For competition details, we refer <!--to the [Tracks of MC 2020](model-counting-
 Model counting is very vibrant field that provided both recent advances in theory as well as in practical solving including various applications. State-of-the-art SAT or WMC (weighted model counting) search engines so far rely on standard techniques from SAT-based solving, knowledge compilation, or approximate solving by means of sampling using SAT solvers. There have been also successful implementations for parallel and distributed computation as well as massively parallel computation approaches. 
 
 For further details on the problem, we refer to the [page on model counting](about).
+
 <!-- Beside the theoretical research there are many implementations available, just to name some state of the art solvers, c2d, d4, DSHARP, miniC2D, cnf2eadt, bdd_minisat_all, and sdd (based on knowledge compilation techniques); ApproxMC4, and sts (based on approximate counting or sampling); Cache, sharpCDCL4, and sharpSAT (CDCL-based solvers using component caching); gpusat, countAntom, and dCountAntom) (parallel or distributed solvers). There are also preprocessors available B+E and pmc. Many solvers are highly competitive and solve various instances. However, there has still not been a competition on the topics related to model counting.  -->
 
 ---
+
 
 <!-- # Sponsors -->
 
