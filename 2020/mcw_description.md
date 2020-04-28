@@ -43,7 +43,28 @@ Consult the [SAT 2020 Registration](https://sat2020.idea-researchlab.org/registr
 
 See [submission instructions page](mcw_submission)
 
-<!--## Committee -->
+## Committee
+- Adnan Darwiche, University of California, Los Angeles
+- Antti Hyvärinen, USI
+- Arnaud Durand, Université Paris
+- Arthur Choi, University of California, Los Angeles
+- Armin Biere, Johannes Kepler University Linz
+- Ashish Sabharwal, Allen Institute for Artificial Intelligence
+- Florent Capelli, Université de Lille
+- Holger Dell, IT University of Copenhagen
+- Jakob Nordström, University of Copenhagen and Lund University
+- Johannes K. Fichte, TU Dresden
+- Kuldeep Meel, University of Singapore 
+- Mutsunori Banbaraba, Nagoya University
+- Pierre Marquis, CRIL, U. Artois & CNRS - Institut Universitaire de France
+- Robert Ganian, TU Wien
+- Stefan Mengel, CRIL
+- Takehide Soh, Kobe University
+- Tobias Philipp. TU Dresden
+- Markus Hecher, TU Wien
+- Mate Soos
+- Uwe Egly, TU Wien
+- Ofer Strichman, Technion Ordinary
 
 ## Organizers
 
