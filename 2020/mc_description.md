@@ -25,8 +25,7 @@
 [Details for the track (Formats)](mc_format#track-3-projected-model-counting)<br/>
 [Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3185)<br/>
 [Optil Track Submission (tba)](#tba)<br/>
-[Download Public Instances (tba)](#tba);
-[**Download Public Instances (available now: 2020-05-03)**](/assets/files/2020/mcc2020_track3-p¡mc_public.tar);
+[**Download Public Instances (available now: 2020-05-03)**](https://cloudstore.zih.tu-dresden.de/index.php/s/swEspmWrEMxopEW);
 
 
 ## Competition
