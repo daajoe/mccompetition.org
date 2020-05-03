@@ -17,7 +17,7 @@
 [Details for the track (Formats)](mc_format#track-2-weighted-model-counting)<br/>
 [Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3184)<br/>
 [Optil Track Submission (tba)](#tba)<br/>
-[**Download Public Instances (available now: 2020-04-22)**](/assets/files/2020/mcc2020_track2-wmc_public.tar);
+[**Download Public Instances (Updated: 2020-05-03)**](/assets/files/2020/mcc2020_track2-wmc_public.tar);
 
 
 3. *Projected Model Counting (pmc)*
@@ -26,6 +26,7 @@
 [Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3185)<br/>
 [Optil Track Submission (tba)](#tba)<br/>
 [Download Public Instances (tba)](#tba);
+[**Download Public Instances (available now: 2020-05-03)**](/assets/files/2020/mcc2020_track3-p¡mc_public.tar);
 
 
 ## Competition
