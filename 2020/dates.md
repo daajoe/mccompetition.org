@@ -37,9 +37,9 @@ September 11-13, 2019 (International Symposium on Parameterized and Exact Comput
 
 # Model Counting Workshop (MCW-2020@SAT)
 ## Important Dates
-- <span style="color:blue">__Abstract submission deadline: April 30, 2020__</span>
-- Paper submission deadline: May 7, 2020
-- Notification to authors: May 31, 2020
+- <span style="color:blue">__Abstract submission deadline: May 14, 2020__</span>
+- Paper submission deadline: May 19, 2020
+- Notification to authors: June 16, 2020
 - Final version due: June 19, 2020
 - Workshop: July 5, 2020
 
