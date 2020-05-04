@@ -5,8 +5,8 @@
 
 ---
 ## 04.05.2020: Optil.io submissions available
-We have finalised the instances for all three tracks and are in the process of publishing the last track.
-Submissions at optil.io are available for [Model Counting](https://www.optil.io/optilion/problem/3186) and [Weighted Model Counting](https://www.optil.io/optilion/problem/3187).
+We have finalized the instances for all three tracks and are in the process of publishing the submission for Projected Model Counting.
+Submissions at optil.io are already available for [Model Counting](https://www.optil.io/optilion/problem/3186) and [Weighted Model Counting](https://www.optil.io/optilion/problem/3187).
 
 ## 03.05.2020: Public Benchmark Instances for PMC available
 For details [see descriptions](2020/mc_description).
