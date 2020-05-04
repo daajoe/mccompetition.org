@@ -6,21 +6,21 @@
 1. *Model Counting (mc)*
 (Compute the number of satisfying assignments to a given CNF):<br/>
 [Details for the track (Formats)](2020/mc_format#track-1-model-counting)<br/>
-[**Optil Test Submission** (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3183)<br/>
-[Optil Track Submission (tba) ](tba)<br/>
+[Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3183)<br/>
+[**Optil Track Submission**](https://www.optil.io/optilion/problem/3186)<br/>
 
 2. *Weighted Model Counting (wmc)*
 (Compute the weighted model count of a given CNF and weights):<br/>
 [Details for the track (Formats)](2020/mc_format#track-2-weighted-model-counting)<br/>
-[**Optil Test Submission** (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3184)<br/>
-[Optil Track Submission (tba): tba](#tba)<br/>
+[Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3184)<br/>
+[**Optil Track Submission**](https://www.optil.io/optilion/problem/3187)<br/>
 
 
 3. *Projected Model Counting (pmc)*
 (Compute the projected model count of a given CNF and projection variables):<br/>
 [Details for the track (Formats)](2020/mc_format#track-3-projected-model-counting)<br/>
 [**Optil Test Submission** (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3185)<br/>
-[Optil Track Submission (tba)](#tba)<br/>
+[Optil Track Submission (TBA)](https://www.optil.io/optilion/problem/3188)<br/>
 
 ## Call for Benchmarks
 
@@ -45,8 +45,8 @@ Please submit benchmarks by email to [benchmarks@mccompetition.org](mailto:bench
 2. Access Easychair (mc2020, <https://easychair.org/conferences/?conf=mc2020>) and register your group 
    - Use as title of the paper your login name at optil
    - Place the name of your solver in the abstract
-3. __Test the formats of your solution via optil for [Model Counting](https://www.optil.io/optilion/problem/3183), [Weighted Model Counting](https://www.optil.io/optilion/problem/3184) and [Projected Model Counting](https://www.optil.io/optilion/problem/3185)__
-4. Submit your solution via optil (as soon as the optil submission is open) 
+3. Optional: Test the formats of your solution via optil for [Model Counting](https://www.optil.io/optilion/problem/3183), [Weighted Model Counting](https://www.optil.io/optilion/problem/3184) and [Projected Model Counting](https://www.optil.io/optilion/problem/3185)
+4. __Regularly submit your solution via optil for [Model Counting](https://www.optil.io/optilion/problem/3186) and [Weighted Model Counting](https://www.optil.io/optilion/problem/3187)__
 
 
 #### Requirements
