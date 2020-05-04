@@ -9,22 +9,22 @@
 (Compute the number of satisfying assignments to a given CNF):<br/>
 [Details for the track (Formats)](mc_format#track-1-model-counting)<br/>
 [Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3183)<br/>
-[Optil Track Submission (tba) ](#tba)<br/>
-[**Download Public Instances (available now: 2020-04-21)**](/assets/files/2020/mcc2020_track1-mc_public.tar);
+[**Optil Track Submission**](https://www.optil.io/optilion/problem/3186)<br/>
+[Download Public Instances (available now: 2020-04-21)](/assets/files/2020/mcc2020_track1-mc_public.tar);
 
 2. *Weighted Model Counting (wmc)*
 (Compute the number of satisfying assignments to a given CNF):<br/>
 [Details for the track (Formats)](mc_format#track-2-weighted-model-counting)<br/>
 [Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3184)<br/>
-[Optil Track Submission (tba)](#tba)<br/>
-[**Download Public Instances (Updated: 2020-05-03)**](/assets/files/2020/mcc2020_track2-wmc_public.tar);
+[**Optil Track Submission**](https://www.optil.io/optilion/problem/3187)<br/>
+[Download Public Instances (Updated: 2020-05-03)](/assets/files/2020/mcc2020_track2-wmc_public.tar);
 
 
 3. *Projected Model Counting (pmc)*
 (Compute the number of satisfying assignments to a given CNF):<br/>
 [Details for the track (Formats)](mc_format#track-3-projected-model-counting)<br/>
 [Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3185)<br/>
-[Optil Track Submission (tba)](#tba)<br/>
+[Optil Track Submission (TBA)](https://www.optil.io/optilion/problem/3188)<br/>
 [**Download Public Instances (available now: 2020-05-03)**](https://cloudstore.zih.tu-dresden.de/index.php/s/swEspmWrEMxopEW);
 
 
