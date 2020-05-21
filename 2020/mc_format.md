@@ -25,8 +25,11 @@ The odd instances are public and the even instances will be provided later (secr
 
 ## Evaluation 
 
-- timeout: 30 minutes per instance
-- measure: TBA; likely PAR-2, where timed-out runs are counted as 2 times the given timeout time.
+- timeout: 15 minutes per instance
+- in detail: 900s (soft cpu), 905 (hard cpu), 1000 (soft wall), 1005 (hard wall)
+- Output: 524288 B
+- Mem: 8,388,608 KB
+- measure: number of solved instances
 - objective: minimize the measure
 
 ---
