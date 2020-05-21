@@ -5,20 +5,20 @@
 ## Tracks / Challenges
 1. *Model Counting (mc)*
 (Compute the number of satisfying assignments to a given CNF):<br/>
-[Details for the track (Formats)](2020/mc_format#track-1-model-counting)<br/>
+[Details for the track (Formats)](mc_format#track-1-model-counting)<br/>
 [Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3183)<br/>
 [**Optil Track Submission**](https://www.optil.io/optilion/problem/3186)<br/>
 
 2. *Weighted Model Counting (wmc)*
 (Compute the weighted model count of a given CNF and weights):<br/>
-[Details for the track (Formats)](2020/mc_format#track-2-weighted-model-counting)<br/>
+[Details for the track (Formats)](mc_format#track-2-weighted-model-counting)<br/>
 [Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3184)<br/>
 [**Optil Track Submission**](https://www.optil.io/optilion/problem/3187)<br/>
 
 
 3. *Projected Model Counting (pmc)*
 (Compute the projected model count of a given CNF and projection variables):<br/>
-[Details for the track (Formats)](2020/mc_format#track-3-projected-model-counting)<br/>
+[Details for the track (Formats)](mc_format#track-3-projected-model-counting)<br/>
 [**Optil Test Submission** (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3185)<br/>
 [Optil Track Submission (TBA)](https://www.optil.io/optilion/problem/3188)<br/>
 
@@ -64,6 +64,14 @@ Please submit benchmarks by email to [benchmarks@mccompetition.org](mailto:bench
    2. Submit solver description via [EasyChair](https://easychair.org/conferences/?conf=TBA) use DOI to refer to the solver and include a reference to the public source code repository 
 <!--For parallel solving on GPUs, we aim for Nvidia cuda.-->
 
+
+#### Optil System
+1. Check [Optil Environment](https://www.optil.io/optilion/environment) and [Optil Help](https://www.optil.io/optilion/help)
+2. Optil runs on a Xenial; benchmarks are run in a docker container
+3. Restrictions/Runtime limitations:
+- Runtime: 900s (soft cpu), 905 (hard cpu), 1000 (soft wall), 1005 (hard wall)
+- Output: 524288 B
+- Mem: 8,388,608 KB
 
 
 #### Solver

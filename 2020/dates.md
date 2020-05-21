@@ -8,10 +8,9 @@
 - January 22nd, 2019: Call for Benchmarks
 - March 15th, 2020 (AoE) / Extended:  -- Deadline  -- Benchmark Submission
 - April 10th, 2020 (AoE) Format Testing possible for [Model Counting](https://www.optil.io/optilion/problem/3183), [Weighted Model Counting](https://www.optil.io/optilion/problem/3184) and [Projected Model Counting](https://www.optil.io/optilion/problem/3185)
-- <span style="color:blue">__May 4th, 2020 (AoE):  Optil System Open for Submissions for [Model Counting](https://www.optil.io/optilion/problem/3186) and [Weighted Model Counting](https://www.optil.io/optilion/problem/3187)__</span>
-- May 22th, 2020 (AoE):  -- Deadline (DS) -- Submission
-- May 22th, 2020 (AoE):  -- Deadline (DS) -- Submission
-- June 3rd, 2020 (AoE): -- Deadline (DD) -- Submission of a solver description via Easychair
+- May 4th, 2020 (AoE):  Optil System Open for Submissions for [Model Counting](https://www.optil.io/optilion/problem/3186) and [Weighted Model Counting](https://www.optil.io/optilion/problem/3187)
+- <span style="color:blue">__June 3th, 2020 (AoE):  -- Deadline (DS) -- Submission__</span>
+- June 10th, 2020 (AoE): -- Deadline (DD) -- Submission of a solver description via Easychair
 
 
 

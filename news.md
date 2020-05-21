@@ -4,6 +4,18 @@
 # News
 
 ---
+
+
+## 21.05.2020: Deadline Extension for the workshop and the Model Counting Competition
+We decided to extend the deadlines.
+
+## 20.05.2020: Release of Track 3 (PMC) Instances and Optil is Delayed
+There was a major security incident at the cluster of TU Dresden, 
+[see](https://thecyberwire.com/newsletters/daily-briefing/9/96).
+
+Currently, we have no access to our benchmarking data for Track 3.
+
+
 ## 04.05.2020: Optil.io submissions available
 We have finalized the instances for all three tracks and are in the process of publishing the submission for Projected Model Counting.
 Submissions at optil.io are already available for [Model Counting](https://www.optil.io/optilion/problem/3186) and [Weighted Model Counting](https://www.optil.io/optilion/problem/3187).
