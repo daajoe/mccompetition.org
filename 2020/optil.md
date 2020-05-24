@@ -6,18 +6,31 @@
 - We provide a sample package [mysub.tgz](../assets/files/2020/mysub.tgz) for the submission.
 - The file contains a startscript (in bash) mysub, which calls two subscripts (foo and foo2) from the subfolder bin/. The output of foo is linked to the input of foo2 by a pipe. This should provide you with a sample for your standard usecase.
 - The script only outputs a line that is only solution for the last testcase.  
-- We suggest that you try with the Lite Track, which is designed to upload only instances for format testing.
+- We suggest that you try with the Lite Tracks, which are designed to upload only instances for format testing.
 - Environment: Kernel 4.4, for more details we refer to the [Optil Environment Description](https://www.optil.io/optilion/environment).
 
 ### Strict Requirements
 - Your mysubmission.tgz file must contain the file mysubmission at the root level.
-- The file mysubmission has to be world executable (755 or 777).
-- If you use a bash script, then set the shebang properly. 
 ```bash
-#!/bin/sh
-set -e  
-...
+#mysubmission$ ls
+               ...
+               mysubmission
+               ... 
 ```
+- The file mysubmission has to be world executable (755 or 777).
+- If you use a bash script, then set the shebang and pipe behavior properly.
+```bash
+#mysubmission$ head mysubmission -n2
+#!/bin/sh
+set -e
+```
+- Create the submission file from your submission folder.
+```bash
+#mysubmission$ tar czf ../mysubmission.tgz *
+```
+- Submit the file mysubmission.tgz as tgz filetype with optil.
+
+
 
 ## Submission Process
 ### Login
