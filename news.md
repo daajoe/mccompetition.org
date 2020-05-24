@@ -4,7 +4,15 @@
 # News
 
 ---
+## 24.05.2020: We updated the Evaluation Details
+After multiple requests, we placed a quick tutorial for the optil submission online.
+The tutorial contains a file that should run out of the box for the model counting track
+and which you should be able to adapt easily.
 
+## 23.05.2020: We updated the Evaluation Details
+The TU Dresden cluster is still not available. 
+However, a collegue at TU Wien allows us to run the final evaluation on his cluster.
+Hence, we can extend the overall runtime. Optil evaluations will remain with 900s timeout for now. 
 
 ## 21.05.2020: Deadline Extension for the workshop and the Model Counting Competition
 We decided to extend the deadlines.

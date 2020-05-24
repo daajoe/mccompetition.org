@@ -22,11 +22,30 @@ for the track on (P\|W)MC, respectively.
 Larger numbers in the filename should (as a rule of thumb) correspond to harder instances. 
 The odd instances are public and the even instances will be provided later (secret). 
 
+## Submission (optil)
+We refer to a [more detailed subpage](optil).
 
-## Evaluation 
-
+## Evaluation (optil)
 - timeout: 15 minutes per instance
 - in detail: 900s (soft cpu), 905 (hard cpu), 1000 (soft wall), 1005 (hard wall)
+- Output: 524288 B
+- Mem: 8,388,608 KB
+- measure: number of solved instances
+- objective: minimize the measure
+
+## Evaluation (private instances / Track 1 and 2)
+- timeout: 30 minutes per instance
+- Environment: either on [Taurus](https://doc.zih.tu-dresden.de/hpc-wiki/bin/view/Compendium/SystemTaurus) or a cluster running an Ubuntu 16.04 LTS (kernel 4.4.0-166-generic, gcc 5.4.0)
+- in detail: 1800s (soft cpu), 1805 (hard cpu), 1900 (soft wall), 1905 (hard wall)
+- Output: 524288 B
+- Mem: 8,388,608 KB
+- measure: number of solved instances
+- objective: minimize the measure
+
+## Evaluation (private instances / Track 3)
+- timeout: 60 minutes per instance
+- Environment: either on [Taurus](https://doc.zih.tu-dresden.de/hpc-wiki/bin/view/Compendium/SystemTaurus) or a cluster running an Ubuntu 16.04 LTS (kernel 4.4.0-166-generic, gcc 5.4.0)
+- in detail: 3600s (soft cpu), 3605 (hard cpu), 3700 (soft wall), 3705 (hard wall)
 - Output: 524288 B
 - Mem: 8,388,608 KB
 - measure: number of solved instances

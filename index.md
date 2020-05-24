@@ -1,7 +1,9 @@
 ---
 ---
 
-# <span style="color:red">We are continuously monitoring the COVID-19 situation and are probably adapting according to the [SAT 2020 conference](https://sat2020.idea-researchlab.org/)</span>
+# <span style="color:red">The workshop will take place online as part of the [SAT 2020 conference](https://sat2020.idea-researchlab.org/).</span>
+
+# <span style="color:red">We updated optil submission instructions [see here](2020/optil).</span>
 
 
 # MC 2020 (Model Counting 2020)
