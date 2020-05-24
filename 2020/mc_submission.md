@@ -2,6 +2,10 @@
 ---
 # Model Counting Competition: Submission Information
 
+## How to use Optil.io?
+We refer to a [more detailed subpage](optil).
+
+
 ## Tracks / Challenges
 1. *Model Counting (mc)*
 (Compute the number of satisfying assignments to a given CNF):<br/>
