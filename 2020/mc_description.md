@@ -3,6 +3,9 @@
 
 # MC 2020 (Model Counting 2020)
 
+## How to use Optil.io?
+We refer to a [more detailed subpage](optil).
+
 
 ## Tracks / Challenges
 1. *Model Counting (mc)*
