@@ -3,7 +3,7 @@
 # Details on Optil Submission
 
 ## Sample File
-- We provide a sample package [mysub.tgz](../files/2020/mysub.tgz) for the submission.
+- We provide a sample package [mysub.tgz](../assets/files/2020/mysub.tgz) for the submission.
 - The file contains a startscript (in bash) mysub, which calls two subscripts (foo and foo2) from the subfolder bin/. The output of foo is linked to the input of foo2 by a pipe. This should provide you with a sample for your standard usecase.
 - The script only outputs a line that is only solution for the last testcase.  
 - We suggest that you try with the Lite Track, which is designed to upload only instances for format testing.
