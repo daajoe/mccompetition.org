@@ -4,6 +4,12 @@
 # News
 
 ---
+## 03.06.2020: Instances for Track 3 available
+After we got access back onto the TUD cluster, we updated the instances for Track 3 and submitted the track for publication on optil.
+
+## 03.06.2020: Updated Deadline
+We updated the deadlines.
+
 ## 24.05.2020: We updated the Evaluation Details
 After multiple requests, we placed a quick tutorial for the optil submission online.
 The tutorial contains a file that should run out of the box for the model counting track
