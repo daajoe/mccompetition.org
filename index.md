@@ -3,7 +3,7 @@
 
 # <span style="color:red">The workshop will take place online as part of the [SAT 2020 conference](https://sat2020.idea-researchlab.org/).</span>
 
-# <span style="color:red">We updated optil submission instructions [see here](2020/optil).</span>
+# <span style="color:red">Preliminary Results on the Public Instances available. [See News](news)</span>
 
 
 # MC 2020 (Model Counting 2020)
