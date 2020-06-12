@@ -4,6 +4,9 @@
 # News
 
 ---
+## 12.06.2020: Preliminary Results on the Public Track
+[Preliminary Results Track 1](https://cloudstore.zih.tu-dresden.de/index.php/s/wwMtxsG8L9ksRxe)
+
 ## 03.06.2020: Instances for Track 3 available
 After we got access back onto the TUD cluster, we updated the instances for Track 3 and submitted the track for publication on optil.
 
