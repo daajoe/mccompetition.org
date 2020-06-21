@@ -4,6 +4,12 @@
 # News
 
 ---
+## 21.06.2020: Preliminary Results on the Public Track
+[Preliminary Results Track 3](https://cloudstore.zih.tu-dresden.de/index.php/s/mpWHaAogkerFX9s)
+
+## 17.06.2020: Preliminary Results on the Public Track
+[Preliminary Results Track 2](https://cloudstore.zih.tu-dresden.de/index.php/s/rspwDPZKc7CCZLH)
+
 ## 12.06.2020: Preliminary Results on the Public Track
 [Preliminary Results Track 1](https://cloudstore.zih.tu-dresden.de/index.php/s/wwMtxsG8L9ksRxe)
 
