@@ -3,8 +3,7 @@
 
 # <span style="color:red">The workshop will take place online as part of the [SAT 2020 conference](https://sat2020.idea-researchlab.org/).</span>
 
-# <span style="color:red">Results will be presented on Wednesday, July 8th during the Competition Session starting from 16:40 GMT+2
-</span>
+# <span style="color:red">Results will be presented on Wednesday, July 8th during the Competition Session starting from 16:40 GMT+2 </span>
 
 Preliminary Results on the public competition instances are available. [See News](news) 
 
