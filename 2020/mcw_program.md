@@ -8,6 +8,7 @@ See: [https://sat2020.idea-researchlab.org/registration/](https://sat2020.idea-r
 
 Day: Thursday, July 9th, 2020 (Times are given in GMT+2, see [your timezone](https://everytimezone.com/s/8a562417))
 
+
 | Time          | Title                                                 | Author(s)  |
 | ------------- |:-------------| -----|
 | 16:00        | Setup / Welcome                                                 | Johannes K. Fichte and Markus Hecher |
