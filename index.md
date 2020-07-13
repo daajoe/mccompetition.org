@@ -1,12 +1,12 @@
 ---
 ---
 
-# <span style="color:red">The workshop will take place online as part of the [SAT 2020 conference](https://sat2020.idea-researchlab.org/).</span>
+# <span style="color:red">Thanks for participating. Hope to see you in 2021.</span>
 
-# <span style="color:red">Results will be presented on Wednesday, July 8th during the Competition Session starting from 16:40 GMT+2 </span>
+For details on the workshop its presentations, slides, and recordings we refer to the [Programm](2020/mcw_program).
 
-Preliminary Results on the public competition instances are available. [See News](news) 
-
+Updated results of the competition will be out soon.
+ 
 
 # MC 2020 (Model Counting 2020)
 
