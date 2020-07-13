@@ -12,15 +12,19 @@ We refer to a [more detailed subpage](optil).
 (Compute the number of satisfying assignments to a given CNF):<br/>
 [Details for the track (Formats)](mc_format#track-1-model-counting)<br/>
 [Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3183)<br/>
-[**Optil Track Submission**](https://www.optil.io/optilion/problem/3186)<br/>
+[Optil Track Submission](https://www.optil.io/optilion/problem/3186)<br/>
 [Download Public Instances (available now: 2020-04-21)](/assets/files/2020/mcc2020_track1-mc_public.tar);
+[Download Private Instances (available now: 2020-07-13)](https://cloudstore.zih.tu-dresden.de/index.php/s/86A6TdJweCRixKs);
+[Download All Instances (available now: 2020-07-13)](https://cloudstore.zih.tu-dresden.de/index.php/s/SNwJiP4MZxsZE94);
 
 2. *Weighted Model Counting (wmc)*
 (Compute the number of satisfying assignments to a given CNF):<br/>
 [Details for the track (Formats)](mc_format#track-2-weighted-model-counting)<br/>
 [Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3184)<br/>
-[**Optil Track Submission**](https://www.optil.io/optilion/problem/3187)<br/>
+[Optil Track Submission](https://www.optil.io/optilion/problem/3187)<br/>
 [Download Public Instances (Updated: 2020-05-03)](/assets/files/2020/mcc2020_track2-wmc_public.tar);
+[Download Private Instances (available now: 2020-07-13)](https://cloudstore.zih.tu-dresden.de/index.php/s/tFn6qoa5tWKEtaY);
+[Download All Instances (available now: 2020-07-13)](https://cloudstore.zih.tu-dresden.de/index.php/s/2K86Qzj2NBJGySM);
 
 
 3. *Projected Model Counting (pmc)*
@@ -28,7 +32,8 @@ We refer to a [more detailed subpage](optil).
 [Details for the track (Formats)](mc_format#track-3-projected-model-counting)<br/>
 [Optil Test Submission (Lite Track / allows to test your parser etc...)](https://www.optil.io/optilion/problem/3185)<br/>
 [Optil Track Submission (TBA)](https://www.optil.io/optilion/problem/3188)<br/>
-[**Download Public Instances (available now: 2020-06-03)**](https://cloudstore.zih.tu-dresden.de/index.php/s/Zgn6eD7NYokNgct);
+[Download Public Instances (available now: 2020-06-03)](https://cloudstore.zih.tu-dresden.de/index.php/s/Zgn6eD7NYokNgct);
+[Download Private Instances (available now: 2020-07-13)](https://cloudstore.zih.tu-dresden.de/index.php/s/mtmLXeBSSLzW5SN);
 
 
 ## Competition
