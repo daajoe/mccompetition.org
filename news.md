@@ -4,6 +4,9 @@
 # News
 
 ---
+## 28.07.2020: Updated Resultas are available now
+[Download Updated Slides](assets/files/2020/MC2020_awards.pdf)
+
 ## 21.06.2020: Preliminary Results on the Public Track
 [Preliminary Results Track 3](https://cloudstore.zih.tu-dresden.de/index.php/s/mpWHaAogkerFX9s)
 

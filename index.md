@@ -3,6 +3,8 @@
 
 # <span style="color:red">Thanks for participating. Hope to see you in 2021.</span>
 
+# <span style="color:red">Updated results are available [Download Updated Slides](assets/files/2020/MC2020_awards.pdf).</span>
+
 For details on the workshop its presentations, slides, and recordings we refer to the [Programm](2020/mcw_program).
 
 Updated results of the competition will be out soon.
