@@ -1,6 +1,0 @@
----
----
-
-# Past Challenges
-
----

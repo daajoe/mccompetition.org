@@ -1,64 +1,10 @@
 ---
 ---
-
-
-# Competition Tracks / Formats
-
-The challenge consists of two separate tracks: 
-1. [Model Counting (mc)](#track-1-model-counting), and
-2. [Weighted Model Counting (wmc)](#track-2-weighted-model-counting)
-3. [Projected Model Counting (pmc)](#track-3-projected-model-counting)
-
-
-Note that we only allow non-parallel solvers.
-For more details on active calls for benchmark instances and participation, 
-we refer to [Submission & Important Dates](dates).
-
-## Benchmark Instances
-
-There will be 200 benchmark instances for each track, labeled (p\|w)mc_001.(p\|w)cnf to (p\|w)mc_200.(p\|w)cnf 
-for the track on (P\|W)MC, respectively. 
- 
-Larger numbers in the filename should (as a rule of thumb) correspond to harder instances. 
-The odd instances are public and the even instances will be provided later (secret). 
-
-## Submission (optil)
-We refer to a [more detailed subpage](optil).
-
-## Evaluation (optil)
-- timeout: 15 minutes per instance
-- in detail: 900s (soft cpu), 905 (hard cpu), 1000 (soft wall), 1005 (hard wall)
-- Output: 524288 B
-- Mem: 8,388,608 KB
-- measure: number of solved instances
-- objective: minimize the measure
-
-## Evaluation (private instances / Track 1 and 2)
-- timeout: 30 minutes per instance
-- Environment: either on [Taurus](https://doc.zih.tu-dresden.de/hpc-wiki/bin/view/Compendium/SystemTaurus) or a cluster running an Ubuntu 16.04 LTS (kernel 4.4.0-166-generic, gcc 5.4.0)
-- in detail: 1800s (soft cpu), 1805 (hard cpu), 1900 (soft wall), 1905 (hard wall)
-- Output: 524288 B
-- Mem: 8,388,608 KB
-- measure: number of solved instances
-- objective: minimize the measure
-
-## Evaluation (private instances / Track 3)
-- timeout: 60 minutes per instance
-- Environment: either on [Taurus](https://doc.zih.tu-dresden.de/hpc-wiki/bin/view/Compendium/SystemTaurus) or a cluster running an Ubuntu 16.04 LTS (kernel 4.4.0-166-generic, gcc 5.4.0)
-- in detail: 3600s (soft cpu), 3605 (hard cpu), 3700 (soft wall), 3705 (hard wall)
-- Output: 524288 B
-- Mem: 8,388,608 KB
-- measure: number of solved instances
-- objective: minimize the measure
-
----
-
+# MC-2020 Competition Format
 ## Track 1: Model Counting
 
 Solver submissions for this track should output for a given Boolean formula
 the model count of the instance.
-For more details of the problem, we refer to [Model Counting](about).
-If the solver does not output the exact model count - the solver will not be disqualified, which ensures that we do not require arbitrary precision.
 
 ### Input Instance Format
 
@@ -140,9 +86,6 @@ e7ca305528a0257235a95c41742f2b3431e1e485  | pace2019-vc-exact-public-v2.tar.bz2-
 
 Solver submissions for this track should output for a given Boolean formula,
 and a weight function, the weighted model count of the instance.
-For more details of the problem, we refer to [Weighted Model Counting](about).
-The provided weighted model count does not have to be exact, but we expect 1% accuracy.
-
 
 ### Input Instance Format
 
@@ -219,9 +162,6 @@ s wmc 8.0
 
 Solver submissions for this track should output, for a given Boolean formula
 and set of projection variables, the projected model count of the instance.
-For more details of the problem, we refer to [Projected Model Counting](about).
-If the solver does not output the exact projected model count - the solver will not be disqualified, but the instance 
-will count as not solved. This ensures that we do not require arbitrary precision.
 
 
 ### Input Instance Format
@@ -293,10 +233,6 @@ c this is a comment and will be ignored
 c This file describes that the projected model count is 3
 s pmc 3
 ```
-
-### Instances
-
-TBA
 
 ---
 

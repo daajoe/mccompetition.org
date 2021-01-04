@@ -22,25 +22,29 @@ menu:
     icon: ""
     #TODO: Newsletter
 
-#  - text: About
-#    link: /2020/about
-#    icon: ""
-
-  - text: Competition<br> (MC 2020)
-    link: /2020/mc_description
+  - text: About
+    link: /about
     icon: ""
 
-  - text: Workshop<br> (MCW 2020)
-    link: /2020/mcw_description
+  - text: Past Iteration
+    link: /past_iterations
+    icon: ""
+
+  - text: Competition 2021
+    link: /2021/mc_description
+    icon: ""
+
+  - text: Workshop on<br/>Counting and Sampling
+    link: /2021/mcw_description
     icon: ""
 
   - text: Submission &<br>Important Dates
-    link: /2020/dates
+    link: /2021/dates
     icon: ""
 
-  - text: Program
-    link: /2020/mcw_program
-    icon: ""
+#  - text: Program
+#    link: /2020/mcw_program
+#    icon: ""
 
 
 # Socialmedia Icons
@@ -53,9 +57,13 @@ social_icons:
     link: https://github.com/daajoe/mccompetition.org
     icon: fab fa-github-square
 
-#  - name: twitter
-    # link: https://www.twitter.com/christianezeani
-#    icon: fab fa-twitter
+  - name: twitter
+    link: https://www.twitter.com/joedaa
+    icon: fab fa-twitter
+
+  - name: slack
+    link: https://mccompetition.slack.com
+    icon: fab fa-slack
 
 
     

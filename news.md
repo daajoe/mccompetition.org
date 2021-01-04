@@ -4,63 +4,9 @@
 # News
 
 ---
-## 28.07.2020: Updated Resultas are available now
-[Download Updated Slides](assets/files/2020/MC2020_awards.pdf)
-
-## 21.06.2020: Preliminary Results on the Public Track
-[Preliminary Results Track 3](https://cloudstore.zih.tu-dresden.de/index.php/s/mpWHaAogkerFX9s)
-
-## 17.06.2020: Preliminary Results on the Public Track
-[Preliminary Results Track 2](https://cloudstore.zih.tu-dresden.de/index.php/s/rspwDPZKc7CCZLH)
-
-## 12.06.2020: Preliminary Results on the Public Track
-[Preliminary Results Track 1](https://cloudstore.zih.tu-dresden.de/index.php/s/wwMtxsG8L9ksRxe)
-
-## 03.06.2020: Instances for Track 3 available
-After we got access back onto the TUD cluster, we updated the instances for Track 3 and submitted the track for publication on optil.
-
-## 03.06.2020: Updated Deadline
-We updated the deadlines.
-
-## 24.05.2020: We updated the Evaluation Details
-After multiple requests, we placed a quick tutorial for the optil submission online.
-The tutorial contains a file that should run out of the box for the model counting track
-and which you should be able to adapt easily.
-
-## 23.05.2020: We updated the Evaluation Details
-The TU Dresden cluster is still not available. 
-However, a collegue at TU Wien allows us to run the final evaluation on his cluster.
-Hence, we can extend the overall runtime. Optil evaluations will remain with 900s timeout for now. 
-
-## 21.05.2020: Deadline Extension for the workshop and the Model Counting Competition
-We decided to extend the deadlines.
-
-## 20.05.2020: Release of Track 3 (PMC) Instances and Optil is Delayed
-There was a major security incident at the cluster of TU Dresden, 
-[see](https://thecyberwire.com/newsletters/daily-briefing/9/96).
-
-Currently, we have no access to our benchmarking data for Track 3.
-
-
-## 04.05.2020: Optil.io submissions available
-We have finalized the instances for all three tracks and are in the process of publishing the submission for Projected Model Counting.
-Submissions at optil.io are already available for [Model Counting](https://www.optil.io/optilion/problem/3186) and [Weighted Model Counting](https://www.optil.io/optilion/problem/3187).
-
-## 03.05.2020: Public Benchmark Instances for PMC available
-For details [see descriptions](2020/mc_description).
-
-## 03.05.2020: Public Benchmark Instances for WMC updated 
-We had a bug in the instance generation after preprocessings with certain preprocessors (which also required 
-reselecting the instances). Fixed instances are available now. 
-
-For details [see descriptions](2020/mc_description).
-
-## 21.04.2020: Public Benchmark Instances available 
-[See online](2020/mc_description). Tracks on optil will follow soon.
-
-## 10.04.2020: __Format Testing possible for [Model Counting](https://www.optil.io/optilion/problem/3183), [Weighted Model Counting](https://www.optil.io/optilion/problem/3184) and [Projected Model Counting](https://www.optil.io/optilion/problem/3185)__
-
-## 07.01.2020: Call for Benchmarks online
+## 04.01.2021: Updated Webpage to 2021
+## 28.07.2020: Updated Results of MC-2020
+## 09.07.2020: Workshop and Presentation of the Preliminary Results of the Competition
 
 ## 18.12.2019: Website online
 
