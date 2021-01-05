@@ -25,14 +25,23 @@ tba
 
 ## Important Dates
 
-- December 18th, 2019: Announcement of the challenge (Tracks)
+<!--- December 18th, 2019: Announcement of the challenge (Tracks)
 - January 22nd, 2019: Call for Benchmarks
 - March 15th, 2020 (AoE) / Extended:  -- Deadline  -- Benchmark Submission
 - April 10th, 2020 (AoE) Format Testing possible for Model Counting, Weighted Model Counting and Projected Model Counting
 - May 4th, 2020 (AoE):  Optil System Open for Submissions for Model Counting and Weighted Model Counting
 - June 8th, 2020 (AoE):  -- Deadline -- Submission Track 1+2
 - June 13th, 2020 (AoE):  -- Deadline -- Submission Track 3
-- June 13th, 2020 (AoE): -- Deadline -- Submission of a solver description via Easychair
+- June 13th, 2020 (AoE): -- Deadline -- Submission of a solver description via Easychair-->
+
+- January 10th, 2021: Announcement of the challenge (Tracks)
+- January 22nd, 2021: Call for Benchmarks
+- Benchmarks: February 28, 2021 (soft, submit ASAP)
+- Intent to Participate (Google Form): March 15, 2021
+- Public Instances are available: March 30, 2021
+- Final version due: April 30, 2021
+- Solver descriptions (Easychair): May 30, 2021
+- Presentation of the Results: July X, 2021 (depending on the SAT Conference)
 
 
 
