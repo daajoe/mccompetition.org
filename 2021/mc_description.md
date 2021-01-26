@@ -34,8 +34,9 @@ tba
 - June 13th, 2020 (AoE):  -- Deadline -- Submission Track 3
 - June 13th, 2020 (AoE): -- Deadline -- Submission of a solver description via Easychair-->
 
-- January 10th, 2021: Announcement of the challenge (Tracks)
-- January 22nd, 2021: Call for Benchmarks
+- January 26th, 2021: Announcement of the challenge (Tracks)
+- February 2nd, 2021: Announcement of the Format
+- February 3rd, 2021: Call for Benchmarks
 - Benchmarks: February 28, 2021 (soft, submit ASAP)
 - Intent to Participate (Google Form): March 15, 2021
 - Public Instances are available: March 30, 2021
