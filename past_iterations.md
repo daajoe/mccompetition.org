@@ -7,7 +7,7 @@
 - Tracks: <b>Model Counting</b>, **Weighted Model Counting**, and **Projected Model Counting**<br/>
 ([description](../2020/mc_description),
 [format](../2020/mc_format),
-[winners](../2020/winners), 
+[winners](../assets/files/2020/MC2020_winners.pdf), 
 [report](https://arxiv.org/abs/2012.01323), 
 [slides](../assets/files/2020/MC2020_awards.pdf),
 [solvers](https://zenodo.org/record/4292581#.X_NnGOndva4),
