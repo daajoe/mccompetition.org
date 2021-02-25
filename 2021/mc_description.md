@@ -23,7 +23,8 @@ an DIMACS-based submission formats as given below.
 ## Format
 We refer to a comprehensive 
 [document on the description of the competition](../../assets/files/2021/competition2021.pdf). 
-
+Note that runtime requirements might still change until
+we have the final platform running, which we expect by April 10, 2020 lastest.
 
 ## Important Dates
 
