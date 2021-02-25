@@ -47,7 +47,7 @@ we have the final platform running, which we expect by April 10, 2020 lastest.
 - March 25, 2021: Intent to Participate<br> 
   Please use the [Google Form](https://tinyurl.com/2ys3tz4v)
 - April 10, 2021: Public Instances are available
-  **April 15, 2021**: Submission of the Solvers (Feedback Phase starts)
+-  **April 15, 2021**: Submission of the Solvers (Feedback Phase starts)
 - April 30, 2021: Last Update to submissions (End of Feedback Phase)
 - May 10, 2021: Evaluation Phase starts
 - May 30, 2021: Submissions + Descriptions (Zenodo)<br>
