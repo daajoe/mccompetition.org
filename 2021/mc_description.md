@@ -21,7 +21,10 @@ an DIMACS-based submission formats as given below.
 
 
 ## Format
-tba
+We refer to a comprehensive 
+[document on the description of the competition](../../assets/files/2021/competition2021.pdf). 
+Note that runtime requirements might still change until
+we have the final platform running, which we expect by April 10, 2020 lastest.
 
 ## Important Dates
 
@@ -34,16 +37,31 @@ tba
 - June 13th, 2020 (AoE):  -- Deadline -- Submission Track 3
 - June 13th, 2020 (AoE): -- Deadline -- Submission of a solver description via Easychair-->
 
-- January 26th, 2021: Announcement of the challenge (Tracks)
-- February 2nd, 2021: Announcement of the Format
-- February 3rd, 2021: Call for Benchmarks
+  January 10, 2021: Announcement of the challenge (Tracks)
+- January 26, 2021: Announcement of the challenge (Tracks)
+- February 24, 2021: Format Description Online
+- February 21, 2021: Call for Benchmarks
+- March 15, 2021: Test Instances are available
+- March 19, 2021: Benchmarks (submit ASAP)<br>
+  Please use the [Google Form](https://tinyurl.com/fm7ucg3z)
+- March 25, 2021: Intent to Participate<br> 
+  Please use the [Google Form](https://tinyurl.com/2ys3tz4v)
+- April 10, 2021: Public Instances are available
+  **April 15, 2021**: Submission of the Solvers (Feedback Phase starts)
+- April 30, 2021: Last Update to submissions (End of Feedback Phase)
+- May 10, 2021: Evaluation Phase starts
+- May 30, 2021: Submissions + Descriptions (Zenodo)<br>
+  Please use  the [Google Form](https://tinyurl.com/10v5vw38)
+-  July 8, 2021 & Presentation of the Results
+
+<!--
 - Benchmarks: February 28, 2021 (soft, submit ASAP)
 - Intent to Participate (Google Form): March 15, 2021
 - Public Instances are available: March 30, 2021
 - Final version due: April 30, 2021
 - Solver descriptions (Easychair): May 30, 2021
 - Presentation of the Results: July X, 2021 (depending on the SAT Conference)
-
+-->
 
 
 ## Organization
@@ -69,10 +87,14 @@ tba
 -->
 
 ### Evaluation Plattform 
-tba, likely StarExec
+We are happy that the director of StarExec (Aaron Stump, Iowa) 
+accepted to host the model counting competition. We are currently
+trying to setup the platform. In case that we do manage this in time,
+we will run the competition on the 
+[Taurus Cluster in Dresden](https://www.top500.org/system/178555/). 
 
-<!--
+
 ## Sponsors
-[data-experts](https://data-experts.de) sponsored MC 2020.-->
+[data-experts](https://data-experts.de) already announced sponsoring of MC 2021.
 
 ---
