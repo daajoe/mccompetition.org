@@ -38,31 +38,48 @@ Main areas of interest include, but are not restricted to:
 
 
 ## Venue
-tba. We aim for SAT2021.
-<!--We refer to the [SAT2020 Website](https://sat2020.idea-researchlab.org/workshops/).-->
+We refer to the [SAT 2021 Website](https://www.iiia.csic.es/sat2021/venue/).
 
-<!--## Registration
-Consult the [SAT 2020 Registration](https://sat2020.idea-researchlab.org/registration/).
--->
+## Registration
+Consult the [SAT 2021 Registration](https://www.iiia.csic.es/sat2021/registration/).
+
 
 ## Timeline
-[here](dates).
+see [Important Dates](dates).
+
+## Format
+You present your best work related to counting and sampling,
+be it published elsewhere or yet unpublished. 
+Due to travel restrictions throughout Europe and the world, 
+we expect an online workshop.
+
+## Agenda / Talks
+- 15min (Talk, pre-recorded)
+- 10min (Q&A)
+- 5min break
 
 ## Submissions
-The Workshop on Model Counting allows optional publication: there will be electronic proceedings in which accepted contributions may be published in case the authors wish so. But to allow for publication elsewhere and the submission of work already published, the authors also have the option of their contribution not appearing in the proceedings. Consequently, there we invite two types of submissions:
+Submission: We place no format requirement. We expect that you provide
+a reasonable description in txt or pdf-format and upload this on 
+[Easychair](https://easychair.org/my/login_author?conference=258561;a=25917113).
 
-- Publishable papers: this type of submission is for work that the authors wish to publish in the proceedings. It should describe original work on a topic of the workshop, including papers whose focus might be too narrow to be published in a conference. System descriptions of model counters and related solver technologies are also welcome. Submissions of this type have to be formatted with the [EasyChair style](https://easychair.org/publications/easychair.zip) and should consist of at most 14 pages excluding references. 
-- Presentation-only contributions: this type of submissions is for work that the authors do **not** want to appear in the proceedings. Is should describe work on a topic of the workshop. We explicitly also invite work in progress and work that has recently been accepted or published at another conference, but that the community may have missed (including, e.g., domain-specific applications of declarative solvers at the respective domain-specific conferences). Submissions to this category should be abstracts of 1-2 pages in any reasonable format and will be evaluated only on their relevance to the workshop.
 
-For both types of submissions source code and data downloads are appreciated. An appendix or external material is allowed, but will be considered at the reviewers' discretion. For presentation-only contributions the authors can also add published or preprint version of the submitted work.
+Procedures for selecting papers: 
+All submissions will be reviewed by 3-4 program committee members 
+and papers will be selected based on their recommendations.
 
-The contributions must be submitted electronically through [EasyChair](https://easychair.org/conferences/?conf=mcw2020) as a PDF file in the format described above.
+Plans for dissemination: There will be no proceedings, 
+we will make the abstract, slides, and pre-recorded video 
+publicly available at the website. If the authors agree, we will
+also place this publicly as a tarball under CC-BY on a public 
+repository such as Zenodo.
 
-Submissions are not expected to be double-blind, but can be submitted double blind if the authors prefer.
 
 
 ## Out of Scope
-Papers claiming to resolve a major long-standing open theoretical question in Mathematics or Computer Science are outside the scope of the workshop.
+Papers claiming to resolve a major long-standing open
+ theoretical question in Mathematics or Computer Science 
+ are outside the scope of the workshop.
 
 
 

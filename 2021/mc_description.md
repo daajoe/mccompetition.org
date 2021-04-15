@@ -19,12 +19,16 @@ Model Counting Competition invites extended submission of collections of countin
 an DIMACS-based submission formats as given below.
 <!--at the [competition tracks and format](mc_format).-->
 
+## Submission
+Register an Account with [StarExec](https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=441292).
+ We will give you access and you will be able to upload your solver there.
+
 
 ## Format
 We refer to a comprehensive 
 [document on the description of the competition](../../assets/files/2021/competition2021.pdf). 
 Note that runtime requirements might still change until
-we have the final platform running, which we expect by April 10, 2020 lastest.
+we have the final platform running, which we expect by April 16, 2021.
 
 ## Important Dates
 
@@ -41,15 +45,15 @@ we have the final platform running, which we expect by April 10, 2020 lastest.
 - January 26, 2021: Announcement of the challenge (Tracks)
 - February 24, 2021: Format Description Online
 - February 21, 2021: Call for Benchmarks
-- March 15, 2021: Test Instances are available
 - March 19, 2021: Benchmarks (submit ASAP)<br>
   Please use the [Google Form](https://tinyurl.com/fm7ucg3z)
 - March 25, 2021: Intent to Participate<br> 
   Please use the [Google Form](https://tinyurl.com/2ys3tz4v)
-- April 10, 2021: Public Instances are available
--  **April 15, 2021**: Submission of the Solvers (Feedback Phase starts)
-- April 30, 2021: Last Update to submissions (End of Feedback Phase)
-- May 10, 2021: Evaluation Phase starts
+- April 15, 2021: Public Instances are available
+- April 16, 2021: Submission of the Solvers (Feedback Phase starts)
+<!--- **April 20, 2021**: Test Instances are available --->
+- May 7, 2021: Last Update to submissions (End of Feedback Phase)
+- May 17, 2021: Evaluation Phase starts
 - May 30, 2021: Submissions + Descriptions (Zenodo)<br>
   Please use  the [Google Form](https://tinyurl.com/10v5vw38)
 -  July 8, 2021 & Presentation of the Results
