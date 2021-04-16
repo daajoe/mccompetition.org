@@ -16,7 +16,7 @@ Updated results of the competition will be out soon.
 
 The _2nd Competition on Model Counting (MC 2021)_ is a competition to deepen the relationship between latest theoretical and practical development on the various model counting problems and their practical applications. It targets the problem of counting the number of models of a Boolean formula. 
 
-Further details on the competition can be found at: [Competition 2020](2021/mc_description)
+Further details on the competition can be found at: [Competition 2021](2021/mc_description)
 <br /><br />
 
 # Workshop on Counting and Sampling
@@ -31,7 +31,7 @@ practical academic and industrial applications as well as the linking theory and
 The workshop is also the place for developers of model counters and samplers to present their programs 
 and the presentation of detailed results on the model counting competition.
 
-Further details on the competition can be found at: [Workshop on Counting and Sampling 2020](2021/mcw_description)
+Further details on the competition can be found at: [Workshop on Counting and Sampling 2021](2021/mcw_description)
 
 
 # Submissions
