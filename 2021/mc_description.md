@@ -19,6 +19,9 @@ Model Counting Competition invites extended submission of collections of countin
 an DIMACS-based submission formats as given below.
 <!--at the [competition tracks and format](mc_format).-->
 
+## Public Instances
+[Download for all Tracks](https://cloudstore.zih.tu-dresden.de/index.php/s/PxXPMF37dzJt8X4)
+
 ## Submission
 Register an Account with [StarExec](https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=441292).
  We will give you access and you will be able to upload your solver there.
