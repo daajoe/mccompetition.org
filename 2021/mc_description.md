@@ -80,7 +80,7 @@ we have the final platform running, which we expect by April 16, 2021.
 ### Judge
 * Martin Gebser (AAU Klagenfurt). Martin has co-organized the 1st, 2nd, 6th, and 7th ASP competition. 
 
-### Technical Advisor
+### Technical and Reproduciblity Advisor
 * Daniel Le Berre  
 
 <!--
@@ -101,9 +101,8 @@ we have the final platform running, which we expect by April 16, 2021.
 
 ### Evaluation Plattform 
 We are happy that the director of StarExec (Aaron Stump, Iowa) 
-accepted to host the model counting competition. We are currently
-trying to setup the platform. In case that we do manage this in time,
-we will run the competition on the 
+accepted to host the model counting competition. The main part of the competition will 
+run on StarExec. We evaluate the solvers in parallel also on the    
 [Taurus Cluster in Dresden](https://www.top500.org/system/178555/). 
 
 
