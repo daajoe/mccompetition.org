@@ -77,11 +77,17 @@ we have the final platform running, which we expect by April 16, 2021.
 * Markus Hecher (TU Wien, Vienna)
 * Johannes K. Fichte (TU Dresden, Dresden)
 
+### Judge
+* Martin Gebser (AAU Klagenfurt). Martin has co-organized the 1st, 2nd, 6th, and 7th ASP competition. 
+
+### Technical Advisor
+* Daniel Le Berre  
+
 <!--
 ### Scientific Partners
 * Adnan Darwiche (University of California at Los Angeles)
 * Arthur Choi (University of California at Los Angeles)
-* Armin Biere (Johannes Kepler Universitat Linz)
+* Armin Biere (Johannes Kepler Universit at Linz)
 * Kuldeep S. Meel (National University of Singapore)
 * Markus Hecher (TU Wien)
 * Johannes K. Fichte (TU Dresden)
