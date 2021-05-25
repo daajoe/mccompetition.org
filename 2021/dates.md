@@ -62,7 +62,7 @@ Register an Account with [StarExec](https://www.starexec.org/starexec/secure/exp
 - July X (5-9), 2021: Online Workshop (depending on the SAT conference) 
 
 ## Submission
-- [EasyChair](https://easychair.org/conferences/?conf=tba)
+- [EasyChair](https://easychair.org/conferences/?conf=mc2021)
 - [EasyChair proceedings style](https://easychair.org/publications/easychair.zip)
 - Length: Abstract
 ---

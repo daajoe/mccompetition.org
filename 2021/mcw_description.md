@@ -41,11 +41,20 @@ Main areas of interest include, but are not restricted to:
 We refer to the [SAT 2021 Website](https://www.iiia.csic.es/sat2021/venue/).
 
 ## Registration
-Consult the [SAT 2021 Registration](https://www.iiia.csic.es/sat2021/registration/).
+Workshop requires no registration fee. 
+Please, register on the [SAT 2021 Webpage](https://www.iiia.csic.es/sat2021/registration/).
+If you select workshop only, registration is free.
 
 
 ## Timeline
-see [Important Dates](dates).
+- **June  1, 2021: Abstract submission deadline**
+- June 10, 2021: Notification to authors
+- June 12, 2021: Program available on the workshop website
+- July 6, 2021: Online Workshop time will be anounced. 
+We expect a timeslot of 3 hours in the late afternoon CEST, 
+in time between 3:00pm and 8:00 pm (CEST). 
+
+
 
 ## Format
 You present your best work related to counting and sampling,
@@ -61,7 +70,7 @@ we expect an online workshop.
 ## Submissions
 Submission: We place no format requirement. We expect that you provide
 a reasonable description in txt or pdf-format and upload this on 
-[Easychair](https://easychair.org/my/login_author?conference=258561;a=25917113).
+[Easychair](https://easychair.org/conferences/?conf=mc2021).
 
 
 Procedures for selecting papers: 
