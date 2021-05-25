@@ -59,7 +59,7 @@ Register an Account with [StarExec](https://www.starexec.org/starexec/secure/exp
 - **June  1, 2021: Abstract submission deadline**
 - June 10, 2021: Notification to authors
 - June 12, 2021: Program available on the workshop website
-- July X (5-9), 2021: Online Workshop (depending on the SAT conference) 
+- July 6, 2021: Online Workshop. Time late afternoon CEST (details tba). 
 
 ## Submission
 - [EasyChair](https://easychair.org/conferences/?conf=mc2021)
