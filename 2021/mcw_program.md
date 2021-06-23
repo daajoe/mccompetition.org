@@ -11,7 +11,7 @@ See: [https://www.iiia.csic.es/sat2021/registration/](https://www.iiia.csic.es/s
 We will keep you posted about the conferencing system (likely Zoom).<br/>
 See also updates on Twitter [Johannes](https://twitter.com/joedaa), [Kuldeep](https://twitter.com/ksmeel), [Mate](https://twitter.com/SoosMate).
 
-Day: Tuesday, July 6th, 2020 (Times are given in GMT+2, see [your timezone](https://everytimezone.com/s/4630fcac))
+Day: Tuesday, July 6th, 2020 (Times are given in GMT+2/CEST/Paris, see [your timezone](https://everytimezone.com/s/4630fcac))
 
 <style>
 td, th {
