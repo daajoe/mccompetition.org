@@ -47,12 +47,12 @@ If you select workshop only, registration is free.
 
 
 ## Timeline
-- **June  1, 2021: Abstract submission deadline**
+- June  1, 2021: Abstract submission deadline
 - June 10, 2021: Notification to authors
 - June 12, 2021: Program available on the workshop website
-- July 6, 2021: Online Workshop time will be anounced. 
-We expect a timeslot of 3 hours in the late afternoon CEST, 
-in time between 3:00pm and 8:00 pm (CEST). 
+- **July 6, 2021: Online Workshop.**<br/>
+Timeslot of about 3 hours in the late afternoon CEST, 
+in time between 4:00pm and 8:00 pm (CEST). 
 
 
 
@@ -63,7 +63,7 @@ Due to travel restrictions throughout Europe and the world,
 we expect an online workshop.
 
 ## Agenda / Talks
-- 15min (Talk, pre-recorded)
+- 15min (Talk, live or pre-recorded)
 - 10min (Q&A)
 - 5min break
 
@@ -78,7 +78,7 @@ All submissions will be reviewed by 3-4 program committee members
 and papers will be selected based on their recommendations.
 
 Plans for dissemination: There will be no proceedings, 
-we will make the abstract, slides, and pre-recorded video 
+we will make the abstract, slides, and recorded video 
 publicly available at the website. If the authors agree, we will
 also place this publicly as a tarball under CC-BY on a public 
 repository such as Zenodo.
@@ -91,11 +91,11 @@ Papers claiming to resolve a major long-standing open
  are outside the scope of the workshop.
 
 
-
+<!--
 ## Committee
 tba
 
-<!--
+
 - Adnan Darwiche, University of California, Los Angeles
 - Antti Hyvärinen, USI
 - Arnaud Durand, Université Paris

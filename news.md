@@ -4,6 +4,9 @@
 # News
 
 ---
+## 23.06.2021: Program is online
+See [Program](2021/mcw_program)
+
 ## 15.04.2021: Instances are Public
 See [Download](https://cloudstore.zih.tu-dresden.de/index.php/s/PxXPMF37dzJt8X4)
 

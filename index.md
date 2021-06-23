@@ -33,9 +33,18 @@ and the presentation of detailed results on the model counting competition.
 
 Further details on the competition can be found at: [Workshop on Counting and Sampling 2021](2021/mcw_description)
 
+# Program
+The program is available at [Workshop 2021 Program](2021/mcw_program).
 
+# Competition Results
+The competition results will be presented on Friday, July 9th at the SAT conference during the Competitive events session (17:40-18:30).<br/>
+See: [SAT program](https://www.iiia.csic.es/sat2021/program/#Friday9).
+
+
+<!--
 # Submissions
 For competition and workshop submissions see [Dates and Submission](2021/dates).
+-->
 
 <!--
 # Sponsors
