@@ -34,8 +34,12 @@ menu:
     link: /2021/mc_description
     icon: ""
 
-  - text: Workshop on<br/>Counting and Sampling
+  - text: Workshop 2021 on<br/>Counting and Sampling
     link: /2021/mcw_description
+    icon: ""
+
+  - text: Workshop 2021 (Program)
+    link: /2021/mcw_program
     icon: ""
 
   - text: Submission &<br>Important Dates

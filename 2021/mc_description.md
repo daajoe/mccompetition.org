@@ -59,7 +59,7 @@ we have the final platform running, which we expect by April 16, 2021.
 - May 17, 2021: Evaluation Phase starts
 - May 30, 2021: Submissions + Descriptions (Zenodo)<br>
   Please use  the [Google Form](https://tinyurl.com/10v5vw38)
--  July 8, 2021 & Presentation of the Results
+-  July 9, 2021 & Presentation of the Results during the SAT conference
 
 <!--
 - Benchmarks: February 28, 2021 (soft, submit ASAP)
