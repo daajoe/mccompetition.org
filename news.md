@@ -4,6 +4,9 @@
 # News
 
 ---
+
+## 28.06.2021 All instances are made public
+
 ## 23.06.2021: Program is online
 See [Program](2021/mcw_program)
 
