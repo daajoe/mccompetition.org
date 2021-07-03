@@ -1,6 +1,6 @@
 ---
 ---
-# Program of the Workshop on Model Counting (MCW-2021)
+# Program of the Workshop on Counting and Sampling 2021
 
 Registration is free. <br/>
 Please register with the SAT conference.<br/>
