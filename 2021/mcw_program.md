@@ -1,6 +1,6 @@
 ---
 ---
-# Program of the Workshop on Model Counting (MCW-2020)
+# Program of the Workshop on Model Counting (MCW-2021)
 
 Registration is free. <br/>
 Please register with the SAT conference.<br/>
