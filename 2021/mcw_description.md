@@ -45,6 +45,8 @@ Workshop requires no registration fee.
 Please, register on the [SAT 2021 Webpage](https://www.iiia.csic.es/sat2021/registration/).
 If you select workshop only, registration is free.
 
+## Program
+See [Detailed Program of the Workshop](mcw_program)
 
 ## Timeline
 - June  1, 2021: Abstract submission deadline
