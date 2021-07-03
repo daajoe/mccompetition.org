@@ -3,7 +3,8 @@
 # Program of the Workshop on Model Counting (MCW-2020)
 
 Registration is free. <br/>
-Please register with the SAT conference.
+Please register with the SAT conference.<br/>
+Login Credentials will be provided by the SAT conference.
 
 
 See: [https://www.iiia.csic.es/sat2021/registration/](https://www.iiia.csic.es/sat2021/registration/)
