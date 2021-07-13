@@ -19,6 +19,37 @@
 ([program](../2020/mcw_program), [abstracts](../assets/files/2020/), [slides](../assets/files/2020/), [recordings](https://cloudstore.zih.tu-dresden.de/index.php/s/ccGNrNxeH9AXaSq))
 
 
+
+# Model Counting (MC-2021)
+
+## Competition
+- Tracks: **Model Counting**, **Weighted Model Counting**, and **Projected Model Counting**<br/>
+([description](../2021/mc_description),
+[StarExec Community](tba),
+[format](../2021/mc_format),
+[winners](../assets/files/2021/MC2021_winners.pdf), 
+report [~Oct], 
+[slides](../assets/files/2021/MC2021_awards.pdf),
+solvers [~Sept],
+[competition instances](https://cloudstore.zih.tu-dresden.de/index.php/s/GTFXigjkktwq7R6),
+all instances [~Oct])
+
+<!--
+[StarExec Community](tba),
+[format](../2021/mc_format),
+[winners](../assets/files/2021/MC2021_winners.pdf), 
+[report [~Oct 2021]](tba), 
+[slides](../assets/files/2021/MC2021_awards.pdf),
+[solvers [~Sept 2021]](tba),
+[competition instances](https://cloudstore.zih.tu-dresden.de/index.php/s/GTFXigjkktwq7R6),
+[all instances [~Oct 2021]]())
+-->
+
+## Workshop on Counting and Sampling
+- Workshop 2021<br/>
+([program](../2021/mcw_program), [abstracts](../assets/files/2021/), [slides](../assets/files/2021/), [recordings](#tba))
+
+
 <!--
 # Past Iterations
 
