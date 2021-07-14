@@ -1,7 +1,7 @@
 ---
 ---
 
-# Model Counting Competition (MC-2020)
+# Model Counting (MC-2021)
 
 
 ## Tracks

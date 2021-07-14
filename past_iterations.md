@@ -25,8 +25,8 @@
 ## Competition
 - Tracks: **Model Counting**, **Weighted Model Counting**, and **Projected Model Counting**<br/>
 ([description](../2021/mc_description),
-[StarExec Community](tba),
-[format](../2021/mc_format),
+[StarExec Community](https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=441292),
+[format](assets/files/2021/competition2021.pdf),
 [winners](../assets/files/2021/MC2021_winners.pdf), 
 report [~Oct], 
 [slides](../assets/files/2021/MC2021_awards.pdf),
