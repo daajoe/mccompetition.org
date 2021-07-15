@@ -42,6 +42,10 @@ menu:
     link: /2022/dates
     icon: ""
 
+  - text: Existing Solvers
+    link: /solvers/descriptions
+    icon: ""
+
 #  - text: Program
 #    link: /2020/mcw_program
 #    icon: ""
