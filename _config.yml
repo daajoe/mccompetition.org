@@ -30,6 +30,10 @@ menu:
     link: /past_iterations
     icon: ""
 
+  - text: Solvers
+    link: /solvers/descriptions
+    icon: ""
+
   - text: Competition 2022
     link: /2022/mc_description
     icon: ""
@@ -40,10 +44,6 @@ menu:
 
   - text: Submission &<br>Important Dates
     link: /2022/dates
-    icon: ""
-
-  - text: Existing Solvers
-    link: /solvers/descriptions
     icon: ""
 
 #  - text: Program
