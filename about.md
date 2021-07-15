@@ -41,11 +41,11 @@ and for theoretical researchers to present latest results on solving.
 
 ## Organizers
 
-Markus Hecher, TU Wien, Austria
-Johannes Fichte, TU Dresden, Germany
+- Markus Hecher, TU Wien, Austria
+- Johannes Fichte, TU Dresden, Germany
 
 ## Technical Advisor
-Daniel Le Berre, CRIL, France
+- Daniel Le Berre, CRIL, France
 
 <!-- # Previous Work
 
