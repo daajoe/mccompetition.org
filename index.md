@@ -10,13 +10,13 @@ For details on the workshop its presentations, slides, and recordings we refer t
 Updated results of the competition will be out soon.
 -->
 
-# Model Counting 2021 (MC-2021)
+# Model Counting (MC-2022)
 
 # Competition
 
-The _2nd Competition on Model Counting (MC 2021)_ is a competition to deepen the relationship between latest theoretical and practical development on the various model counting problems and their practical applications. It targets the problem of counting the number of models of a Boolean formula. 
+The _2nd Competition on Model Counting (MC 2022)_ is a competition to deepen the relationship between latest theoretical and practical development on the various model counting problems and their practical applications. It targets the problem of counting the number of models of a Boolean formula. 
 
-Further details on the competition can be found at: [Competition 2021](2021/mc_description)
+Further details on the competition can be found at: [Competition 2022](2022/mc_description)
 <br /><br />
 
 # Workshop on Counting and Sampling
@@ -31,26 +31,26 @@ practical academic and industrial applications as well as the linking theory and
 The workshop is also the place for developers of model counters and samplers to present their programs 
 and the presentation of detailed results on the model counting competition.
 
-Further details on the competition can be found at: [Workshop on Counting and Sampling 2021](2021/mcw_description)
+Further details on the competition can be found at: [Workshop on Counting and Sampling 2022](2022/mcw_description)
 
+<!--
 # Program
 The program is available at [Workshop 2021 Program](2021/mcw_program).
 
 # Competition Results
 The competition results will be presented on Friday, July 9th at the SAT conference during the Competitive events session (17:40-18:30).<br/>
 See: [SAT program](https://www.iiia.csic.es/sat2021/program/#Friday9).
-
+-->
 
 <!--
 # Submissions
 For competition and workshop submissions see [Dates and Submission](2021/dates).
 -->
 
-<!--
 # Sponsors
-On behalf of the Program Committee of MC 2020, we invite you to participate in the sponsoring of metals and travel support for the winners.
+On behalf of the Program Committee of MC 2022, we invite you to participate in the sponsoring of metals and travel support for the winners.
 
-
+<!--
 [data-experts](https://data-experts.de) already announced sponsoring for MC 2020.
 
 <img src="assets/images/data-experts-logo.png" alt="data-experts" style="width: 300px;"/>
