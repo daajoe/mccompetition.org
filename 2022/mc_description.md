@@ -17,6 +17,9 @@ The competition is co-located with the competitions at [FLoC 2022 in Haifa, Isra
 Model Counting Competition invites extended submissions of collections of counting instances in the 
 an [DIMACS-like submission format as used in the 2021 competition](../../assets/files/2021/competition2021.pdf).
 
+- [Call for Benchmarks 2022 (PDF)](../../assets/files/2022/call_for_benchmarks2022.pdf)
+- [Call for Benchmarks 2022 (TEXT)](cfb2022)
+
 ## Rules
 ### Ranking
 - A. Exact (arbitrary precision)
