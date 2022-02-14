@@ -34,22 +34,18 @@ Register an Account with [StarExec](https://www.starexec.org/starexec/secure/exp
 
 <br />
 
-# Workshop on Counting and Sampling  (MCW-2022@SAT)
+# Workshop on Counting and Sampling  (MCS-2022@SAT)
 ## Important Dates
 
-tba
+- **May 1, 2022: Submission Deadline**
+- June 1, 2022: Notification of Acceptance
+- August 11, 2022: Workshop
 
-<!---
-- **June  1, 2021: Abstract submission deadline**
-- June 10, 2021: Notification to authors
-- June 12, 2021: Program available on the workshop website
-- July 6, 2021: Online Workshop. Time late afternoon CEST (details tba). 
 
 ## Submission
-- [EasyChair](https://easychair.org/conferences/?conf=mc2021)
+- [EasyChair](https://easychair.org/conferences/?conf=mc2022)
 - [EasyChair proceedings style](https://easychair.org/publications/easychair.zip)
 - Length: Abstract
---->
 
 
 ---
