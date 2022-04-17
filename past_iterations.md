@@ -28,11 +28,11 @@
 [StarExec Community](https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=441292),
 [format](assets/files/2021/competition2021.pdf),
 [winners](../assets/files/2021/MC2021_winners.pdf), 
-report [~Oct], 
+report [~May'22], 
 [slides](../assets/files/2021/MC2021_awards.pdf),
-solvers [~Sept],
+solvers [on request,~May'22],
 [competition instances](https://cloudstore.zih.tu-dresden.de/index.php/s/GTFXigjkktwq7R6),
-all instances [~Oct])
+all instances [on request])
 
 <!--
 [StarExec Community](tba),
