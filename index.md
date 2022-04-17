@@ -12,6 +12,10 @@ Updated results of the competition will be out soon.
 
 # Model Counting (MC-2022)
 
+<span style="color:red">The model counting competition will soon start on StarExec.<br/> 
+We are running late with releasing instances and testing setup. 
+At the moment, we expect a delay of 10 days.</span>
+
 # Competition
 
 The _2nd Competition on Model Counting (MC 2022)_ is a competition to deepen the relationship between latest theoretical and practical development on the various model counting problems and their practical applications. It targets the problem of counting the number of models of a Boolean formula. 

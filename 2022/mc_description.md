@@ -43,7 +43,8 @@ standard solvers within less than 10s and keep at most 40 instances
 that cannot be solved by common existing solver. 
 
 ## Public Instances
-[Download for all Tracks / tba](tba)
+<!--- [Download for all Tracks / tba](tba) --->
+Soon (see timeline below)
 
 ## Submission
 Register an Account with [StarExec](https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=441292).
@@ -59,17 +60,18 @@ We refer to a comprehensive
 - December 20, 2021: 1st Call for Participation
 - February 15, 2022: Deadline for Benchmark Submission (submit asap)<br>
   Please use the [Google Form](https://tinyurl.com/32m78k32)
-- March 15, 2022: Benchmarks Evalutated
-- March 25, 2021: Intent to Participate<br> 
-  Please use the [Google Form](https://tinyurl.com/2p9db6sa)
-- March 31, 2022: Competition Benchmarks Chosen 
-- April 1, 2022: Submission System (StarExec) available
-- April 15, 2022: Testing Benchmarks / Public Instances Released
+- <b>April 27, 2022: Testing Benchmarks / Public Instances Released</b>
+- April 30, 2022: Intent to Participate: Please use the [Google Form](https://tinyurl.com/2p9db6sa)
 - May 12, 2022: Submission Deadline
 - June 23, 2022: Participants are notified about their results 
 - June 28, 2022: Comments Deadline by Participants
 - Aug 4, 2022: FLoC Presentation of the Results
 - Aug 11, 2022: Workshop on Counting and Sampling (PostFLoC Workshop)
+
+<!--- 
+- March 15, 2022: Benchmarks Evalutated
+- March 31, 2022: Competition Benchmarks Chosen
+ - April 1, 2022: Submission System (StarExec) available --->
 
 ## Organization
 
@@ -86,12 +88,12 @@ We refer to a comprehensive
 ### Evaluation Plattform 
 We are happy that the director of StarExec (Aaron Stump, Iowa) 
 accepted to host the model counting competition. The main part of the competition will 
-run on StarExec. We evaluate the solvers in parallel also on the    
-[Taurus Cluster in Dresden](https://www.top500.org/system/178555/). 
+run on StarExec. We evaluate the solvers in parallel also on 
+the [Taurus Cluster in Dresden](https://www.top500.org/system/178555/). 
 
 <!---
 ## Sponsors
-[data-experts](https://data-experts.de) already announced sponsoring of MC 2021.
+[data-experts](https://data-experts.de) already announced sponsoring of MC 2022.
 --->
 
 
