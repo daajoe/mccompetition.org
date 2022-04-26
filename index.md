@@ -12,9 +12,9 @@ Updated results of the competition will be out soon.
 
 # Model Counting (MC-2022)
 
-<span style="color:red">The model counting competition will soon start on StarExec.<br/> 
-We are running late with releasing instances and testing setup. 
-At the moment, we expect a delay of 10 days.</span>
+<span style="color:red">The model counting competition instances are online for Track 1 and submission is open on StarExec.<br/> 
+See: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520768">Track 1 Submission</a><br/>
+Track 3 will follow within the next days.</span>
 
 # Competition
 
