@@ -44,6 +44,12 @@ that cannot be solved by common existing solver.
 
 ## Public Instances
 <!--- [Download for all Tracks / tba](tba) --->
+
+- <a href="https://cloudstore.zih.tu-dresden.de/index.php/s/xGdeLGWNCZEHWas>Public Instances for Track 1</a>
+- Public Instances for Track 2 (expected to be canceled; if you want to submit instances late, please contact us)
+- Public Instances for Track 3 (soon)
+- Public Instances for Track 4 (open)
+
 Soon (see timeline below)
 
 ## Submission
