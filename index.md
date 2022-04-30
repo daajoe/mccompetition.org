@@ -13,8 +13,7 @@ Updated results of the competition will be out soon.
 # Model Counting (MC-2022)
 
 <span style="color:red">The model counting competition instances are online for Track 1 and submission is open on StarExec.<br/> 
-See: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520768">Track 1 Submission</a><br/>
-Track 3 will follow within the next days.</span>
+See updates: [STATUS and NEWS](news).
 
 # Competition
 
