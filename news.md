@@ -4,11 +4,15 @@
 # News
 
 ---
-## Track 1 Submission: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520768">StarExec Link</a><br/>
+## Track 1 Submission
+<a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520768">StarExec Link</a><br/>
 Status (30.04.2022) Online, BUT we had to update instances (issues with the format)
-## Track 2 Submission Status: Evaluating on the Cluster / Generating Weights
-## Track 3 Submission Status: Evaluating on the Cluster
-## Track 4 Submission Status: Delayed
+## Track 2 Submission Status
+Evaluating on the Cluster / Generating Weights
+## Track 3 Submission Status
+Evaluating on the Cluster
+## Track 4 Submission Status
+Delayed
 
 ## 30.04.2022: Track 1 Instances are updated on StarExec (we still need to doublecheck counts for judges)
 ## 28.04.2022: Track 1 Instances are updated on the Cloudstore
