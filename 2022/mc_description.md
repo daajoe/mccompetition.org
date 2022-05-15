@@ -66,9 +66,9 @@ We refer to a comprehensive
 - December 20, 2021: 1st Call for Participation
 - February 15, 2022: Deadline for Benchmark Submission (submit asap)<br>
   Please use the [Google Form](https://tinyurl.com/32m78k32)
-- <b>April 27, 2022: Testing Benchmarks / Public Instances Released</b>
-- April 30, 2022: Intent to Participate: Please use the [Google Form](https://tinyurl.com/2p9db6sa)
-- May 12, 2022: Submission Deadline
+- ~~April 27, 2022~~ May 14, 2022: Testing Benchmarks / Public Instances Released</b>
+- <b>~~April 30, 2022~~ May 22, 2022: Intent to Participate: Please use the [Google Form](https://tinyurl.com/2p9db6sa)</b>
+- <b>~~May 12, 2022~~ May 22, 2022: Submission Deadline</b>
 - June 23, 2022: Participants are notified about their results 
 - June 28, 2022: Comments Deadline by Participants
 - Aug 4, 2022: FLoC Presentation of the Results
