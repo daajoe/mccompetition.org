@@ -88,7 +88,7 @@ We refer to a comprehensive
 ### Judge
 * Mario Alviano (University of Calabria). Mario has co-organized various ASP competitions. 
 
-### Technical and Reproduciblity Advisor
+### Technical and Reproducibility Advisor
 * Daniel Le Berre  
 
 ### Evaluation Plattform 
