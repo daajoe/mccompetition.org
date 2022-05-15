@@ -8,11 +8,36 @@
 <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520768">StarExec Link</a><br/>
 Status (30.04.2022) Online, BUT we had to update instances (issues with the format)
 ## Track 2 Submission Status
-Evaluating on the Cluster / Generating Weights
+Status (14.05.2022) Online for Download, StarExec will follow soon
 ## Track 3 Submission Status
-Evaluating on the Cluster
+Status (14.05.2022) Online for Download, StarExec will follow soon
 ## Track 4 Submission Status
-Delayed
+Expected by May 18, 2022
+
+
+## 14.04.2022: Track 3
+Instances available on the Cloudstore
+
+## 14.04.2022: Track 3
+Doublechecking counts
+
+## 14.04.2022: Track 2
+Instances available on the Cloudstore
+
+## 12.05.2022: Track 2
+Weights selected, doublechecking counts
+
+## 12.05.2022: Track 1
+Instances for Track 1 updated on StarExec
+
+## 09.05.2022: Track 2
+Instances selected, regenerating weights to reduce too many instance with low/high weights
+
+## 08.05.2022: Track 1
+Instances for Track 1 updated on the Cloudstore
+
+## 02.05.2022: Track 3
+Instances evaluated (needs doublechechecking counts for judges)
 
 ## 30.04.2022: Track 1
 Instances are updated on StarExec (we still need to doublecheck counts for judges)
