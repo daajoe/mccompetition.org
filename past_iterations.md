@@ -30,7 +30,7 @@
 [winners](../assets/files/2021/MC2021_winners.pdf), 
 report [~May'22], 
 [slides](../assets/files/2021/MC2021_awards.pdf),
-solvers [on request,~May'22],
+[solvers](https://cloudstore.zih.tu-dresden.de/index.php/s/xPPwZx7382kxP7i),
 [competition instances](https://cloudstore.zih.tu-dresden.de/index.php/s/GTFXigjkktwq7R6),
 all instances [on request])
 
