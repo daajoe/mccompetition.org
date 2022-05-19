@@ -46,8 +46,8 @@ that cannot be solved by common existing solver.
 <!--- [Download for all Tracks / tba](tba) --->
 
 - <a href="https://cloudstore.zih.tu-dresden.de/index.php/s/9AETnoL86ND5W8t">Public Instances for Track 1</a>
-- <a href="https://cloudstore.zih.tu-dresden.de/index.php/s/9AETnoL86ND5W8t">Public Instances for Track 2</a>
-- <a href="https://cloudstore.zih.tu-dresden.de/index.php/s/9AETnoL86ND5W8t">Public Instances for Track 3 (soon)</a>
+- <a href="https://cloudstore.zih.tu-dresden.de/index.php/s/9AETnoL86ND5W8t">Public Instances for Track 2 (last updated May 19,2022)</a>
+- <a href="https://cloudstore.zih.tu-dresden.de/index.php/s/9AETnoL86ND5W8t">Public Instances for Track 3</a>
 - <a href="https://cloudstore.zih.tu-dresden.de/index.php/s/9AETnoL86ND5W8t">Public Instances for Track 4 (preliminary)</a>
 
 Soon (see timeline below)
