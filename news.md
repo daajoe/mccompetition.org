@@ -5,10 +5,10 @@
 
 ---
 ## StarExec Submission-System (updated May 19, 2022)
-Track 1: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520768">StarExec Link</a><br/>
-Track 2: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520768">StarExec Link</a><br/>
-Track 3: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520768">StarExec Link</a><br/>
-Track 4: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520768">StarExec Link</a><br/>
+Track 1: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520766">StarExec Link</a><br/>
+Track 2: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=521696">StarExec Link</a><br/>
+Track 3: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=521697">StarExec Link</a><br/>
+Track 4: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=521698">StarExec Link</a><br/>
 
 ## Public Instances (updated May 19, 2022)
 Track 1-4 instances also available in <a href="https://cloudstore.zih.tu-dresden.de/index.php/s/9AETnoL86ND5W8t">CloudStore</a><br/>
