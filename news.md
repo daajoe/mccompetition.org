@@ -4,24 +4,23 @@
 # News
 
 ---
-## Track 1 Submission
-<a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520768">StarExec Link</a><br/>
-Status (30.04.2022) Online, BUT we had to update instances (issues with the format)
-## Track 2 Submission Status
-Status (14.05.2022) Online for Download, StarExec will follow soon
-## Track 3 Submission Status
-Status (14.05.2022) Online for Download, StarExec will follow soon
-## Track 4 Submission Status
-Expected by May 18, 2022
+## StarExec Submission-System (updated May 19, 2022)
+Track 1: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520768">StarExec Link</a><br/>
+Track 2: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520768">StarExec Link</a><br/>
+Track 3: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520768">StarExec Link</a><br/>
+Track 4: <a href="https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520768">StarExec Link</a><br/>
+
+## Public Instances (updated May 19, 2022)
+Track 1-4 instances also available in <a href="https://cloudstore.zih.tu-dresden.de/index.php/s/9AETnoL86ND5W8t">CloudStore</a><br/>
 
 
-## 14.04.2022: Track 3
+## 14.05.2022: Track 3
 Instances available on the Cloudstore
 
-## 14.04.2022: Track 3
+## 14.05.2022: Track 3
 Doublechecking counts
 
-## 14.04.2022: Track 2
+## 14.05.2022: Track 2
 Instances available on the Cloudstore
 
 ## 12.05.2022: Track 2
