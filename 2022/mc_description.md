@@ -32,8 +32,8 @@ an [DIMACS-like submission format as used in the 2021 competition](../../assets/
 - Memory: 32GB
 - TempDisk Space: available for input transformation and preprocessing
 - Precision (in relative error A,B,D): 
-  - Ranking A: 0.0% (any wrong solution results in disqualification)
-  - Ranking B: 0.001% (more than 20 solutions outside margin results in disqualification)
+  - Ranking A: 0.0 (any wrong solution results in disqualification)
+  - Ranking B: 0.001 (more than 20 solutions outside margin results in disqualification)
   - Ranking C: $\alpha=0.8$ (more than 20 solutions outside margin results in disqualification)
   - Ranking D: 20% (correct answer: 1 point, otherwise: 0 points)
 
