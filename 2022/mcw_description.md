@@ -41,7 +41,7 @@ Please, register on the [FLoC 2022 Webpage](https://www.floc2022.org/).
 
 ## Program
 The workshop will take place on August 11, 2022.
-<!---See [Detailed Program of the Workshop](mcw_program)--->
+See [Detailed Program of the Workshop](https://easychair.org/smart-program/FLoC2022/MC-index.html)
 
 ## Timeline
 - **May 1, 2022: Submission Deadline**
