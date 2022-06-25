@@ -12,8 +12,8 @@ Updated results of the competition will be out soon.
 
 # Model Counting (MC-2022)
 
-<span style="color:red">The model counting competition instances are online for Track 1-4 and submission is open on StarExec for Track 1-4. 
-Deadline has been extended until May 22, 2022 (AoE)<br/>
+<span style="color:red">The model counting competition instances are online for Track 1-4 and submission is closed. We are currently evaluating StarExec. 
+Since StarExec experiences high load, evaluation might take a couple of days longer<br/>
 See updates: [STATUS and NEWS](news). [Download Public Instances](https://cloudstore.zih.tu-dresden.de/index.php/s/9AETnoL86ND5W8t) [StarExec System](https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520765)
 
 # Competition
