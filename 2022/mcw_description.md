@@ -43,6 +43,10 @@ Please, register on the [FLoC 2022 Webpage](https://www.floc2022.org/).
 The workshop will take place on August 11, 2022.
 See [Detailed Program of the Workshop](https://easychair.org/smart-program/FLoC2022/MC-index.html)
 
+## Zoom / Virtual
+Since a few participatants could not attend in person, we provide the Zoom link here.
+[Zoom Link to the Workshop](https://tuwien.zoom.us/j/92674992978?pwd=MlpVbFZEa1NmaDUvZHA1TlZHMGxsZz09)
+
 ## Timeline
 - **May 1, 2022: Submission Deadline**
 - June 1, 2022: Notification of Acceptance
