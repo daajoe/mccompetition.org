@@ -1,7 +1,7 @@
 ---
 ---
 
-# MC 2020 (Model Counting 2020)
+# MC 2023 (Model Counting 2020)
 
 ## Tracks / Challenges
 1. **Model Counting (mc)**<br/>
