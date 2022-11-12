@@ -12,7 +12,7 @@ description: >-
   Model Counting
 tagline: Since 2020
 
-theme: panthera-jekyll
+#theme: panthera-jekyll
 
 baseurl: ""
 url: ""
