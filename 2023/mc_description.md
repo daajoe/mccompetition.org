@@ -46,6 +46,9 @@ that cannot be solved by common existing solver.
 ## Public Instances
 TBA
 
+## Important Dates
+see [Dates](dates)
+
 <!--- [Download for all Tracks / tba](tba) --->
 <!---
 - <a href="https://cloudstore.zih.tu-dresden.de/index.php/s/9AETnoL86ND5W8t">Public Instances for Track 1</a>
@@ -92,14 +95,14 @@ We refer to a comprehensive
 ## Organization
 
 ### Program Co-Chair
-* Markus Hecher (TU Wien, Austria)
-* Johannes K. Fichte (TU Wien, Austria)
+* Markus Hecher (MIT, MA, United States)
+* Johannes K. Fichte (Linköping University, Sweden)
 
 ### Judge
-* tba 
+* Martin Gebser (AAU Klagenfurt, Austria) 
 
 ### Technical and Reproducibility Advisor
-* Daniel Le Berre  
+* Daniel Le Berre 
 
 ### Evaluation Plattform 
 We are happy that the director of StarExec (Aaron Stump, Iowa) 

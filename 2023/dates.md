@@ -10,25 +10,18 @@
 - Track 4: Projected Weighted Model Counting
 
 ## Important Dates
-TBA
+- March 31, 2023: **Deadline for benchmark submission (submit asap)**<br>
+  Please use the [Google Form](tinyurl.com/benchmarks-mc23)
+- End of March, 2023: Discussion phase of participants<br>
+  Please use the [Google Form](https://tinyurl.com/bdf93keu) to register intent to participate
+- April 1 - April 16, 2023: Evaluation phase of submitted instances
+- April 28, 2023: Public instances available
+- May 5, 2023: StarExec submission system open / testing solvers
+- May 17, 2023: *Solver submission deadline*
+- June 2, 2023: Response of initial evaluation / Resubmit corrections
+- June 19, 2023: Solvers evaluated. Participants are notified about their results
+- July 4-8, 2023: SAT Conference and Presentation of the Results
 
-<!---
-- December 15, 2021: Call for Benchmarks
-- December 20, 2021: 1st Call for Participation
-- February 15, 2022: Deadline for Benchmark Submission (submit asap)<br>
-  Please use the [Google Form](https://tinyurl.com/32m78k32)
-- March 15, 2022: Benchmarks Evalutated
-- March 25, 2021: Intent to Participate<br> 
-  Please use the [Google Form](https://tinyurl.com/2p9db6sa)
-- March 31, 2022: Competition Benchmarks Chosen 
-- April 1, 2022: Submission System (StarExec) available
-- April 15, 2022: Testing Benchmarks / Public Instances Released
-- May 12, 2022: Submission Deadline
-- June 23, 2022: Participants are notified about their results 
-- June 28, 2022: Comments Deadline by Participants
-- Aug 4, 2022: FLoC Presentation of the Results
-- Aug 11, 2022: Workshop on Counting and Sampling (PostFLoC Workshop)
---->
 
 ## Submission
 Register an Account with [StarExec](https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=441292).
@@ -38,20 +31,18 @@ Register an Account with [StarExec](https://www.starexec.org/starexec/secure/exp
 
 <br />
 
-<!--
-# Workshop on Counting and Sampling  (MCS-2022@SAT)
+# Workshop on Counting and Sampling  (MCS-2023@SAT)
 ## Important Dates
 
-- **May 1, 2022: Submission Deadline**
-- June 1, 2022: Notification of Acceptance
-- August 11, 2022: Workshop
+- **May 1, 2023: Abstract submission deadline** 
+- May 25, 2023: Notification to authors 
+- July 4 or 8, 2023: Workshop on Counting and Sampling@SAT 2023 
 
 
 ## Submission
-- [EasyChair](https://easychair.org/conferences/?conf=mc2022)
+- [EasyChair](https://easychair.org/conferences/?conf=mcw2023)
 - [EasyChair proceedings style](https://easychair.org/publications/easychair.zip)
 - Length: Abstract
--->
 
 ---
 

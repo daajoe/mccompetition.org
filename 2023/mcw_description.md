@@ -57,7 +57,7 @@ Since a few participatants could not attend in person, we provide the Zoom link 
 -->
 
 ## Timeline
-tba
+see [Dates](dates)
 
 ## Format
 You present your best work related to counting and sampling,
