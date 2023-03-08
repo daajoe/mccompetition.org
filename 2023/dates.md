@@ -11,7 +11,7 @@
 
 ## Important Dates
 - March 31, 2023: **Deadline for benchmark submission (submit asap)**<br>
-  Please use the [Google Form](tinyurl.com/benchmarks-mc23)
+  Please use the [Google Form](https://tinyurl.com/benchmarks-mc23)
 - End of March, 2023: Discussion phase of participants<br>
   Please use the [Google Form](https://tinyurl.com/bdf93keu) to register intent to participate
 - April 1 - April 16, 2023: Evaluation phase of submitted instances
