@@ -70,7 +70,7 @@ be it published elsewhere or yet unpublished.
 ## Submissions
 Submission: We place no format requirement. We expect that you provide
 a reasonable description in txt or pdf-format and upload this on 
-[Easychair](https://easychair.org/conferences/?conf=mc2022).
+[Easychair](https://easychair.org/conferences/?conf=mcw2023).
 
 
 Procedures for selecting papers: 
