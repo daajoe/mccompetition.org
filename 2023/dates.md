@@ -15,7 +15,9 @@
 - End of March, 2023: Discussion phase of participants<br>
   Please use the [Google Form](https://tinyurl.com/bdf93keu) to register intent to participate
 - April 1 - April 16, 2023: Evaluation phase of submitted instances
-- April 28, 2023: Public instances available
+~~- April 28, 2023: Public instances available~~
+- April 30, 2023: Public instances Track1 available
+- May 10, 2023: Public instances Tracks2-4 available
 - May 5, 2023: StarExec submission system open / testing solvers
 - May 17, 2023: *Solver submission deadline*
 - June 2, 2023: Response of initial evaluation / Resubmit corrections

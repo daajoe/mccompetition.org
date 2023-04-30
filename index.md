@@ -2,7 +2,8 @@
 ---
 
 <center>
-<span style="color:red">Thanks for participating in 2022. Hope to see you in 2023.</span>
+<span style="color:red">2023 Competition is about to run soon. Public instances for Track 1 are already available. 
+Do not forget to register your intent to submit in the [Google Form](https://tinyurl.com/bdf93keu).</span>
 </center>
 <br/>
 
