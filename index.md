@@ -3,7 +3,7 @@
 
 <center>
 <span style="color:red">2023 Competition is about to run soon. Public instances for Track 1 are already available. 
-Do not forget to register your intent to submit in the [Google Form](https://tinyurl.com/bdf93keu).</span>
+Do not forget to register your intent to submit in the <a href="https://tinyurl.com/bdf93keu">Google Form</a>.</span>
 </center>
 <br/>
 
