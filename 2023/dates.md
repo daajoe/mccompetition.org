@@ -36,8 +36,8 @@ Register an Account with [StarExec](https://www.starexec.org/starexec/secure/exp
 # Workshop on Counting and Sampling  (MCS-2023@SAT)
 ## Important Dates
 
-- **May 1, 2023: Abstract submission deadline** 
-- May 25, 2023: Notification to authors 
+- **May 24, 2023 (updated): Abstract submission deadline** 
+- June 2, 2023: Notification to authors 
 - July 4 or 8, 2023: Workshop on Counting and Sampling@SAT 2023 
 
 
