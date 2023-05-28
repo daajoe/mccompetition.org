@@ -2,7 +2,7 @@
 ---
 
 <center>
-<span style="color:red">2023 Competition is running soon. Public instances are available.
+<span style="color:red">2023 Competition is in the evaluation phase. Public instances are available.
 Do not forget to register your intent to submit in the <a href="https://tinyurl.com/bdf93keu">Google Form</a>.</span>
 </center>
 <br/>
