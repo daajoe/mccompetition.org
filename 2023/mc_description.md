@@ -6,8 +6,6 @@
 The competition will be co-located with the competitions at SAT 2023. 
 <br><br>
 
-<center><b>Send us an email and stay tuned.</b></center>
-
 ## Tracks / Challenges
 1. **Model Counting (mc)**<br/>
 2. **Weighted Model Counting (wmc)**<br/>
