@@ -14,6 +14,14 @@ The competition will be co-located with the competitions at SAT 2023.
 3. **Projected Model Counting (pmc)**<br/>
 4. **Projected Weighted Model Counting (pwmc)**<br/>
 
+## Results
+- [Slides of Result Presentation@SAT 2023](../../assets/files/2023/MC2023_awards.pdf)
+
+## Instances
+- [Instances for Track1--4](https://cloudstore.zih.tu-dresden.de/index.php/s/fiQ93PCPCX3EwDS) (last updated May 28, 2023)
+ 
+
+
 ## Call for Benchmarks
 Model Counting Competition invites extended submissions of collections of counting instances in the 
 an [DIMACS-like submission format as used in the 2021 competition](../../assets/files/2021/competition2021.pdf).
@@ -43,10 +51,6 @@ We precompute instances and discard those that can be solved by
 standard solvers within less than 10s and keep at most 40 instances
 that cannot be solved by common existing solver. 
 
-## Instances
-- [Instances for Track1--4](https://cloudstore.zih.tu-dresden.de/index.php/s/fiQ93PCPCX3EwDS) (last updated May 28, 2023)
-
-- 
 
 ## Important Dates
 see [Dates](dates)
