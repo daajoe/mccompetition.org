@@ -36,16 +36,16 @@ menu:
     link: /solvers/solvers
     icon: ""
 
-  - text: Competition 2023
-    link: /2023/mc_description
+  - text: Competition 2024
+    link: /2024/mc_description
     icon: ""
 
-  - text: Workshop 2023
-    link: /2023/mcw_description
+  - text: Workshop 2024
+    link: /2024/mcw_description
     icon: ""
 
   - text: Submission &<br>Important Dates
-    link: /2023/dates
+    link: /2024/dates
     icon: ""
 
 #  - text: Program

@@ -1,14 +1,14 @@
 ---
 ---
 
-<center>
+<!-- <center>
 <span style="color:red">2023 Competition is in the evaluation phase. Public instances are available.
 Do not forget to register your intent to submit in the <a href="https://tinyurl.com/bdf93keu">Google Form</a>.</span>
 </center>
-<br/>
+<br/> -->
 
 <!--
-# 
+#
 # <span style="color:red">Updated results are available [Download Updated Slides](assets/files/2020/MC2020_awards.pdf).</span>
 
 For details on the workshop its presentations, slides, and recordings we refer to the [Programm](2020/mcw_program).
@@ -32,11 +32,11 @@ Updated results of the competition will be out soon.
 
 # Competition
 
-The _4th Competition on Model Counting (MC 2023)_ is a competition to deepen the relationship between latest theoretical
+The _5th Competition on Model Counting (MC 2024)_ is a competition to deepen the relationship between latest theoretical
 and practical development on the various model counting problems and their practical applications. It targets the
 problem of counting the number of models of a Boolean formula.
 
-Further details on the competition can be found at: [Competition 2023](2023/mc_description)
+Further details on the competition can be found at: [Competition 2024](2024/mc_description)
 <br /><br />
 
 # Workshop on Counting and Sampling
@@ -52,7 +52,7 @@ practical academic and industrial applications as well as the linking theory and
 The workshop is also the place for developers of model counters and samplers to present their programs
 and the presentation of detailed results on the model counting competition.
 
-Further details on the competition can be found at: [Workshop on Counting and Sampling 2023](2023/mcw_description)
+Further details on the competition can be found at: [Workshop on Counting and Sampling 2024](2024/mcw_description)
 
 <!--
 # Program
@@ -70,7 +70,7 @@ For competition and workshop submissions see [Dates and Submission](2021/dates).
 
 # Sponsors
 
-On behalf of the Program Committee of MC 2023, we invite you to participate in the sponsoring of metals and travel
+On behalf of the Program Committee of MC 2024, we invite you to participate in the sponsoring of metals and travel
 support for the winners.
 
 <!--
