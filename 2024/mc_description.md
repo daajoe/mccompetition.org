@@ -53,17 +53,17 @@ that cannot be solved by common existing solver.
 ## Important Dates
 see [Dates](dates)
 
-## Public Results
+<!-- ## Public Results
 - <a href="https://www.starexec.org/starexec/secure/details/job.jsp?id=52720">Results on Public Instances for Track 1<a>
 - <a href="https://www.starexec.org/starexec/secure/details/job.jsp?id=52719">Results on Public Instances for Track 2<a>
 - <a href="https://www.starexec.org/starexec/secure/details/job.jsp?id=52718">Results on Public Instances for Track 3<a>
-- <a href="https://www.starexec.org/starexec/secure/details/job.jsp?id=52717">Results on Public Instances for Track 4<a>
+- <a href="https://www.starexec.org/starexec/secure/details/job.jsp?id=52717">Results on Public Instances for Track 4<a> -->
 
 
 
 ## Submission
 Register an Account with [StarExec](https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=441292).
- We will give you access and you will be able to upload your solver there.
+ We will give you access and you will be able to upload your solver there. 
 
 
 ## Format
@@ -80,7 +80,6 @@ We refer to a comprehensive
 - Jul 15: Notification of private results
 - Jul 30: Comments Deadline by Participants
 - Aug 24: Result Declaration at SAT Conf.
---->
 
 ## Organization
 

@@ -44,7 +44,7 @@ Further details on the competition can be found at: [Competition 2024](2024/mc_d
 The _International Workshop on Model Counting and Sampling_ aims to provide a venue for researchers working on
 model counting such as model counting (mc), weighted model counting/sum of products (wmc),
 projected model counting (pmc) as well as sampling models within the realm but not restricting to
-Boolean satisfiability (SAT),  
+Boolean satisfiability (SAT),
 satisfiability modulo theories (SMT), Answer set programming (ASP), and constraint programming (CP).
 It encourages to meet, communicate, and discuss the latest theoretical and practical results,
 in particular results on novel solvers, related solver technologies, new theoretical advances,

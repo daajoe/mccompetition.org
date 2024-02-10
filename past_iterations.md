@@ -4,17 +4,17 @@
 # Model Counting (MC-2023)
 
 ## Competition
-Part of [FLoC Olympic Games](https://www.floc2022.org/floc-olympic-games)
+Part of [SAT 2023](http://satisfiability.org/SAT23/)
 - Tracks: **Model Counting**, **Weighted Model Counting**, **Projected Model Counting**, **Projected Weighted Model Counting**<br/>
-  ([description](../2022/mc_description),
+  ([description](../2023/mc_description),
   [StarExec Community](https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520765),
   [format](assets/files/2021/competition2021.pdf),
-  [winners](../assets/files/2022/MC2022_winners.pdf),
-  report [tba],
+  [winners](../assets/files/2023/MC2023_awards.pdf))
+  <!-- report [tba],
   [slides](../assets/files/2022/MC2022_awards.pdf),
   [solvers](https://cloudstore.zih.tu-dresden.de/index.php/s/pXFAfnJffKyNA77),
   [competition instances](https://cloudstore.zih.tu-dresden.de/index.php/s/7iZSNgKT27FEsGX),
-  submitted benchmarks [on request])
+  submitted benchmarks [on request]) -->
 
 <!--
 [StarExec Community](tba),
@@ -29,15 +29,8 @@ Part of [FLoC Olympic Games](https://www.floc2022.org/floc-olympic-games)
 
 ## Workshop on Counting and Sampling
 
-- Workshop 2022 (in person event)<br/>
-  ([program](https://easychair.org/smart-program/FLoC2022/MC-index.html),
-   [abstracts](https://easychair.org/smart-program/FLoC2022/MC-2022-08-11.html),
-   [slides](https://easychair.org/smart-program/FLoC2022/MC-index.html))
-
 - Workshop 2023 (in person event)<br/>
-  ([program](https://easychair.org/smart-program/FLoC2022/MC-index.html),
-   [abstracts](https://easychair.org/smart-program/FLoC2022/MC-2022-08-11.html),
-   [slides](https://easychair.org/smart-program/FLoC2022/MC-index.html))
+  ([program]((../2023/mcw_program)))
 
 # Model Counting (MC-2022)
 
@@ -68,11 +61,6 @@ Part of [FLoC Olympic Games](https://www.floc2022.org/floc-olympic-games)
 ## Workshop on Counting and Sampling
 
 - Workshop 2022 (in person event)<br/>
-  ([program](https://easychair.org/smart-program/FLoC2022/MC-index.html),
-   [abstracts](https://easychair.org/smart-program/FLoC2022/MC-2022-08-11.html),
-   [slides](https://easychair.org/smart-program/FLoC2022/MC-index.html))
-
-- Workshop 2023 (in person event)<br/>
   ([program](https://easychair.org/smart-program/FLoC2022/MC-index.html),
    [abstracts](https://easychair.org/smart-program/FLoC2022/MC-2022-08-11.html),
    [slides](https://easychair.org/smart-program/FLoC2022/MC-index.html))
