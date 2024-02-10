@@ -30,7 +30,7 @@ Part of [SAT 2023](http://satisfiability.org/SAT23/)
 ## Workshop on Counting and Sampling
 
 - Workshop 2023 (in person event)<br/>
-  ([program]((../2023/mcw_program)))
+  ([program](../2023/mcw_description))
 
 # Model Counting (MC-2022)
 

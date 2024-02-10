@@ -50,8 +50,6 @@ standard solvers within less than 10s and keep at most 40 instances
 that cannot be solved by common existing solver.
 
 
-## Important Dates
-see [Dates](dates)
 
 <!-- ## Public Results
 - <a href="https://www.starexec.org/starexec/secure/details/job.jsp?id=52720">Results on Public Instances for Track 1<a>
@@ -63,7 +61,7 @@ see [Dates](dates)
 
 ## Submission
 Register an Account with [StarExec](https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=441292).
- We will give you access and you will be able to upload your solver there. 
+ We will give you access and you will be able to upload your solver there. Also, please register in [this form](https://forms.gle/Xf3GfSLVkRDJSspK7).
 
 
 ## Format
@@ -71,8 +69,7 @@ We refer to a comprehensive
 [document on the description of the competition format from 2021](../../assets/files/2021/competition2021.pdf).
 
 ## Important Dates (Tentative)
-- Feb 20: Call for Benchmarks, Participation
-- Mar 01: Registration Opens (Google Forms)
+- Feb 11: Call for Benchmarks, Participation
 - Mar 30: Benchmark Submission Deadline
 - Apr 30: Public Instance Publication
 - May 30: Solver Submission Deadline
@@ -87,17 +84,17 @@ We refer to a comprehensive
 * Markus Hecher (MIT, MA, United States)
 * Johannes K. Fichte (Linköping University, Sweden)
 
-### Judge
-* Martin Gebser (AAU Klagenfurt, Austria)
+<!-- ### Judge
+* Martin Gebser (AAU Klagenfurt, Austria) -->
 
 ### Technical and Reproducibility Advisor
 * Daniel Le Berre
 
-### Evaluation Plattform
+<!-- ### Evaluation Plattform
 We are happy that the director of StarExec (Aaron Stump, Iowa)
 accepted to host the model counting competition. The main part of the competition will
 run on StarExec. We evaluate the solvers in parallel also on
-the [Taurus Cluster in Dresden](https://www.top500.org/system/178555/).
+the [Taurus Cluster in Dresden](https://www.top500.org/system/178555/). -->
 
 <!---
 ## Sponsors

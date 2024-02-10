@@ -15,7 +15,7 @@ For details on the workshop its presentations, slides, and recordings we refer t
 
 Updated results of the competition will be out soon.
 -->
-
+<!--
 [//]: # (# Model Counting &#40;MC-2022&#41;)
 
 [//]: # ()
@@ -28,7 +28,7 @@ Updated results of the competition will be out soon.
 
 [//]: # ()
 
-[//]: # (See updates: [STATUS and NEWS]&#40;news&#41;. [Download Public Instances]&#40;https://cloudstore.zih.tu-dresden.de/index.php/s/9AETnoL86ND5W8t&#41; [StarExec System]&#40;https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520765&#41;)
+[//]: # (See updates: [STATUS and NEWS]&#40;news&#41;. [Download Public Instances]&#40;https://cloudstore.zih.tu-dresden.de/index.php/s/9AETnoL86ND5W8t&#41; [StarExec System]&#40;https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520765&#41;) -->
 
 # Competition
 
@@ -52,7 +52,7 @@ practical academic and industrial applications as well as the linking theory and
 The workshop is also the place for developers of model counters and samplers to present their programs
 and the presentation of detailed results on the model counting competition.
 
-Further details on the competition can be found at: [Workshop on Counting and Sampling 2024](2024/mcw_description)
+We plan to organize this year's workshop as a part of the [SAT Conference 2024](http://satisfiability.org/SAT24/). Further details will be published at: [Workshop on Counting and Sampling 2024](2024/mcw_description)
 
 <!--
 # Program

@@ -10,8 +10,7 @@
 - Track 4: Projected Weighted Model Counting
 
 ## Important Dates (Tentative)
-- Feb 20: Call for Benchmarks, Participation
-- Mar 01: Registration Opens (Google Forms)
+- Feb 11: Call for Benchmarks, Participation
 - Mar 30: Benchmark Submission Deadline
 - Apr 30: Public Instance Publication
 - May 30: Solver Submission Deadline
@@ -23,14 +22,18 @@
 
 ## Submission
 Register an Account with [StarExec](https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=441292).
- We will give you access and you will be able to upload your solver there.
+ We will give you access and you will be able to upload your solver there. Also, please register in [this form](https://forms.gle/Xf3GfSLVkRDJSspK7).
+
 
 <!--[Detailed Submission information](mc_submission).-->
 
 <br />
 
-# Workshop on Counting and Sampling  (MCS-2024@SAT)
-## Important Dates (Tentative)
+# Workshop on Counting and Sampling
+
+To be updated soon.
+
+<!-- ## Important Dates (Tentative)
 
 - May 24, 2024: Abstract submission deadline
 - June 2, 2024: Notification to authors
@@ -38,10 +41,11 @@ Register an Account with [StarExec](https://www.starexec.org/starexec/secure/exp
 
 
 ## Submission
-To be updated soon.
-<!-- - [EasyChair](https://easychair.org/conferences/?conf=mcw2023)
+
+[EasyChair](https://easychair.org/conferences/?conf=mcw2023)
 - [EasyChair proceedings style](https://easychair.org/publications/easychair.zip)
 - Length: Abstract -->
 
----
+
+
 
