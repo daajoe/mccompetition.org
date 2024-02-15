@@ -84,8 +84,8 @@ We refer to a comprehensive
 * Markus Hecher (MIT, MA, United States)
 * Johannes K. Fichte (Linköping University, Sweden)
 
-<!-- ### Judge
-* Martin Gebser (AAU Klagenfurt, Austria) -->
+### Judge
+* Martin Gebser (AAU Klagenfurt, Austria)
 
 ### Technical and Reproducibility Advisor
 * Daniel Le Berre
