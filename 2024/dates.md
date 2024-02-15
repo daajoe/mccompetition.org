@@ -1,7 +1,7 @@
 ---
 ---
 
-# Model Counting  (MC-2023)
+# Model Counting  (MC-2024)
 
 ## Competition Tracks
 - Track 1: Exact Model Counting
