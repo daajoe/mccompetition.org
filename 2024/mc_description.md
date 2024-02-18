@@ -81,6 +81,7 @@ We refer to a comprehensive
 ## Organization
 
 ### Program Co-Chair
+* Arijit Shaw (Chennai Mathematical Institute, and IAI, TCG CREST)
 * Markus Hecher (MIT, MA, United States)
 * Johannes K. Fichte (Linköping University, Sweden)
 
