@@ -1,5 +1,13 @@
 ---
 ---
+# Public Resources
+- [StarExec Community]([tba](https://zenodo.org/communities/modelcounting/)),
+- Reference: When refering to the competition in an academic paper please use one of the following:
+  - [The Model Counting Competition](https://dl.acm.org/doi/abs/10.1145/3459080)
+  - [Model Counting Competition 2023: Competition Instances](https://zenodo.org/records/10012864)
+  - [Model Counting Competition 2022: Competition Instances](https://zenodo.org/records/10012860)
+  - [Model Counting Competition 2021: Competition Instances](https://zenodo.org/records/10012857)
+  - [Model Counting Competition 2020: Competition Instances](https://zenodo.org/records/10031810)
 
 # Model Counting (MC-2023)
 
@@ -17,7 +25,6 @@ Part of [SAT 2023](http://satisfiability.org/SAT23/)
   submitted benchmarks [on request]) -->
 
 <!--
-[StarExec Community](tba),
 [format](../2021/mc_format),
 [winners](../assets/files/2021/MC2021_winners.pdf),
 [report [~Oct 2021]](tba),
