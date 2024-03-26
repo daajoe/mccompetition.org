@@ -39,20 +39,11 @@ problem of counting the number of models of a Boolean formula.
 Further details on the competition can be found at: [Competition 2024](2024/mc_description)
 <br /><br />
 
-# Workshop on Counting and Sampling
+# Workshop on Counting, Sampling, and Synthesis
 
-The _International Workshop on Model Counting and Sampling_ aims to provide a venue for researchers working on
-model counting such as model counting (mc), weighted model counting/sum of products (wmc),
-projected model counting (pmc) as well as sampling models within the realm but not restricting to
-Boolean satisfiability (SAT),
-satisfiability modulo theories (SMT), Answer set programming (ASP), and constraint programming (CP).
-It encourages to meet, communicate, and discuss the latest theoretical and practical results,
-in particular results on novel solvers, related solver technologies, new theoretical advances,
-practical academic and industrial applications as well as the linking theory and practice.
-The workshop is also the place for developers of model counters and samplers to present their programs
-and the presentation of detailed results on the model counting competition.
+The _Workshop on Counting, Sampling, and Synthesis_ is an event for researchers in model counting and sampling. It covers advanced topics such as weighted and projected counters/samplers and various domains such as SAT, SMT, ASP, and CP. This year, the workshop has expanded its focus to include the role of model counters, samplers, and solvers in automated synthesis. The goal of the workshop is to facilitate the exchange of cutting-edge theoretical and practical insights, with a particular emphasis on innovative solver technologies and their real-world applications. Additionally, the workshop provides an opportunity for developers of model counters to showcase their work and share detailed competition results, to encourage discussions that bridge theory and practice.
 
-We plan to organize this year's workshop as a part of the [SAT Conference 2024](http://satisfiability.org/SAT24/). Further details will be published at: [Workshop on Counting and Sampling 2024](2024/mcw_description)
+This year's workshop will be organized as part of the [SAT 2024 Conference](http://satisfiability.org/SAT24/). For more details, please refer to [Workshop 2024](2024/mcw_description).
 
 <!--
 # Program
@@ -70,7 +61,7 @@ For competition and workshop submissions see [Dates and Submission](2021/dates).
 
 # Sponsors
 
-On behalf of the Program Committee of MC 2024, we invite you to participate in the sponsoring of metals and travel
+On behalf of the Program Committee of MC 2024, we invite you to participate in the sponsoring of meals and travel
 support for the winners.
 
 <!--

@@ -29,22 +29,21 @@ Register an Account with [StarExec](https://www.starexec.org/starexec/secure/exp
 
 <br />
 
-# Workshop on Counting and Sampling
+# Workshop on Counting, Sampling, and Synthesis
 
-To be updated soon.
+<!-- To be updated soon. -->
 
-<!-- ## Important Dates (Tentative)
+## Important Dates
 
-- May 24, 2024: Abstract submission deadline
-- June 2, 2024: Notification to authors
-- August 20, 2024: Workshop on Counting and Sampling@[SAT 2024](http://satisfiability.org/SAT24/)
-
+- May 28, 2024: Submission deadline
+- June 14, 2024: Notification of acceptance
+- August 20, 2024: Workshop on Counting, Sampling, and Synthesis @ [SAT 2024](http://satisfiability.org/SAT24/)
 
 ## Submission
 
-[EasyChair](https://easychair.org/conferences/?conf=mcw2023)
+[EasyChair](https://easychair.org/conferences/?conf=mcw2024)
 - [EasyChair proceedings style](https://easychair.org/publications/easychair.zip)
-- Length: Abstract -->
+- Length: Abstract
 
 
 
