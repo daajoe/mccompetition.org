@@ -6,6 +6,11 @@
 The competition will be co-located with the competitions at [SAT 2024](http://satisfiability.org/SAT24/).
 <br><br>
 
+<b>[Pragmatics of SAT](http://www.pragmaticsofsat.org/2024/) features a Competition Solver Description Track in 2024.<br>
+[The Workshop on Counting, Sampling, and Synthesis 2024](https://mccompetition.org/2024/mcw_description) also invites solver presentations.
+</b>
+
+
 ## Tracks / Challenges
 1. **Model Counting (mc)**<br/>
 2. **Weighted Model Counting (wmc)**<br/>
