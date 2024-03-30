@@ -75,7 +75,7 @@ We refer to a comprehensive
 
 ## Important Dates (Tentative)
 - Feb 11: Call for Benchmarks, Participation
-- Mar 30: Benchmark Submission Deadline
+- ~~Mar 30~~ Apr 9: Benchmark Submission Deadline
 - Apr 30: Public Instance Publication
 - May 30: Solver Submission Deadline
 - Jun 30: Notification of public results
@@ -86,7 +86,7 @@ We refer to a comprehensive
 ## Organization
 
 ### Program Co-Chair / Organization
-* Arijit Shaw (Chennai Mathematical Institute, and IAI, TCG CREST)
+* Arijit Shaw (Chennai Mathematical Institute, India)
 * Markus Hecher (MIT, MA, United States)
 * Johannes K. Fichte (Linköping University, Sweden)
 
