@@ -14,7 +14,7 @@ bibliography: references.bib
 | c2d             | SEQ       | KC        | d-DNNF  | Darwiche04a                    | [Binaries](http://reasoning.cs.ucla.edu/c2d/download.php)                  | na      |
 | Cachet          | SEQ       | CC        |         | SangEtAl04                     | [Sources](https://www.cs.rochester.edu/u/kautz/Cachet/cachet-wmc-1-21.zip) | zchaff  |
 | cnf2eadt        | SEQ       | KC        | EADT    | KoricheLagniezMarquisThomas13a | [Binaries](http://www.cril.univ-artois.fr/KC/eadt.html)                    | na      |
-| d4              | SEQ       | KC        | d-DNNF  | LagniezMarquis17a              | [Sources](https://github.com/crillab/d4)                                   | na      |
+| d4              | SEQ       | KC        | d-DNNF  | LagniezMarquis17a              | [Sources](https://github.com/crillab/d4v2)                                 | na      |
 | DPMC            | SEQ       | DP        | PTW     | DudekPhanVardi20a              | [Sources](https://github.com/vardigroup/DPMC)                              | MIT     | 
 | DSHARP          | SEQ       | KC        | d-DNNF  | MuiseEtAl12a                   | [Sources](https://github.com/QuMuLab/dsharp)                               | GPL2    |
 | Ganak           | SEQ       | CC        |         | SharmaEtAl19a                  | [Sources](https://github.com/meelgroup/ganak)                              | MIT     |
