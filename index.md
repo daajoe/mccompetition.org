@@ -71,3 +71,22 @@ support for the winners.
 
 -->
 ---
+
+# References
+When refering to the competition in an academic paper please use the following reference:
+```
+@article{10.1145/3459080,
+	address = {New York, NY, USA},
+	articleno = {13},
+	author = {Fichte, Johannes K. and Hecher, Markus and Hamiti, Florim},
+	doi = {10.1145/3459080},
+	issn = {1084-6654},
+	issue_date = {December 2021},
+	journal = {ACM J. Exp. Algorithmics},
+	month = {oct},
+	numpages = {26},
+	publisher = {Association for Computing Machinery},
+	title = {The Model Counting Competition 2020},
+	volume = {26},
+	year = {2021}}
+```
