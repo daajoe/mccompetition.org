@@ -59,19 +59,8 @@ See: [SAT program](https://www.iiia.csic.es/sat2021/program/#Friday9).
 For competition and workshop submissions see [Dates and Submission](2021/dates).
 -->
 
-# Sponsors
 
-On behalf of the Program Committee of MC 2024, we invite you to participate in the sponsoring of meals and travel
-support for the winners.
-
-<!--
-[data-experts](https://data-experts.de) already announced sponsoring for MC 2020.
-
-<img src="assets/images/data-experts-logo.png" alt="data-experts" style="width: 300px;"/>
-
--->
 ---
-
 # References
 When refering to the competition in an academic paper please use the following reference:
 ```
@@ -90,3 +79,18 @@ When refering to the competition in an academic paper please use the following r
 	volume = {26},
 	year = {2021}}
 ```
+
+# Sponsors
+
+<!--- On behalf of the Program Committee of MC 2024, we invite you to participate in the sponsoring . --->
+
+<!--
+[data-experts](https://data-experts.de) already announced sponsoring for MC 2020.
+<img src="assets/images/data-experts-logo.png" alt="data-experts" style="width: 300px;"/>
+-->
+
+- The organizers gratefully acknowledge the computing time made available to them on the high-performance computer at the NHR Center of TU Dresden. This center is jointly supported by the Federal Ministry of Education and Research and the state governments participating in the NHR (www.nhr-verein.de/unsere-partner).
+- Computations were partially enabled by resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725.
+
+
+
