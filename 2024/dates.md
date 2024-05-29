@@ -13,8 +13,8 @@
 - Feb 11: Call for Benchmarks, Participation
 - ~~Mar 30~~ Apr 9: Benchmark Submission Deadline
 - ~~Apr 30: Public Instance Publication~~
-- May 30: Public Instance Publication (tent.)
-- Jun 5 (tbd): Solver Submission Deadline
+- May 30: Public Instance Publication
+- Jun 11: Solver Submission Deadline
 - Jun 30: Notification of public results
 - Jul 15: Notification of private results
 - Jul 30: Comments Deadline by Participants

@@ -25,13 +25,6 @@ The competition will be co-located with the competitions at [SAT 2024](http://sa
 
 
 
-## Call for Benchmarks
-Model Counting Competition invites extended submissions of collections of counting instances in the
-an [DIMACS-like submission format as used in the 2021 competition](../../assets/files/2021/competition2021.pdf).
-
-<!-- - [Call for Benchmarks 2023 (PDF)](../../assets/files/2022/call_for_benchmarks2022.pdf) -->
-- [Call for Benchmarks 2024 (TEXT)](cfb2024)
-
 ## Rules
 ### Ranking
 - A. Exact (arbitrary precision)
@@ -54,6 +47,11 @@ We precompute instances and discard those that can be solved by
 standard solvers within less than 10s and keep at most 40 instances
 that cannot be solved by common existing solver.
 
+## Public Instances
+
+1. [Track 1](https://nextcloud.liu.se/s/2trF2FX2KeWd6io)
+
+[Other tracks coming soon.]
 
 
 <!-- ## Public Results
@@ -88,6 +86,13 @@ Refer to the [submission and important dates page](dates).
 
 ### Technical and Reproducibility Advisor
 * Daniel Le Berre
+
+## Call for Benchmarks (Over)
+Model Counting Competition invites extended submissions of collections of counting instances in the
+an [DIMACS-like submission format as used in the 2021 competition](../../assets/files/2021/competition2021.pdf).
+
+<!-- - [Call for Benchmarks 2023 (PDF)](../../assets/files/2022/call_for_benchmarks2022.pdf) -->
+- [Call for Benchmarks 2024 (TEXT)](cfb2024)
 
 <!-- ### Evaluation Plattform
 We are happy that the director of StarExec (Aaron Stump, Iowa)
