@@ -74,15 +74,7 @@ We refer to a comprehensive
 [document on the description of the competition format from 2021](../../assets/files/2021/competition2021.pdf).
 
 ## Important Dates (Tentative)
-- Feb 11: Call for Benchmarks, Participation
-- ~~Mar 30~~ Apr 9: Benchmark Submission Deadline
-- ~~Apr 30: Public Instance Publication~~
-- May 26: Public Instance Publication (tent.)
-- May 30 (tbd): Solver Submission Deadline
-- Jun 30: Notification of public results
-- Jul 15: Notification of private results
-- Jul 30: Comments Deadline by Participants
-- Aug 24: Result Declaration at SAT Conf.
+Refer to the [submission and important dates page](dates).
 
 ## Organization
 
