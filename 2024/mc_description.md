@@ -50,8 +50,10 @@ that cannot be solved by common existing solver.
 ## Public Instances
 
 1. [Track 1](https://nextcloud.liu.se/s/2trF2FX2KeWd6io)
+2. [Track 2](https://nextcloud.liu.se/s/YCbS5Nebqsm4AGs)
+3. [Track 3](https://nextcloud.liu.se/s/5LMcK2r6BGABcpx)
 
-[Other tracks coming soon.]
+[Track 4 coming soon.]
 
 
 <!-- ## Public Results
