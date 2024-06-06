@@ -51,9 +51,9 @@ that cannot be solved by common existing solver.
 
 1. [Track 1](https://nextcloud.liu.se/s/5qG4qKWxD7AaDCE)
 2. [Track 2](https://nextcloud.liu.se/s/J9ADqoe7fKTDgwf)
-3. [Track 3](https://nextcloud.liu.se/s/KKJNB4N5bQg8X3s)
-
-[Track 4 coming soon.]
+3. [Track 2 Bonus - negative weights - coming soon]
+4. [Track 3](https://nextcloud.liu.se/s/KKJNB4N5bQg8X3s)
+5. [Track 4](https://nextcloud.liu.se/s/rcgsJREz38Pi5Zr)
 
 
 <!-- ## Public Results
