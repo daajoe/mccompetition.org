@@ -49,9 +49,9 @@ that cannot be solved by common existing solver.
 
 ## Public Instances
 
-1. [Track 1](https://nextcloud.liu.se/s/2trF2FX2KeWd6io)
-2. [Track 2](https://nextcloud.liu.se/s/YCbS5Nebqsm4AGs)
-3. [Track 3](https://nextcloud.liu.se/s/5LMcK2r6BGABcpx)
+1. [Track 1](https://nextcloud.liu.se/s/5qG4qKWxD7AaDCE)
+2. [Track 2](https://nextcloud.liu.se/s/J9ADqoe7fKTDgwf)
+3. [Track 3](https://nextcloud.liu.se/s/KKJNB4N5bQg8X3s)
 
 [Track 4 coming soon.]
 
