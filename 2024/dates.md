@@ -13,9 +13,9 @@
 - Feb 11: Call for Benchmarks, Participation
 - ~~Mar 30~~ Apr 9: Benchmark Submission Deadline
 - ~~Apr 30: Public Instance Publication~~
-- May 29: Public Instance Publication for Track 1
-- May 31: Public Instance Publication for other tracks (tent.)
-- Jun 11: Solver Submission Deadline
+- ~~May 29: Public Instance Publication for Track 1~~
+- ~~June 6: Public Instance Publication for other tracks (tent.)~~
+- ~~Jun 11~~ Jun 17 (tent.): Solver Submission Deadline (preliminary due to delayed StarExec upgrades)
 - Jun 30: Notification of public results
 - Jul 15: Notification of private results
 - Jul 30: Comments Deadline by Participants
