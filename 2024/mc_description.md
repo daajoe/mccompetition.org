@@ -71,7 +71,7 @@ Register an Account with [StarExec](https://www.starexec.org/starexec/secure/exp
 
 ## Format
 We refer to a comprehensive
-[document on the description of the competition format from 2021](../../assets/files/2021/competition2021.pdf).
+[document on the description of the competition format from 2021 (Updated June 2024)](../../assets/files/mccomp_format_24.pdf).
 
 ## Important Dates (Tentative)
 Refer to the [submission and important dates page](dates).
