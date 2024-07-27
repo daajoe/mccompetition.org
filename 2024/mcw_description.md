@@ -70,7 +70,7 @@ If you have any questions about the workshop, the best way to contact the organi
 
 ### Organizers
 
-- [Paulius Dilkas](https://dilkas.github.io) (National University of Singapore, Singapore)
+- [Paulius Dilkas](https://dilkas.github.io) (University of Toronto, Canada)
 - [Priyanka Golia](https://priyanka-golia.github.io) (Indian Institute of Technology Delhi, India)
 
 ### Steering Committee
