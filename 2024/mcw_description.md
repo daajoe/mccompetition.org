@@ -15,6 +15,10 @@ The _Workshop on Counting, Sampling, and Synthesis_ is an event for researchers 
 
 This year’s event will be held alongside other workshops at the SAT 2024 conference. For more information, please visit the [SAT 2024 website](http://satisfiability.org/SAT24/venue.php).
 
+## Date
+
+Day: Tuesday, August 20th, 2024 
+
 ## Schedule
 
 <style>
