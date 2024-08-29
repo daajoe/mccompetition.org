@@ -17,10 +17,10 @@ The competition will be co-located with the competitions at [SAT 2024](http://sa
 3. **Projected Model Counting (pmc)**<br/>
 4. **Projected Weighted Model Counting (pwmc)**<br/>
 
-<!-- ## Results
-- [Slides of Result Presentation@SAT 2023](../../assets/files/2023/MC2023_awards.pdf)
+## Results
+- [Slides of Result Presentation@SAT 2023](../../assets/files/2024/MC2024_awards.pdf)
 
-## Instances
+<!-- ## Instances
 - [Instances for Track1--4](https://cloudstore.zih.tu-dresden.de/index.php/s/fiQ93PCPCX3EwDS) (last updated May 28, 2023) -->
 
 
