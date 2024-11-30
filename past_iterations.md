@@ -17,7 +17,7 @@ Part of [SAT 2024](http://satisfiability.org/SAT24/)
   ([description](../2024/mc_description),
   [StarExec Community](https://starexec.org/starexec/secure/explore/spaces.jsp?id=441292),
   [format](assets/files/mccomp_format_24.pdf),
-  [winners](../assets/files/2024/MC2024_awards.pdf)
+  [winners](../assets/files/2024/MC2024_awards.pdf),
   report [tba],
   [slides](../assets/files/2024/MC2024_awards.pdf),
   [solvers](https://zenodo.org/records/14249109),
@@ -30,7 +30,7 @@ Part of [SAT 2023](http://satisfiability.org/SAT23/)
   ([description](../2023/mc_description),
   [StarExec Community](https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520765),
   [format](assets/files/2021/competition2021.pdf),
-  [winners](../assets/files/2023/MC2023_awards.pdf)
+  [winners](../assets/files/2023/MC2023_awards.pdf),
   report [tba],
   [slides](../assets/files/2022/MC2022_awards.pdf),
   [solvers](https://zenodo.org/records/10012811),
