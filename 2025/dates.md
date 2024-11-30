@@ -43,10 +43,13 @@ Please register in [this form](https://tinyurl.com/mc25-solver).
 [//]: # (- August 20, 2024: Workshop on Counting, Sampling, and Synthesis @ [SAT 2024]&#40;http://satisfiability.org/SAT24/&#41;)
 
 ## Submission
+tbd
 
+<!---
 [EasyChair](https://easychair.org/conferences/?conf=mcw2024)
 - [EasyChair proceedings style](https://easychair.org/publications/easychair.zip)
 - Length: Abstract
+--->
 
 
 

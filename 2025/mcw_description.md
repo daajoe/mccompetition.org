@@ -4,8 +4,8 @@
 # Workshop on Counting, Sampling, and Synthesis 2025
 
 ## Registration
-
-Please register for the SAT conference.
+<!--- Please register for the SAT conference. --->
+tbd
 
 ## Purpose
 
@@ -13,16 +13,18 @@ The _Workshop on Counting, Sampling, and Synthesis_ is an event for researchers 
 
 ## Venue
 
-This year’s event will be held alongside other workshops at the SAT 2024 conference. For more information, please visit the [SAT 2024 website](http://satisfiability.org/SAT24/venue.php).
+<!--- This year’s event will be held alongside other workshops at the SAT 2024 conference. For more information, please visit the [SAT 2024 website](http://satisfiability.org/SAT24/venue.php).
+-->
+tbd
 
 ## Date
 
-Day: Tuesday, August 20th, 2024 
+<!--- Day: Tuesday, August 20th, 2024 -->  
 
 ## Schedule
+tbd
 
 <!---
-
 ## Timeline
 
 See [Dates](dates).
