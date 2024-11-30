@@ -86,9 +86,10 @@ tba
 -->
 ### Technical and Reproducibility Advisor
 tba
-<!--
+
+<!---
 * Daniel Le Berre
--->
+--->
 
 ## Call for Benchmarks (Over)
 Model Counting Competition invites extended submissions of collections of counting instances in the
