@@ -27,7 +27,7 @@ an [DIMACS-like submission format as used in the 2021 competition](../../assets/
 - C. Approximate (provide approximation guarantee)
 - D. Heuristic (experimental)
 
-### Restictions
+### Restrictions
 - Runtime: 3600s
 - Memory: 32GB
 - TempDisk Space: available for input transformation and preprocessing

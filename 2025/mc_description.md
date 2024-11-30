@@ -1,24 +1,25 @@
 ---
 ---
 
-# Model Counting Competition 2024
+# Model Counting Competition 2025
 
-The competition will be co-located with the competitions at [SAT 2024](http://satisfiability.org/SAT24/).
+The competition will be co-located with the competitions at [SAT 2025](http://satisfiability.org/SAT25/)
+(expected).
 <br><br>
 
+<!--
 <b>[Pragmatics of SAT](http://www.pragmaticsofsat.org/2024/) features a Competition Solver Description Track in 2024.<br>
 [The Workshop on Counting, Sampling, and Synthesis 2024](https://mccompetition.org/2024/mcw_description) also invites solver presentations.
 </b>
+-->
 
 
 ## Tracks / Challenges
 1. **Model Counting (mc)**<br/>
-2. **Weighted Model Counting (wmc)**<br/>
-3. **Projected Model Counting (pmc)**<br/>
-4. **Projected Weighted Model Counting (pwmc)**<br/>
+2. ...
+3. tba
 
 ## Results
-- [Slides of Result Presentation@SAT 2024](../../assets/files/2024/MC2024_awards.pdf)
 
 <!-- ## Instances
 - [Instances for Track1--4](https://cloudstore.zih.tu-dresden.de/index.php/s/fiQ93PCPCX3EwDS) (last updated May 28, 2023) -->
@@ -49,13 +50,6 @@ that cannot be solved by common existing solver.
 
 ## Public Instances
 
-1. [Track 1](https://nextcloud.liu.se/s/5qG4qKWxD7AaDCE)
-2. [Track 2](https://nextcloud.liu.se/s/J9ADqoe7fKTDgwf) (no negative weights, only weights w_l + w_{\neg l} = 1 or none)
-3. [Track 2 Bonus](https://nextcloud.liu.se/s/kiYkfoWxprdy3E8) (including negative weights) [Updated Format Description (Defaults for negative weights)](../../assets/files/mccomp_format_24.pdf)
-4. [Track 3](https://nextcloud.liu.se/s/KKJNB4N5bQg8X3s)
-5. [Track 4](https://nextcloud.liu.se/s/rcgsJREz38Pi5Zr)
-
-
 <!-- ## Public Results
 - <a href="https://www.starexec.org/starexec/secure/details/job.jsp?id=52720">Results on Public Instances for Track 1<a>
 - <a href="https://www.starexec.org/starexec/secure/details/job.jsp?id=52719">Results on Public Instances for Track 2<a>
@@ -65,8 +59,9 @@ that cannot be solved by common existing solver.
 
 
 ## Submission
-Register an Account with [StarExec](https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=441292).
- We will give you access and you will be able to upload your solver there. Also, please register in [this form](https://forms.gle/Xf3GfSLVkRDJSspK7).
+Please register in [this form](https://tinyurl.com/mc25-solver).
+
+TBD
 
 
 ## Format
@@ -84,10 +79,16 @@ Refer to the [submission and important dates page](dates).
 * Johannes K. Fichte (Linköping University, Sweden)
 
 ### Judge
-* Martin Gebser (AAU Klagenfurt, Austria)
+tba
 
+<!--
+* Martin Gebser (AAU Klagenfurt, Austria)
+-->
 ### Technical and Reproducibility Advisor
+tba
+<!--
 * Daniel Le Berre
+-->
 
 ## Call for Benchmarks (Over)
 Model Counting Competition invites extended submissions of collections of counting instances in the

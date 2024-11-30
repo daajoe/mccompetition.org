@@ -32,18 +32,19 @@ Updated results of the competition will be out soon.
 
 # Competition
 
-The _5th Competition on Model Counting (MC 2024)_ is a competition to deepen the relationship between latest theoretical
+The _6th Competition on Model Counting (MC 2025)_ is a competition to deepen the relationship between latest theoretical
 and practical development on the various model counting problems and their practical applications. It targets the
 problem of counting the number of models of a Boolean formula.
 
-Further details on the competition can be found at: [Competition 2024](2024/mc_description)
+Further details on the competition can be found at: [Competition 2025](2025/mc_description)
 <br /><br />
 
 # Workshop on Counting, Sampling, and Synthesis
 
 The _Workshop on Counting, Sampling, and Synthesis_ is an event for researchers in model counting and sampling. It covers advanced topics such as weighted and projected counters/samplers and various domains such as SAT, SMT, ASP, and CP. This year, the workshop has expanded its focus to include the role of model counters, samplers, and solvers in automated synthesis. The goal of the workshop is to facilitate the exchange of cutting-edge theoretical and practical insights, with a particular emphasis on innovative solver technologies and their real-world applications. Additionally, the workshop provides an opportunity for developers of model counters to showcase their work and share detailed competition results, to encourage discussions that bridge theory and practice.
 
-This year's workshop will be organized as part of the [SAT 2024 Conference](http://satisfiability.org/SAT24/). For more details, please refer to [Workshop 2024](2024/mcw_description).
+<!--This year's workshop will be organized as part of the [SAT 2025 Conference](http://satisfiability.org/SAT25/). For more details, please refer to [Workshop 2025](2025/mcw_description).
+-->
 
 <!--
 # Program
