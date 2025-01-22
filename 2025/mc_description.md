@@ -59,7 +59,7 @@ that cannot be solved by common existing solver.
 
 
 ## Submission
-Please register in [this form](https://tinyurl.com/mc25-solver).
+Please register in [this form](https://forms.gle/DEiDEqZz7tGG9Tt4A).
 
 TBD
 
