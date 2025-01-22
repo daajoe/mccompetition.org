@@ -25,7 +25,7 @@
 
 ## Submission
 TBA
-Please register in [this form](https://tinyurl.com/mc25-solver).
+Please register in [this form](https://forms.gle/DEiDEqZz7tGG9Tt4A).
 <!-- To be updated soon. -->
 
 
