@@ -96,7 +96,7 @@ Model Counting Competition invites extended submissions of collections of counti
 an [DIMACS-like submission format as used in the 2021 competition](../../assets/files/2021/competition2021.pdf).
 
 <!-- - [Call for Benchmarks 2023 (PDF)](../../assets/files/2022/call_for_benchmarks2022.pdf) -->
-- [Call for Benchmarks 2024 (TEXT)](cfb2024)
+- [Call for Benchmarks 2025](cfb2024)
 
 <!-- ### Evaluation Plattform
 We are happy that the director of StarExec (Aaron Stump, Iowa)
