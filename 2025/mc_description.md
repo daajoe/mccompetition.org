@@ -3,12 +3,11 @@
 
 # Model Counting Competition 2025
 
-The competition will be co-located with the competitions at [SAT 2025](http://satisfiability.org/SAT25/)
-(expected).
+The competition will be co-located with the competitions at [SAT 2025](https://satisfiability.org/SAT25/).
 <br><br>
 
 [//]: # (<!--)
-<b>[Pragmatics of SAT](http://www.pragmaticsofsat.org/2025/) invites Competition Solver Description Track.<br>
+<b>[Pragmatics of SAT](https://www.pragmaticsofsat.org/2025/) invites Competition Solver Description Track.<br>
 [The Workshop on Counting, Sampling, and Synthesis 2025](https://mccompetition.org/2025/mcw_description) also invites solver presentations.
 </b>
 
@@ -23,7 +22,7 @@ The competition will be co-located with the competitions at [SAT 2025](http://sa
 - Track 5B: Algebraic Model Counting (AMC): Field (tbd) 
 - Track 6B: Bitvector Counting
 
-Since Track 2 is subsumed by Track 4 and results were quite similar in 2024, 
+Track 2: Since the results no Track 2 were quite similar to Track 4 in 2024, 
 we omit weighted model counting unless requested by solver developer 
 who has not been participating in the competition.
 
@@ -60,6 +59,7 @@ standard solvers within less than 10s and keep at most 40 instances
 that cannot be solved by common existing solver.
 
 ## Public Instances
+tbd
 
 <!-- ## Public Results
 - <a href="https://www.starexec.org/starexec/secure/details/job.jsp?id=52720">Results on Public Instances for Track 1<a>
@@ -72,12 +72,11 @@ that cannot be solved by common existing solver.
 ## Submission
 Please register in [this form](https://tinyurl.com/ycx3w4cd).
 
-TBD
-
 
 ## Format
 We refer to a comprehensive
 [document on the description of the competition format from 2021 (Updated June 2024)](../../assets/files/mccomp_format_24.pdf) for Tracks 1-4.
+
 Note that **weights** may be given as **rational number** either as decimal number with at most 
 9 significant digits **or as fraction**.
 
@@ -85,7 +84,7 @@ For Track 5, we will decide about the format after discussing with interested de
 
 For Track 6, we use the SMT format.
 
-## Important Dates (Tentative)
+## Important Dates
 Refer to the [submission and important dates page](dates).
 
 ## Organization
@@ -119,12 +118,16 @@ See: [details](cfb2025.md)
 - [Call for Benchmarks 2025](cfb2025)
 
 ### Evaluation Plattform
-We are happy that the Software and Computational Systems (SoSy) Lab at 
-Ludwig Maximilian University of Munich accepted to host the model counting competition.
+We are happy that the [https://www.sosy-lab.org/](Software and Computational Systems (SoSy) Lab at 
+Ludwig Maximilian University of Munich) accepted to host the model counting competition.
 Thank you Dirk Beyer and Philipp Wendler.
 
-Pre-valuation will be run at the Swedish National Supercomputer Centre (NSC) and the Tetralith Cluster.  
+Pre-valuation will be run at the Swedish National Supercomputer Centre (NSC) and the 
+[https://www.nsc.liu.se/systems/tetralith/](Tetralith Cluster).  
 (Note that StarExec Iowa is about to be decommissioned in 2025).
+
+Submission will require a private github repository (or similar), from 
+where we can pull the solvers. 
 
 
 <!--- We are happy that the director of StarExec (Aaron Stump, Iowa)
