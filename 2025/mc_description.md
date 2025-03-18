@@ -7,17 +7,28 @@ The competition will be co-located with the competitions at [SAT 2025](http://sa
 (expected).
 <br><br>
 
-<!--
-<b>[Pragmatics of SAT](http://www.pragmaticsofsat.org/2024/) features a Competition Solver Description Track in 2024.<br>
-[The Workshop on Counting, Sampling, and Synthesis 2024](https://mccompetition.org/2024/mcw_description) also invites solver presentations.
+[//]: # (<!--)
+<b>[Pragmatics of SAT](http://www.pragmaticsofsat.org/2025/) invites Competition Solver Description Track.<br>
+[The Workshop on Counting, Sampling, and Synthesis 2025](https://mccompetition.org/2025/mcw_description) also invites solver presentations.
 </b>
--->
+
+[//]: # (-->)
 
 
 ## Tracks / Challenges
-1. **Model Counting (mc)**<br/>
-2. ...
-3. tba
+- Track 1: Model Counting
+- ~~Track 2: Weighted Model Counting~~ (subsumed by Track 4)
+- Track 3: Projected Model Counting
+- Track 4: Projected Weighted Model Counting
+- Track 5B: Algebraic Model Counting (AMC): Field (tbd) 
+- Track 6B: Bitvector Counting
+
+Since Track 2 is subsumed by Track 4 and results were quite similar in 2024, 
+we omit weighted model counting unless requested by solver developer 
+who has not been participating in the competition.
+
+Tracks 5 and 6 are bonus tracks, which will be experimental and
+run in collaboration with the solver developers.
 
 ## Results
 
@@ -29,18 +40,18 @@ The competition will be co-located with the competitions at [SAT 2025](http://sa
 ## Rules
 ### Ranking
 - A. Exact (arbitrary precision)
-- B. Exact (small precision loss)
+- ~~B. Exact (small precision loss)~~
 - C. Approximate (provide approximation guarantee)
-- D. Heuristic (experimental)
+- D. Heuristic
 
 ### Restrictions
 - Runtime: 3600s
 - Memory: 32GB
 - TempDisk Space: available for input transformation and preprocessing
 - Precision (in relative error A,B,D):
-  - Ranking A: 0.0 (any wrong solution results in disqualification)
-  - Ranking B: 0.001 (more than 20 solutions outside margin results in disqualification)
-  - Ranking C: $\alpha=0.8$ (more than 20 solutions outside margin results in disqualification)
+  - Ranking A: 0.0 (any wrong solution results in removal from the ranking)
+  - ~~Ranking B: 0.001 (more than 20 solutions outside margin results in disqualification)~~
+  - Ranking C: $\alpha=0.8$ (more than 20 solutions outside margin results in removal from the ranking)
   - Ranking D: 20% (correct answer: 1 point, otherwise: 0 points)
 
 ### Benchmark Selection
@@ -59,14 +70,20 @@ that cannot be solved by common existing solver.
 
 
 ## Submission
-Please register in [this form](https://forms.gle/DEiDEqZz7tGG9Tt4A).
+Please register in [this form](https://tinyurl.com/ycx3w4cd).
 
 TBD
 
 
 ## Format
 We refer to a comprehensive
-[document on the description of the competition format from 2021 (Updated June 2024)](../../assets/files/mccomp_format_24.pdf).
+[document on the description of the competition format from 2021 (Updated June 2024)](../../assets/files/mccomp_format_24.pdf) for Tracks 1-4.
+Note that **weights** may be given as **rational number** either as decimal number with at most 
+9 significant digits **or as fraction**.
+
+For Track 5, we will decide about the format after discussing with interested developers (please send us an email).
+
+For Track 6, we use the SMT format.
 
 ## Important Dates (Tentative)
 Refer to the [submission and important dates page](dates).
@@ -77,6 +94,7 @@ Refer to the [submission and important dates page](dates).
 * Arijit Shaw (Chennai Mathematical Institute, India)
 * Markus Hecher (MIT, MA, United States)
 * Johannes K. Fichte (Linköping University, Sweden)
+
 
 ### Judge
 tba
@@ -91,23 +109,32 @@ tba
 * Daniel Le Berre
 --->
 
-## Call for Benchmarks (Over)
+## Call for Benchmarks
 Model Counting Competition invites extended submissions of collections of counting instances in the
-an [DIMACS-like submission format as used in the 2021 competition](../../assets/files/2021/competition2021.pdf).
+an [DIMACS-like submission format (updated June'24)](../../assets/files/mccomp_format_24.pdf).
+See: [details](cfb2025.md)
 
-<!-- - [Call for Benchmarks 2023 (PDF)](../../assets/files/2022/call_for_benchmarks2022.pdf) -->
-- [Call for Benchmarks 2025](cfb2024)
 
-<!-- ### Evaluation Plattform
-We are happy that the director of StarExec (Aaron Stump, Iowa)
+- [Call for Benchmarks 2025 (PDF)](../../assets/files/2025/call_for_benchmarks2025.pdf)
+- [Call for Benchmarks 2025](cfb2025)
+
+### Evaluation Plattform
+We are happy that the Software and Computational Systems (SoSy) Lab at 
+Ludwig Maximilian University of Munich accepted to host the model counting competition.
+Thank you Dirk Beyer and Philipp Wendler.
+
+Pre-valuation will be run at the Swedish National Supercomputer Centre (NSC) and the Tetralith Cluster.  
+(Note that StarExec Iowa is about to be decommissioned in 2025).
+
+
+<!--- We are happy that the director of StarExec (Aaron Stump, Iowa)
 accepted to host the model counting competition. The main part of the competition will
 run on StarExec. We evaluate the solvers in parallel also on
-the [Taurus Cluster in Dresden](https://www.top500.org/system/178555/). -->
+the [Taurus Cluster in Dresden](https://www.top500.org/system/178555/).
+---> 
 
-<!---
-## Sponsors
-[data-experts](https://data-experts.de) already announced sponsoring of MC 2022.
---->
+
+
 
 
 ---

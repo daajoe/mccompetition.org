@@ -41,11 +41,12 @@ and for theoretical researchers to present latest results on solving.
 
 ## Organizers
 
-- Markus Hecher, TU Wien, Austria
-- Johannes Fichte, TU Wien, Austria
+- Arijit Shaw, Chennai Mathematical Institute, India (organizer since 2024)
+- Markus Hecher, CRIL - Centre de Recherche en Informatique de Lens, France (founder)
+- Johannes Fichte, Linköping University, Sweden (founder)
 
 ## Technical Advisor
-- Daniel Le Berre, CRIL, France
+- Daniel Le Berre, CRIL - Centre de Recherche en Informatique de Lens, France
 
 <!-- # Previous Work
 

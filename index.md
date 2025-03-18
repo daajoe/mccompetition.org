@@ -32,9 +32,9 @@ Updated results of the competition will be out soon.
 
 # Competition
 
-The _6th Competition on Model Counting (MC 2025)_ is a competition to deepen the relationship between latest theoretical
+The _6th Model Counting Competition (MC 2025)_ is a competition to deepen the relationship between latest theoretical
 and practical development on the various model counting problems and their practical applications. It targets the
-problem of counting the number of models of a Boolean formula.
+problem of counting the number of models of a propositional formula and extensions thereof.
 
 Further details on the competition can be found at: [Competition 2025](2025/mc_description)
 <br /><br />

@@ -3,20 +3,11 @@
 
 # Model Counting  (MC-2025)
 
-## Competition Tracks (tba)
-- Track 1: Model Counting
-- ...
-- tba
-
-[//]: # (- Track 2: Weighted Model Counting)
-[//]: # (- Track 3: Projected Model Counting)
-[//]: # (- Track 4: Projected Weighted Model Counting)
-
 ## Important Dates
-- Nov 30, 24: Call for Benchmarks, Participation
-- Mar 28: Benchmark Submission Deadline
-- Apr 25: Public Instance Publication
-- Jun 11: Solver Submission Deadline
+- Mar 20: Call for Benchmarks and Participation
+- Apr 16: Benchmark Submission Deadline
+- May 26: Public Instance Publication
+- May 30: Solver Submission Deadline
 - Jul 2: Notification of public results
 - Jul 16: Notification of private results
 - Jul 30: Comments Deadline by Participants
@@ -24,9 +15,9 @@
 
 
 ## Submission
-TBA
-Please register in [this form](https://forms.gle/DEiDEqZz7tGG9Tt4A).
-<!-- To be updated soon. -->
+Please register 
+- Benchmark Submissions at [this form](https://tinyurl.com/benchmarks-mc25)
+- Solver Submissions at [this form](https://tinyurl.com/ycx3w4cd).
 
 
 <!--[Detailed Submission information](mc_submission).-->
@@ -34,6 +25,7 @@ Please register in [this form](https://forms.gle/DEiDEqZz7tGG9Tt4A).
 <br />
 
 # Workshop on Counting, Sampling, and Synthesis
+tbd
 
 <!-- To be updated soon. -->
 
