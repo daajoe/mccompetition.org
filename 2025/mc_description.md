@@ -3,7 +3,7 @@
 
 # Model Counting Competition 2025
 
-The competition will be co-located with the competitions at [SAT 2025](https://satisfiability.org/SAT25/).
+The competition will be co-located with the competitions at [SAT 2025](https://satisfiability.org/SAT25/affiliated/).
 <br><br>
 
 [//]: # (<!--)
