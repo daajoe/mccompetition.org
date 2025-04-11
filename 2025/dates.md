@@ -25,23 +25,18 @@ Please register
 <br />
 
 # Workshop on Counting, Sampling, and Synthesis
-tbd
 
-<!-- To be updated soon. -->
 
-[//]: # (## Important Dates)
-[//]: # (- May 28, 2024: Submission deadline)
-[//]: # (- June 14, 2024: Notification of acceptance)
-[//]: # (- August 20, 2024: Workshop on Counting, Sampling, and Synthesis @ [SAT 2024]&#40;http://satisfiability.org/SAT24/&#41;)
+## Important Dates
+- May 30, 2025: Submission deadline
+- June 13, 2025: Notification of acceptance
+- August 11, 2025: Workshop on Counting, Sampling, and Synthesis @ [SAT 2025](https://satisfiability.org/SAT25/)
 
 ## Submission
-tbd
+Submission via [EasyChair](https://easychair.org/conferences/?conf=mcw2025)
+- There are no specific format requirements for the submission. We expect you to provide a reasonable description in PDF format.  <br> There will be no proceedings, but the abstracts and slides will be made available on the website. If authors decide to prerecord a video, it will be shared with the participants.
 
-<!---
-[EasyChair](https://easychair.org/conferences/?conf=mcw2024)
-- [EasyChair proceedings style](https://easychair.org/publications/easychair.zip)
-- Length: Abstract
---->
+
 
 
 
