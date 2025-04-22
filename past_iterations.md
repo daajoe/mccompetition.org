@@ -23,7 +23,7 @@ Part of [SAT 2024](http://satisfiability.org/SAT24/)
   [slides](../assets/files/2024/MC2024_awards.pdf),
   [solvers](https://zenodo.org/records/14249109),
   [competition instances](https://zenodo.org/records/14249068),
-  [submitted benchmarks](https://zenodo.org/records/14249095))
+  [submitted benchmarks](https://zenodo.org/records/14969231)
 
 ## MC-2023
 Part of [SAT 2023](http://satisfiability.org/SAT23/)
