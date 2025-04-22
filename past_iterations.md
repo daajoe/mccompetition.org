@@ -3,7 +3,8 @@
 # Public Resources
 - [StarExec Community](https://zenodo.org/communities/modelcounting/),
 - Reference: When refering to the competition in an academic paper please use one of the following:
-  - [The Model Counting Competition](https://dl.acm.org/doi/abs/10.1145/3459080)
+  - [The Model Counting Competitions 2021-2023](https://arxiv.org/abs/2504.13842)
+  - [The Model Counting Competition 2020](https://dl.acm.org/doi/abs/10.1145/3459080)
   - [Model Counting Competition 2024: Competition Instances](https://zenodo.org/records/14249068)
   - [Model Counting Competition 2023: Competition Instances](https://zenodo.org/records/10012864)
   - [Model Counting Competition 2022: Competition Instances](https://zenodo.org/records/10012860)
