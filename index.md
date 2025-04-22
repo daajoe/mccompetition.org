@@ -63,7 +63,19 @@ For competition and workshop submissions see [Dates and Submission](2021/dates).
 
 ---
 # References
-When refering to the competition in an academic paper please use the following reference:
+When refering to the competition in an academic paper please use the following references:
+```
+@misc{Competition2021_23,
+      title={The Model Counting Competitions 2021-2023}, 
+      author={Johannes K. Fichte and Markus Hecher},
+      year={2025},
+      eprint={2504.13842},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2504.13842}, 
+}
+```
+
 ```
 @article{10.1145/3459080,
 	address = {New York, NY, USA},
