@@ -30,7 +30,7 @@ Part of [SAT 2023](http://satisfiability.org/SAT23/)
   ([description](../2023/mc_description),
   [StarExec Community](https://www.starexec.org/starexec/secure/explore/spaces.jsp?id=520765),
   [format](assets/files/2021/competition2021.pdf),
-  [winners](../assets/files/2023/MC2023_awards.pdf),
+  [winners](../assets/files/2023/MC2023_winners.pdf),
   report [ArXiv submitted],
   [slides](../assets/files/2023/MC2023_awards.pdf),
   [solvers](https://zenodo.org/records/10012811),
