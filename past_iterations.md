@@ -11,14 +11,14 @@
   - [Model Counting Competition 2021: Competition Instances](https://zenodo.org/records/10012857)
   - [Model Counting Competition 2020: Competition Instances](https://zenodo.org/records/10031810)
 
-# Model Counting Competition 
+# Model Counting Competition
 ## MC-2024
 Part of [SAT 2024](http://satisfiability.org/SAT24/)
 - Tracks: **Model Counting**, **Weighted Model Counting**, **Weighted Model Counting (negative weights)**, **Projected Model Counting**, **Projected Weighted Model Counting**<br/>
   ([description](../2024/mc_description),
   [StarExec Community](https://starexec.org/starexec/secure/explore/spaces.jsp?id=441292),
   [format](assets/files/mccomp_format_24.pdf),
-  [winners](../assets/files/2024/MC2024_awards.pdf),
+  [winners](../assets/files/2024/MC2024_winners.pdf),
   report [tba],
   [slides](../assets/files/2024/MC2024_awards.pdf),
   [solvers](https://zenodo.org/records/14249109),
