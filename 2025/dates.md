@@ -28,7 +28,7 @@ Please register
 
 
 ## Important Dates
-- May 30, 2025: Submission deadline
+- ~~May 28, 2025~~ June 6, 2025: Submission deadline
 - June 13, 2025: Notification of acceptance
 - August 11, 2025: Workshop on Counting, Sampling, and Synthesis @ [SAT 2025](https://satisfiability.org/SAT25/)
 

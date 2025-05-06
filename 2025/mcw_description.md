@@ -57,6 +57,6 @@ If you have any questions about the workshop, the best way to contact the organi
 
 - [Johannes K. Fichte](https://liu.se/en/employee/johfi52) (Linköping University, Sweden)
 - [Markus Hecher](https://dbai.tuwien.ac.at/staff/hecher/) (Massachusetts Institute of Technology, USA)
-- [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/) (University of Toronto, Canada)
+- [Kuldeep S. Meel](http://www.kuldeepmeel.com/) (Georgia Institute of Technology, USA)
 
 ---
