@@ -19,17 +19,20 @@ The competition will be co-located with the competitions at [SAT 2025](https://s
 - ~~Track 2: Weighted Model Counting~~ (subsumed by Track 4)
 - Track 3: Projected Model Counting
 - Track 4: Projected Weighted Model Counting
-- Track 5B: Algebraic Model Counting (AMC): Field (tbd) 
+- Track 5B: Algebraic Model Counting (AMC): Field (tbd)
 - Track 6B: Bitvector Counting
 
-Track 2: Since the results no Track 2 were quite similar to Track 4 in 2024, 
-we omit weighted model counting unless requested by solver developer 
+Track 2: Since the results no Track 2 were quite similar to Track 4 in 2024,
+we omit weighted model counting unless requested by solver developer
 who has not been participating in the competition.
 
 Tracks 5 and 6 are bonus tracks, which will be experimental and
 run in collaboration with the solver developers.
 
-## Results
+## Submission
+Please register in [this form](https://tinyurl.com/ycx3w4cd). See [submission instructions](submission) for details.
+
+<!-- ## Results -->
 
 <!-- ## Instances
 - [Instances for Track1--4](https://cloudstore.zih.tu-dresden.de/index.php/s/fiQ93PCPCX3EwDS) (last updated May 28, 2023) -->
@@ -69,15 +72,14 @@ tbd
 
 
 
-## Submission
-Please register in [this form](https://tinyurl.com/ycx3w4cd).
+
 
 
 ## Format
 We refer to a comprehensive
 [document on the description of the competition format from 2021 (Updated June 2024)](../../assets/files/mccomp_format_24.pdf) for Tracks 1-4.
 
-Note that **weights** may be given as **rational number** either as decimal number with at most 
+Note that **weights** may be given as **rational number** either as decimal number with at most
 9 significant digits **or as fraction**.
 
 For Track 5, we will decide about the format after discussing with interested developers (please send us an email).
@@ -118,23 +120,23 @@ See: [details](cfb2025.md)
 - [Call for Benchmarks 2025](cfb2025)
 
 ### Evaluation Plattform
-We are happy that the [https://www.sosy-lab.org/](Software and Computational Systems (SoSy) Lab at 
+We are happy that the [https://www.sosy-lab.org/](Software and Computational Systems (SoSy) Lab at
 Ludwig Maximilian University of Munich) accepted to host the model counting competition.
 Thank you Dirk Beyer and Philipp Wendler.
 
-Pre-valuation will be run at the Swedish National Supercomputer Centre (NSC) and the 
-[https://www.nsc.liu.se/systems/tetralith/](Tetralith Cluster).  
+Pre-valuation will be run at the Swedish National Supercomputer Centre (NSC) and the
+[https://www.nsc.liu.se/systems/tetralith/](Tetralith Cluster).
 (Note that StarExec Iowa is about to be decommissioned in 2025).
 
-Submission will require a private github repository (or similar), from 
-where we can pull the solvers. 
+Submission will require a private github repository (or similar), from
+where we can pull the solvers.
 
 
 <!--- We are happy that the director of StarExec (Aaron Stump, Iowa)
 accepted to host the model counting competition. The main part of the competition will
 run on StarExec. We evaluate the solvers in parallel also on
 the [Taurus Cluster in Dresden](https://www.top500.org/system/178555/).
----> 
+--->
 
 
 
