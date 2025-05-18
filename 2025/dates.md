@@ -7,7 +7,7 @@
 - Mar 20: Call for Benchmarks and Participation
 - Apr 16: Benchmark Submission Deadline
 - May 26: Public Instance Publication
-- May 30: Solver Submission Deadline
+- ~~May 26~~ June 6: Solver Submission Deadline
 - Jul 2: Notification of public results
 - Jul 16: Notification of private results
 - Jul 30: Comments Deadline by Participants
@@ -15,7 +15,7 @@
 
 
 ## Submission
-Please register 
+Please register
 - Benchmark Submissions at [this form](https://tinyurl.com/benchmarks-mc25)
 - Solver Submissions at [this form](https://tinyurl.com/ycx3w4cd).
 
