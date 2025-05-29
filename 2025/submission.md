@@ -7,7 +7,7 @@ All tracks will be run on the [BenchCloud Instance of SoSy Lab in Munich](https:
 The solver should be able to be built and run on a system that conforms to the specification in the [Computing Environment on Competition Machines](https://gitlab.com/sosy-lab/benchmarking/competition-scripts/#computing-environment-on-competition-machines) section of the SoSy Lab Competition Scripts. The top-level directory of your solver should contain two scripts:
 
 - **build.sh**, for building the counter.
-  The build script should take no parameters and should be tested and work on the provided Docker image.
+  The build script should take no parameters and should be tested and work on the provided Docker image in the [link above](https://gitlab.com/sosy-lab/benchmarking/competition-scripts/#computing-environment-on-competition-machines).
 
 - **run.sh**, to run the counter.
   The run script should take only one parameter: the path to the benchmark instance. The output should follow the [format document](../../assets/files/mccomp_format_24.pdf) and should be written to stdout.
@@ -16,7 +16,7 @@ The solver should be able to be built and run on a system that conforms to the s
 
 ## Submission
 
-The submission of the final version of a solver is via a private GitHub repository, which is to be made available to the organizers by the solver authors.
+The final solver submission must be provided via a private GitHub repository. Authors should grant access to the organizers and ensure that the final version is on the repository’s main branch. Please email the commit hash of this version to the organizers at (mcw at modelcounting.org).
 
 ### Emailing your System Description Document
 
