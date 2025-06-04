@@ -64,6 +64,8 @@ that cannot be solved by common existing solver.
 ## Public Instances
 tbd
 
+A few test instances are available in the [GitHub repository](https://github.com/arijitsh/mccomp-test-instances).
+
 <!-- ## Public Results
 - <a href="https://www.starexec.org/starexec/secure/details/job.jsp?id=52720">Results on Public Instances for Track 1<a>
 - <a href="https://www.starexec.org/starexec/secure/details/job.jsp?id=52719">Results on Public Instances for Track 2<a>
