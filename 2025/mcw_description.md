@@ -4,8 +4,8 @@
 # Workshop on Counting, Sampling, and Synthesis 2025
 
 ## Registration
-<!--- Please register for the SAT conference. --->
-To be updated soon. 
+
+[Registration for CP, SAT, SoCS, and affiliated workshops is now open!](https://cp2025.a4cp.org/registration.html)
 
 ## Purpose
 
