@@ -20,4 +20,4 @@ The final solver submission must be provided via a private GitHub repository. Au
 
 ### Emailing your System Description Document
 
-After you have submitted the final version of your solver, send an email to the organizers (mcw at modelcounting.org) containing your system description document (see General Rules for more information).
+After you have submitted the final version of your solver, send an email to the organizers (mcw at modelcounting.org) containing your system description document.
