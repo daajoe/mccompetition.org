@@ -62,7 +62,7 @@ standard solvers within less than 10s and keep at most 40 instances
 that cannot be solved by common existing solver.
 
 ## Public Instances
-- Track 1: [link](https://nextcloud.liu.se/s/2zbn4APWnjLxRLo)
+- Track 1 and 3: [link](https://nextcloud.liu.se/s/2zbn4APWnjLxRLo)
 - Remaining tracks coming soon.
 
 A few test instances are available in the [GitHub repository](https://github.com/arijitsh/mccomp-test-instances).
