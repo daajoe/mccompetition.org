@@ -101,13 +101,13 @@ Refer to the [submission and important dates page](dates).
 
 
 ### Judge
-tba
+Mario Alviano
 
 <!--
 * Martin Gebser (AAU Klagenfurt, Austria)
 -->
 ### Technical and Reproducibility Advisor
-tba
+Daniel Le Berre
 
 <!---
 * Daniel Le Berre
