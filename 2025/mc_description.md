@@ -19,7 +19,7 @@ The competition will be co-located with the competitions at [SAT 2025](https://s
 - ~~Track 2: Weighted Model Counting~~ (subsumed by Track 4)
 - Track 3: Projected Model Counting
 - Track 4: Projected Weighted Model Counting
-- Track 5B: Algebraic Model Counting (AMC): Field (tbd)
+- Track 5B: Algebraic Model Counting (AMC): Field (complex numbers)
 - Track 6B: Bitvector Counting
 
 Track 2: Since the results no Track 2 were quite similar to Track 4 in 2024,
