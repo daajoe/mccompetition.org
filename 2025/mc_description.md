@@ -80,7 +80,7 @@ A few test instances are available in the [GitHub repository](https://github.com
 
 ## Format
 We refer to a comprehensive
-[document on the description of the competition format from 2021 (Updated June 2024)](../../assets/files/mccomp_format_24.pdf) for Tracks 1-5.
+[document on the description of the competition format from 2021 (Updated June 2025 for new tracks)](../../assets/files/mccomp_format_25.pdf) for Tracks 1-5.
 
 Note that **weights** may be given as **rational number** either as decimal number with at most
 9 significant digits **or as fraction**.
