@@ -32,7 +32,8 @@ run in collaboration with the solver developers.
 ## Submission
 Please register in [this form](https://tinyurl.com/ycx3w4cd). See [submission instructions](submission) for details.
 
-<!-- ## Results -->
+## Results
+The slides of the presentation of the results at SAT 2025 are available [here](../../assets/files/2025/mccomp_results_25.pdf).
 
 <!-- ## Instances
 - [Instances for Track1--4](https://cloudstore.zih.tu-dresden.de/index.php/s/fiQ93PCPCX3EwDS) (last updated May 28, 2023) -->
