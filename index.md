@@ -32,18 +32,25 @@ Updated results of the competition will be out soon.
 
 # Competition
 
-The _6th Model Counting Competition (MC 2025)_ is a competition to deepen the relationship between latest theoretical
+The _7th Model Counting Competition (MC 2026)_ is a competition to deepen the relationship between latest theoretical
 and practical development on the various model counting problems and their practical applications. It targets the
 problem of counting the number of models of a propositional formula and extensions thereof.
 
-Further details on the competition can be found at: [Competition 2025](2025/mc_description)
+Further details on the competition can be found at: [Competition 2026](2026/mc_description)
 <br /><br />
 
 # Workshop on Counting, Sampling, and Synthesis
 
-The _Workshop on Counting, Sampling, and Synthesis_ is an event for researchers in model counting and sampling. It covers advanced topics such as weighted and projected counters/samplers and various domains such as SAT, SMT, ASP, and CP. This year, the workshop has expanded its focus to include the role of model counters, samplers, and solvers in automated synthesis. The goal of the workshop is to facilitate the exchange of cutting-edge theoretical and practical insights, with a particular emphasis on innovative solver technologies and their real-world applications. Additionally, the workshop provides an opportunity for developers of model counters to showcase their work and share detailed competition results, to encourage discussions that bridge theory and practice.
+The _Workshop on Counting, Sampling, and Synthesis_ is an event for researchers in model counting and sampling.
+It covers advanced topics such as weighted and projected counters/samplers and various domains such as SAT,
+SMT, ASP, and CP. This year, the workshop has expanded its focus to include the role of model counters,
+samplers, and solvers in automated synthesis. The goal of the workshop is to facilitate the exchange of cutting-edge
+theoretical and practical insights, with a particular emphasis on innovative solver technologies and their real-world
+applications. Additionally, the workshop provides an opportunity for developers of model counters to showcase their work
+and share detailed competition results, to encourage discussions that bridge theory and practice.
 
-<!--This year's workshop will be organized as part of the [SAT 2025 Conference](http://satisfiability.org/SAT25/). For more details, please refer to [Workshop 2025](2025/mcw_description).
+<!--This year's workshop will be organized as part of the [SAT 2025 Conference](http://satisfiability.org/SAT25/). 
+For more details, please refer to [Workshop 2025](2025/mcw_description).
 -->
 
 <!--
@@ -51,7 +58,8 @@ The _Workshop on Counting, Sampling, and Synthesis_ is an event for researchers 
 The program is available at [Workshop 2021 Program](2021/mcw_program).
 
 # Competition Results
-The competition results will be presented on Friday, July 9th at the SAT conference during the Competitive events session (17:40-18:30).<br/>
+The competition results will be presented on Friday, July 9th at the SAT conference during the Competitive events 
+session (17:40-18:30).<br/>
 See: [SAT program](https://www.iiia.csic.es/sat2021/program/#Friday9).
 -->
 
@@ -62,8 +70,11 @@ For competition and workshop submissions see [Dates and Submission](2021/dates).
 
 
 ---
+
 # References
+
 When refering to the competition in an academic paper please use the following references:
+
 ```
 @misc{Competition2021_23,
       title={The Model Counting Competitions 2021-2023}, 
@@ -76,34 +87,16 @@ When refering to the competition in an academic paper please use the following r
 }
 ```
 
-```
-@article{10.1145/3459080,
-	address = {New York, NY, USA},
-	articleno = {13},
-	author = {Fichte, Johannes K. and Hecher, Markus and Hamiti, Florim},
-	doi = {10.1145/3459080},
-	issn = {1084-6654},
-	issue_date = {December 2021},
-	journal = {ACM J. Exp. Algorithmics},
-	month = {oct},
-	numpages = {26},
-	publisher = {Association for Computing Machinery},
-	title = {The Model Counting Competition 2020},
-	volume = {26},
-	year = {2021}}
-```
-
 # Sponsors
 
 <!--- On behalf of the Program Committee of MC 2024, we invite you to participate in the sponsoring . --->
 
-<!--
-[data-experts](https://data-experts.de) already announced sponsoring for MC 2020.
-<img src="assets/images/data-experts-logo.png" alt="data-experts" style="width: 300px;"/>
--->
-
-- The organizers gratefully acknowledge the computing time made available to them on the high-performance computer at the NHR Center of TU Dresden. This center is jointly supported by the Federal Ministry of Education and Research and the state governments participating in the NHR (www.nhr-verein.de/unsere-partner).
-- Computations were partially enabled by resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725.
-
+- The organizers gratefully acknowledge the computing time made available to them on the high-performance computer at
+  the NHR Center of TU Dresden. This center is jointly supported by the Federal Ministry of Education and Research and
+  the state governments participating in the NHR (www.nhr-verein.de/unsere-partner).
+- Computations were partially enabled by resources provided by the National Academic Infrastructure for Supercomputing
+  in Sweden (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725.
+- Computation in 2025 was supported by Centre de Recherche en Informatique de Lens (CRIL), France and the SoSy Lab in
+  Munich.
 
 

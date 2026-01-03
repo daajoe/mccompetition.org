@@ -5,6 +5,7 @@
 - Reference: When refering to the competition in an academic paper please use one of the following:
   - [The Model Counting Competitions 2021-2023](https://arxiv.org/abs/2504.13842)
   - [The Model Counting Competition 2020](https://dl.acm.org/doi/abs/10.1145/3459080)
+  - [Model Counting Competition 2025: Competition Instances - draft](https://nextcloud.liu.se/s/6t5t2r3CRJZzMCX)
   - [Model Counting Competition 2024: Competition Instances](https://zenodo.org/records/14249068)
   - [Model Counting Competition 2023: Competition Instances](https://zenodo.org/records/10012864)
   - [Model Counting Competition 2022: Competition Instances](https://zenodo.org/records/10012860)
@@ -12,6 +13,22 @@
   - [Model Counting Competition 2020: Competition Instances](https://zenodo.org/records/10031810)
 
 # Model Counting Competition
+## MC-2025
+Part of [SAT 2025](http://satisfiability.org/SAT24/)
+- Tracks: **Model Counting**, **Weighted Model Counting**, **Weighted Model Counting (negative weights)**, **Projected Model Counting**, **Projected Weighted Model Counting**<br/>
+  ([description](../2025/mc_description),
+  <!--[StarExec Community](https://starexec.org/starexec/secure/explore/spaces.jsp?id=441292),-->
+  [format](assets/files/mccomp_format_25.pdf),
+  [winners](../assets/files/2025/MC2025_winners.pdf),
+  report [tba],
+  [slides](../assets/files/2024/MC2025_awards.pdf),
+  <!--[solvers](https://zenodo.org/records/14249109),-->
+  solvers [tba],
+  [competition instances - draft](https://nextcloud.liu.se/s/6t5t2r3CRJZzMCX),
+  [submitted benchmarks - draft](https://nextcloud.liu.se/s/y5wNFmWPR57cf75) 
+  <!--[competition instances](https://zenodo.org/records/14249068),
+  [submitted benchmarks](https://zenodo.org/records/14969231)-->
+
 ## MC-2024
 Part of [SAT 2024](http://satisfiability.org/SAT24/)
 - Tracks: **Model Counting**, **Weighted Model Counting**, **Weighted Model Counting (negative weights)**, **Projected Model Counting**, **Projected Weighted Model Counting**<br/>
@@ -75,7 +92,26 @@ The results of each Model Counting Competition are documented in a report.
   [competition instances](https://zenodo.org/records/10031810),
   [submitted benchmarks](https://zenodo.org/records/10004947))
 
+```
+@article{10.1145/3459080,
+	address = {New York, NY, USA},
+	articleno = {13},
+	author = {Fichte, Johannes K. and Hecher, Markus and Hamiti, Florim},
+	doi = {10.1145/3459080},
+	issn = {1084-6654},
+	issue_date = {December 2021},
+	journal = {ACM J. Exp. Algorithmics},
+	month = {oct},
+	numpages = {26},
+	publisher = {Association for Computing Machinery},
+	title = {The Model Counting Competition 2020},
+	volume = {26},
+	year = {2021}}
+```
+
 # Workshops
+- 2024 Workshop on Counting, Sampling, and Synthesis (in person event)<br/>
+  ([program](../2025/mcw_description))
 - 2024 Workshop on Counting, Sampling, and Synthesis (in person event)<br/>
   ([program](../2024/mcw_description))
 - 2023 Workshop on Counting and Sampling (in person event)<br/>

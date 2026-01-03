@@ -36,16 +36,16 @@ menu:
     link: /solvers/solvers
     icon: ""
 
-  - text: Competition 2025
-    link: /2025/mc_description
+  - text: Competition 2026
+    link: /2026/mc_description
     icon: ""
 
-  - text: Workshop 2025
-    link: /2025/mcw_description
+  - text: Workshop 2026
+    link: /2026/mcw_description
     icon: ""
 
   - text: Submission &<br>Important Dates
-    link: /2025/dates
+    link: /2026/dates
     icon: ""
 
 #  - text: Program
@@ -68,7 +68,6 @@ social_icons:
   - name: twitter
     link: https://www.twitter.com/joedaa
     icon: fab fa-twitter
-
 
 
 

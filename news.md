@@ -4,5 +4,5 @@
 # News
 
 ---
-## 30.11.2024: Updated Webpage to 2025
+## 03.01.2025: Updated Webpage to 2026
 ---

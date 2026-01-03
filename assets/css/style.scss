@@ -3,6 +3,16 @@
 
 @import 'panthera-jekyll';
 
-body {
-      font-family: "Open Sans", SansSerif, Sans, sans-serif;
+//.pan-layout-left__menu {
+//  background-color: #ff0000 !important; /* Changes menu background to red */
+//}
+
+.pan-layout-left__menu {
+  color: #1d2ff1 !important;
+  background-color: rgba(252, 241, 211, 0.8);
 }
+
+body {
+  font-family: "Open Sans", SansSerif, Sans, sans-serif;
+}
+
