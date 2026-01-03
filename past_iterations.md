@@ -21,7 +21,7 @@ Part of [SAT 2025](http://satisfiability.org/SAT24/)
   [format](assets/files/mccomp_format_25.pdf),
   [winners](../assets/files/2025/MC2025_winners.pdf),
   report [tba],
-  [slides](../assets/files/2024/MC2025_awards.pdf),
+  [slides](../assets/files/2025/MC2025_awards.pdf),
   <!--[solvers](https://zenodo.org/records/14249109),-->
   solvers [tba],
   [competition instances - draft](https://nextcloud.liu.se/s/6t5t2r3CRJZzMCX),
