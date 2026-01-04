@@ -18,7 +18,7 @@ Part of [SAT 2025](http://satisfiability.org/SAT24/)
 - Tracks: **Model Counting**, **Weighted Model Counting**, **Weighted Model Counting (negative weights)**, **Projected Model Counting**, **Projected Weighted Model Counting**<br/>
   ([description](../2025/mc_description),
   <!--[StarExec Community](https://starexec.org/starexec/secure/explore/spaces.jsp?id=441292),-->
-  [format](assets/files/mccomp_format_25.pdf),
+  [format](../assets/files/mccomp_format_25.pdf),
   [winners](../assets/files/2025/MC2025_winners.pdf),
   report [tba],
   [slides](../assets/files/2025/MC2025_awards.pdf),

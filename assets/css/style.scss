@@ -16,3 +16,14 @@ body {
   font-family: "Open Sans", SansSerif, Sans, sans-serif;
 }
 
+#hidden {
+  display: none;
+}
+
+a.flip_off {
+  display: block;
+}
+
+a.flip_on {
+  display: none;
+}
