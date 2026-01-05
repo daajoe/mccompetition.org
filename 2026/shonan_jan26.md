@@ -66,7 +66,7 @@ seminar aims to connect these areas and foster collaboration between theory and 
         <li>Florent Capelli (University of Artois, CNRS) <a href='https://dblp.org/pid/119/5011.html'>[dblp]</a></li>
         <li>Supratik Chakraborty (Indian Institute of Technology Bombay) <a href='https://dblp.org/pid/34/4525.html'>[dblp]</a></li>
         <li>Leroy Chew (TU Wien) <a href='https://dblp.org/pid/141/7753.html'>[dblp]</a></li>
-        <li>Arthur  Choi (Kennesaw State University) <a href='https://dblp.org/pid/67/1972.html'>[dblp]</a></li>
+        <li>Arthur Choi (Kennesaw State University) <a href='https://dblp.org/pid/67/1972.html'>[dblp]</a></li>
         <li>YooJung Choi (Arizona State University) <a href='https://dblp.org/pid/204/2937.html'>[dblp]</a></li>
         <li>Alexis de Colnet (Leiden University) <a href='https://dblp.org/pid/249/1786.html'>[dblp]</a></li>
         <li>Arnaud Durand (University Paris Cite) <a href='https://dblp.org/pid/91/2388-1.html'>[dblp]</a></li>
@@ -80,7 +80,6 @@ seminar aims to connect these areas and foster collaboration between theory and 
         <li>Pierre Marquis (Université d’Artois) <a href='https://dblp.org/pid/37/6177.html'>[dblp]</a></li>
         <li>Kuldeep Meel (Georgia Institute of Technology) <a href='https://dblp.org/pid/129/1623.html'>[dblp]</a></li>
         <li>Arne Meier (Leibniz University Hannover) <a href='https://dblp.org/pid/38/5700.html'>[dblp]</a></li>
-        <li>Marc Roth (Queen Mary University of London) <a href='https://dblp.org/pid/182/1903.html'>[dblp]</a></li>
         <li>Arijit Shaw (Chennai Mathematical Institute) <a href='https://dblp.org/pid/217/0937.html'>[dblp]</a></li>
         <li>Giuseppe Spallitta (Rice University) <a href='https://dblp.org/pid/323/5472.html'>[dblp]</a></li>
         <li>Stefan Szeider (TU Wien) <a href='https://dblp.org/pid/s/StefanSzeider.html'>[dblp]</a></li>
