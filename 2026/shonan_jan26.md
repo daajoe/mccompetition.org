@@ -65,7 +65,7 @@ seminar aims to connect these areas and foster collaboration between theory and 
         <li>Olaf Beyersdorff (Friedrich Schiller University Jena) <a href='https://dblp.org/pid/91/2292.html'>[dblp]</a></li>
         <li>Florent Capelli (University of Artois, CNRS) <a href='https://dblp.org/pid/119/5011.html'>[dblp]</a></li>
         <li>Supratik Chakraborty (Indian Institute of Technology Bombay) <a href='https://dblp.org/pid/34/4525.html'>[dblp]</a></li>
-        <li>Leroy Chew (TU Wien) <a href='https://dblp.org/pid/141/7753.html'>[dblp]</a></li>
+        <!---- <li>Leroy Chew (TU Wien) <a href='https://dblp.org/pid/141/7753.html'>[dblp]</a></li> ---->
         <li>Arthur Choi (Kennesaw State University) <a href='https://dblp.org/pid/67/1972.html'>[dblp]</a></li>
         <li>YooJung Choi (Arizona State University) <a href='https://dblp.org/pid/204/2937.html'>[dblp]</a></li>
         <li>Alexis de Colnet (Leiden University) <a href='https://dblp.org/pid/249/1786.html'>[dblp]</a></li>
@@ -73,11 +73,11 @@ seminar aims to connect these areas and foster collaboration between theory and 
         <li>Johannes Klaus Fichte (Linköping University) <a href='https://dblp.org/pid/46/7137.html'>[dblp]</a></li>
         <li>Daniel Gnad (Heidelberg University) <a href='https://dblp.org/pid/162/9918.html'>[dblp]</a></li>
         <li>Kenji Hashimoto (Kagawa University) <a href='https://dblp.org/pid/22/5692.html'>[dblp]</a></li>
-        <li>Markus Hecher (CNRS, University of Artois) <a href='https://dblp.org/pid/150/8127.html'>[dblp]</a></li>
+        <!--- <li>Markus Hecher (CNRS, University of Artois) <a href='https://dblp.org/pid/150/8127.html'>[dblp]</a></li> ---->
         <li>Tim Hoffmann (Friedrich Schiller University Jena) <a href='https://dblp.org/pid/60/5226.html'>[dblp]</a></li>
         <li>Matti Järvisalo (University of Helsinki) <a href='https://dblp.org/pid/69/6999.html'>[dblp]</a></li>
         <li>Jean-Marie Lagniez (Computer science Research Institute of Lens) <a href='https://dblp.org/pid/28/7480.html'>[dblp]</a></li>
-        <li>Pierre Marquis (Université d’Artois) <a href='https://dblp.org/pid/37/6177.html'>[dblp]</a></li>
+        <!---- <li>Pierre Marquis (Université d’Artois) <a href='https://dblp.org/pid/37/6177.html'>[dblp]</a></li> ---->
         <li>Kuldeep Meel (Georgia Institute of Technology) <a href='https://dblp.org/pid/129/1623.html'>[dblp]</a></li>
         <li>Arne Meier (Leibniz University Hannover) <a href='https://dblp.org/pid/38/5700.html'>[dblp]</a></li>
         <li>Arijit Shaw (Chennai Mathematical Institute) <a href='https://dblp.org/pid/217/0937.html'>[dblp]</a></li>
@@ -86,7 +86,7 @@ seminar aims to connect these areas and foster collaboration between theory and 
         <li>Guy Van den Broeck (UCLA) <a href='https://dblp.org/pid/96/7521.html'>[dblp]</a></li>
         <li>Vinita Vasudevan (Indian Institute of Technology, Madras) <a href='https://dblp.org/pid/69/2594.html'>[dblp]</a></li>
         <li>Heribert Vollmer (Leibniz Universität Hannover) <a href='https://dblp.org/pid/v/HeribertVollmer.html'>[dblp]</a></li>
-        <li>Roland Yap (National University Singapore) <a href='https://dblp.org/pid/y/RolandHCYap.html'>[dblp]</a></li>
+        <!---- <li>Roland Yap (National University Singapore) <a href='https://dblp.org/pid/y/RolandHCYap.html'>[dblp]</a></li> ---->
         <li>Pedro Zuidberg Dos Martires (Örebro University) <a href='https://dblp.org/pid/223/4292.html'>[dblp]</a></li>
     </ul>
 </div>
