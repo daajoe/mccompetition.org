@@ -3,7 +3,7 @@
 
 # Model Counting Competition 2026
 
-The competition will be co-located with the competitions at [SAT 2025](https://satisfiability.org/SAT25/affiliated/).
+The competition will be co-located with the competitions at [SAT 2026](https://satisfiability.org/SAT26/).
 <br><br>
 
 [//]: # (<!--)
@@ -33,7 +33,7 @@ run in collaboration with the solver developers.
 Please register in [this form](https://forms.gle/XK1YMRRugMpt8wsz7). See [submission instructions](submission) for details.
 
 ## Results
-The slides of the presentation of the results at SAT 2025 are available [here](../../assets/files/2025/mccomp_results_25.pdf).
+<!-- .... --->
 
 <!-- ## Instances
 - [Instances for Track1--4](https://cloudstore.zih.tu-dresden.de/index.php/s/fiQ93PCPCX3EwDS) (last updated May 28, 2023) -->
@@ -102,7 +102,8 @@ Refer to the [submission and important dates page](dates).
 
 
 ### Judge
-Mario Alviano
+tbd
+<!-- Mario Alviano --->
 
 <!--
 * Martin Gebser (AAU Klagenfurt, Austria)
@@ -120,8 +121,8 @@ an [DIMACS-like submission format (updated June'24)](../../assets/files/mccomp_f
 See: [details](cfb2026.md)
 
 
-- [Call for Benchmarks 2025 (PDF)](../../assets/files/2025/call_for_benchmarks2025.pdf)
-- [Call for Benchmarks 2025](cfb2026)
+- [Call for Benchmarks 2026 (PDF)](../../assets/files/2026/call_for_benchmarks2026.pdf)
+- [Call for Benchmarks 2026](cfb2026)
 
 ### Evaluation Plattform
 We are happy that the [https://www.sosy-lab.org/](Software and Computational Systems (SoSy) Lab at
@@ -130,7 +131,6 @@ Thank you Dirk Beyer and Philipp Wendler.
 
 Pre-valuation will be run at the Swedish National Supercomputer Centre (NSC) and the
 [https://www.nsc.liu.se/systems/tetralith/](Tetralith Cluster).
-(Note that StarExec Iowa is about to be decommissioned in 2025).
 
 Submission will require a private github repository (or similar), from
 where we can pull the solvers.
