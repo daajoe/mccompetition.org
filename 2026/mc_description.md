@@ -30,7 +30,9 @@ Tracks 5 and 6 are bonus tracks, which will be experimental and
 run in collaboration with the solver developers.
 
 ## Submission
-Please register in [this form](https://forms.gle/XK1YMRRugMpt8wsz7). See [submission instructions](submission) for details.
+See [submission instructions](submission) for details.
+-  Please register in [this form (Benchmark Submissions)](https://forms.gle/XK1YMRRugMpt8wsz7)
+-  Please register in [this form (Solver Submissions)](https://forms.gle/nQAwRxKu11UmLbVc8)
 
 ## Results
 <!-- .... --->
