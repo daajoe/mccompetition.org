@@ -99,7 +99,7 @@ Refer to the [submission and important dates page](dates).
 
 ### Program Co-Chair / Organization
 * Arijit Shaw (Chennai Mathematical Institute, India)
-* Markus Hecher (MIT, MA, United States)
+* Markus Hecher (CNRS, Artois University (CRIL), France)
 * Johannes K. Fichte (Linköping University, Sweden)
 
 
