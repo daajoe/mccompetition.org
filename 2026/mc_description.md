@@ -30,7 +30,9 @@ Tracks 5 and 6 are bonus tracks, which will be experimental and
 run in collaboration with the solver developers.
 
 ## Submission
-Please register in [this form](https://forms.gle/XK1YMRRugMpt8wsz7). See [submission instructions](submission) for details.
+See [submission instructions](submission) for details.
+-  Please register in [this form (Benchmark Submissions)](https://forms.gle/XK1YMRRugMpt8wsz7)
+-  Please register in [this form (Solver Submissions)](https://forms.gle/nQAwRxKu11UmLbVc8)
 
 <!-- ## Results
 The slides of the presentation of the results at SAT 2025 are available [here](../../assets/files/2025/mccomp_results_25.pdf).
@@ -100,12 +102,13 @@ Refer to the [submission and important dates page](dates).
 
 ### Program Co-Chair / Organization
 * Arijit Shaw (Chennai Mathematical Institute, India)
-* Markus Hecher (MIT, MA, United States)
+* Markus Hecher (CNRS, Artois University (CRIL), France)
 * Johannes K. Fichte (Linköping University, Sweden)
 
 
 ### Judge
-Mario Alviano
+tbd
+<!-- Mario Alviano --->
 
 <!--
 * Martin Gebser (AAU Klagenfurt, Austria)
@@ -129,7 +132,6 @@ See: [details](cfb2026.md)
 ### Evaluation Plattform
 Pre-valuation will be run at the Swedish National Supercomputer Centre (NSC) and the
 [https://www.nsc.liu.se/systems/tetralith/](Tetralith Cluster).
-(Note that StarExec Iowa is about to be decommissioned in 2025).
 
 Submission will require a private github repository (or similar), from
 where we can pull the solvers.
