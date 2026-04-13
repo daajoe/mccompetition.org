@@ -122,7 +122,7 @@ tbd
 
 ## Call for Benchmarks
 Model Counting Competition invites extended submissions of collections of counting instances in the
-an [DIMACS-like submission format (updated June'24)](../../assets/files/mccomp_format_24.pdf).
+an [DIMACS-like submission format](../../assets/files/mccomp_format_25.pdf).
 See: [details](cfb2026.md)
 
 
