@@ -4,11 +4,11 @@
 # Model Counting  (MC-2026)
 
 ## Important Dates
-- March 11: Call for Benchmarks and Participation
-- Apr 17: Benchmark Submission Deadline
-- May 1: Public Instance Publication
-- May 15: Solver Submission Deadline
-- June 10: Notification of public results
+- Apr 13: Call for Benchmarks and Participation
+- May 5: Benchmark Submission Deadline
+- May 30: Public Instance Publication
+- June 15: Solver Submission Deadline
+- June 30: Notification of public results
 - July 1: Notification of private results
 - July 8: Comments Deadline by Participants
 - July 22: Result Presentation at SAT Conference (expected)

@@ -3,23 +3,29 @@
 
 # Workshop on Counting, Sampling, and Synthesis 2026
 
+<!--- 
 ## Registration
 
-<!--- 
 [Registration for CP, SAT, SoCS, and affiliated workshops is now open!](https://cp2025.a4cp.org/registration.html)
 --->
 
 ## Purpose
 
-The _Workshop on Counting, Sampling, and Synthesis_ is an event for researchers in model counting and sampling. It covers advanced topics such as weighted and projected counters/samplers and various domains such as SAT, SMT, ASP, and CP. The workshop has expanded its focus to include the role of model counters, samplers, and solvers in the area of automated synthesis. The goal of the workshop is to facilitate the exchange of cutting-edge theoretical and practical insights, with a particular emphasis on innovative solver technologies and their real-world applications. Additionally, the workshop provides an opportunity for developers of model counters to showcase their work and share detailed competition results, to encourage discussions that bridge theory and practice.
+The _Workshop on Counting, Sampling, and Synthesis_ is an event for researchers in model counting and sampling. It
+covers advanced topics such as weighted and projected counters/samplers and various domains such as SAT, SMT, ASP, and
+CP. The workshop has expanded its focus to include the role of model counters, samplers, and solvers in the area of
+automated synthesis. The goal of the workshop is to facilitate the exchange of cutting-edge theoretical and practical
+insights, with a particular emphasis on innovative solver technologies and their real-world applications. Additionally,
+the workshop provides an opportunity for developers of model counters to showcase their work and share detailed
+competition results, to encourage discussions that bridge theory and practice.
 
 ## Venue
 
-This year’s event will be held alongside other workshops at FLoC 2026 (affiliated with the SAT 2026) conference. 
+This year’s event will be held alongside other workshops at FLoC 2026 (affiliated with the SAT 2026) conference.
 For more information, please visit the [FLoC 2026 website](https://www.floc26.org/program).
 
-
 ## Date
+
 Day: Saturday, July 25th, 2026
 
 ## Schedule
@@ -54,32 +60,39 @@ table th:nth-of-type(3) {
 |15.00-15.30| ☕ Coffee Break & End of Workshop ||
 -->
 
-<!-- ## Timeline -->
+## Timeline
 
-<!-- See [Dates](dates). -->
+See [Dates](dates).
 
-<!-- ## Format -->
+## Format
 
-<!-- You can showcase your best work in counting, sampling, or synthesis, whether it has been published elsewhere or not. Presenters can choose between giving a talk or presenting a poster. Each talk will have a 20-minute time slot for the presentation, followed by a 10-minute Q&A session. -->
+You can showcase your best work in counting, sampling, or synthesis, whether it has been published elsewhere or not.
+Presenters can choose between giving a talk or presenting a poster. Each talk will have a 20-minute time slot for the
+presentation, followed by a 10-minute Q&A session.
 
-<!-- ## Submissions -->
+## Submissions
 
-<!-- There are no specific format requirements for the submission. We expect you to provide a reasonable description in PDF format. -->
+There are no specific format requirements for the submission. We expect you to provide a reasonable description in PDF
+format.
 
-<!-- - **Submission.**  Please upload a PDF on [EasyChair](https://easychair.org/conferences/?conf=mcw2025). -->
-
-<!-- - **Procedure for selecting papers.** All submissions will be reviewed by 1-2 program committee members, who will make recommendations for paper selection. If there are too many talk submissions, some authors may be requested to present a poster instead. -->
-<!-- - **Plans for dissemination.** There will be no proceedings, but the abstracts and slides will be made available on the website. If authors decide to prerecord a video, it will be shared with the participants. -->
+- **Submission.**  Please upload a PDF on [FLoC HotCRP MC](https://submissions.floc26.org/mc/).
+- **Procedure for selecting papers.** All submissions will be reviewed by 1-2 program committee members, who will make
+  recommendations for paper selection.
+- **Plans for dissemination.** There will be no proceedings, but the abstracts and slides will be made available on the
+  website.
 
 ## Contact
 
-If you have any questions about the workshop, the best way to contact the organizers is by emailing <span style="color:blue">mcw at modelcounting.org</span>.
+If you have any questions about the workshop, the best way to contact the organizers is by
+emailing <span style="color:blue">mcw at modelcounting.org</span>.
 
 ## Team
 
 ### Organizers
+
 - [Johannes K. Fichte](https://liu.se/en/employee/johfi52) (Linköping University, Sweden)
-- [Markus Hecher](https://dbai.tuwien.ac.at/staff/hecher/) (French National Centre for Scientific Research (CNRS), University d'Artois (CRIL), France)
+- [Markus Hecher](https://dbai.tuwien.ac.at/staff/hecher/) (French National Centre for Scientific Research (CNRS),
+  University d'Artois (CRIL), France)
 - [Kuldeep S. Meel](http://www.kuldeepmeel.com/) (Georgia Institute of Technology, USA)
 
 ---
