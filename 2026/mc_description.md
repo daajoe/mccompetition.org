@@ -95,7 +95,7 @@ Note that **weights** may be given as **rational number** either as decimal numb
 
 For Track 5, we will decide about the format after discussing with interested developers (please send us an email).
 
-For Track 6, we use the SMT format.
+<!-- For Track 6, we use the SMT format. -->
 
 ## Important Dates
 Refer to the [submission and important dates page](dates).
@@ -116,8 +116,6 @@ tbd
 * Martin Gebser (AAU Klagenfurt, Austria)
 -->
 ### Technical and Reproducibility Advisor
-Daniel Le Berre
-
 <!---
 * Daniel Le Berre
 --->
