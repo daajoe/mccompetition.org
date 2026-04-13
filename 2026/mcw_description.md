@@ -29,7 +29,7 @@ For more information, please visit the [FLoC 2026 website](https://www.floc26.or
 
 Day: Saturday, July 25th, 2026
 
-## Schedule
+<!-- ## Schedule -->
 
 <style>
 td, th {
