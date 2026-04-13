@@ -3,11 +3,12 @@
 
 # Workshop on Counting, Sampling, and Synthesis 2026
 
-<!--- 
+<!-- 
 ## Registration
 
 [Registration for CP, SAT, SoCS, and affiliated workshops is now open!](https://cp2025.a4cp.org/registration.html)
---->
+-->
+
 
 ## Purpose
 
