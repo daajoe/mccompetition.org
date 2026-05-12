@@ -131,7 +131,7 @@ See: [details](cfb2026.md)
 
 ### Evaluation Plattform
 Pre-valuation will be run at the Swedish National Supercomputer Centre (NSC) and the
-[https://www.nsc.liu.se/systems/tetralith/](Tetralith Cluster).
+[Tetralith Cluster](https://www.nsc.liu.se/systems/tetralith/).
 
 Submission will require a private github repository (or similar), from
 where we can pull the solvers.
