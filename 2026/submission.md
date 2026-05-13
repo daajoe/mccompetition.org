@@ -15,7 +15,7 @@ The solver should be able to be built and run on a system that conforms to the s
   The build script should take no parameters and should be tested and work on the provided Docker image in the [link above](https://gitlab.com/sosy-lab/benchmarking/competition-scripts/#computing-environment-on-competition-machines).
 
 - **run.sh**, to run the counter.
-  The run script should take only one parameter: the path to the benchmark instance. The output should follow the [format document](../../assets/files/mccomp_format_24.pdf) and should be written to stdout.
+  The run script should take only one parameter: the path to the benchmark instance. The output should follow the [format document](../../assets/files/mccomp_format_25.pdf) and should be written to stdout.
 
 
 
