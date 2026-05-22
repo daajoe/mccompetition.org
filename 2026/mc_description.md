@@ -26,8 +26,8 @@ Track 2: Since the results no Track 2 were quite similar to Track 4 in 2024,
 we omit weighted model counting unless requested by solver developer
 who has not been participating in the competition.
 
-Tracks 5 and 6 are bonus tracks, which will be experimental and
-run in collaboration with the solver developers.
+Tracks 5 is a bonus track, which will be experimental and
+runs in collaboration with the solver developers.
 
 ## Submission
 See [submission instructions](submission) for details.
@@ -88,12 +88,11 @@ A few test instances are available in the [GitHub repository](https://github.com
 
 ## Format
 We refer to a comprehensive
-[document on the description of the competition format from 2021 (Updated June 2025 for new tracks)](../../assets/files/mccomp_format_25.pdf) for Tracks 1-5.
+[document on the description of the competition format from 2021 (Updated June 2025 for complex weights)](../../assets/files/mccomp_format_25.pdf) for Tracks 1-5.
 
 Note that **weights** may be given as **rational number** either as decimal number with at most
 9 significant digits **or as fraction**.
 
-For Track 5, we will decide about the format after discussing with interested developers (please send us an email).
 
 <!-- For Track 6, we use the SMT format. -->
 
@@ -109,8 +108,7 @@ Refer to the [submission and important dates page](dates).
 
 
 ### Judge
-tbd
-<!-- Mario Alviano --->
+Mario Alviano
 
 <!--
 * Martin Gebser (AAU Klagenfurt, Austria)
