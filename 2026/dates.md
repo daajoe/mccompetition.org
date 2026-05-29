@@ -6,7 +6,7 @@
 ## Important Dates
 - Apr 13: Call for Benchmarks and Participation
 - ~~May 5~~ May 17: Benchmark Submission Deadline
-- May 30: Public Instance Publication
+- ~~May 30~~ June 3: Public Instance Publication
 - June 15: Solver Submission Deadline
 - June 30: Notification of public results
 - July 1: Notification of private results
