@@ -39,9 +39,8 @@ The slides of the presentation of the results at SAT 2025 are available [here](.
 --->
 
 <!-- ## Instances
-- [Instances for Track1--4](https://cloudstore.zih.tu-dresden.de/index.php/s/fiQ93PCPCX3EwDS) (last updated May 28, 2023) -->
-
-
+- [Instances for Track 1](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo) (last updated June 6, 2026)
+- Tracks 2--5: tbd
 
 ## Rules
 ### Ranking
