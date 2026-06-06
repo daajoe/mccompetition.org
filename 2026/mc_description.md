@@ -38,9 +38,14 @@ See [submission instructions](submission) for details.
 The slides of the presentation of the results at SAT 2025 are available [here](../../assets/files/2025/mccomp_results_25.pdf).
 --->
 
-<!-- ## Instances
+## Public Instances
 - [Instances for Track 1](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo) (last updated June 6, 2026)
 - Tracks 2--5: tbd
+
+<!-- 
+- Tracks 1, 3, and 4: [link](https://nextcloud.liu.se/s/2zbn4APWnjLxRLo)
+- Remaining tracks coming soon.
+--> 
 
 ## Rules
 ### Ranking
@@ -59,19 +64,6 @@ The slides of the presentation of the results at SAT 2025 are available [here](.
   - Ranking C: $\alpha=0.8$ (more than 20 solutions outside margin results in removal from the ranking)
   - Ranking D: 20% (correct answer: 1 point, otherwise: 0 points)
 
-### Benchmark Selection
-We precompute instances and discard those that can be solved by
-standard solvers within less than 10s and keep at most 40 instances
-that cannot be solved by common existing solver.
-
-## Public Instances
-- tbd
-
-<!-- 
-- Tracks 1, 3, and 4: [link](https://nextcloud.liu.se/s/2zbn4APWnjLxRLo)
-- Remaining tracks coming soon.
---> 
-
 A few test instances are available in the [GitHub repository](https://github.com/arijitsh/mccomp-test-instances).
 
 <!-- ## Public Results
@@ -79,11 +71,6 @@ A few test instances are available in the [GitHub repository](https://github.com
 - <a href="https://www.starexec.org/starexec/secure/details/job.jsp?id=52719">Results on Public Instances for Track 2<a>
 - <a href="https://www.starexec.org/starexec/secure/details/job.jsp?id=52718">Results on Public Instances for Track 3<a>
 - <a href="https://www.starexec.org/starexec/secure/details/job.jsp?id=52717">Results on Public Instances for Track 4<a> -->
-
-
-
-
-
 
 ## Format
 We refer to a comprehensive
@@ -113,6 +100,7 @@ Mario Alviano
 * Martin Gebser (AAU Klagenfurt, Austria)
 -->
 ### Technical and Reproducibility Advisor
+* tbd
 <!---
 * Daniel Le Berre
 --->
