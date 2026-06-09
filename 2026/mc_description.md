@@ -39,8 +39,8 @@ The slides of the presentation of the results at SAT 2025 are available [here](.
 --->
 
 ## Public Instances
-- [Instances for Track 1](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo) (last updated June 6, 2026)
-- Tracks 2--5: tbd
+- [Instances for Track 1,3](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo) (last updated June 6, 2026)
+- Tracks 2,4,5B: tbd
 
 <!-- 
 - Tracks 1, 3, and 4: [link](https://nextcloud.liu.se/s/2zbn4APWnjLxRLo)
@@ -101,9 +101,9 @@ Mario Alviano
 -->
 ### Technical and Reproducibility Advisor
 * tbd
-<!---
+<!--
 * Daniel Le Berre
---->
+-->
 
 ## Call for Benchmarks
 Model Counting Competition invites extended submissions of collections of counting instances in the
