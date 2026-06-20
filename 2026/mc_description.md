@@ -99,8 +99,10 @@ Mario Alviano
 <!--
 * Martin Gebser (AAU Klagenfurt, Austria)
 -->
+
 ### Technical and Reproducibility Advisor
 * tbd
+
 <!--
 * Daniel Le Berre
 -->

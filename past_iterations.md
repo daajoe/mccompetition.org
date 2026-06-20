@@ -110,7 +110,7 @@ The results of each Model Counting Competition are documented in a report.
 ```
 
 # Workshops
-- 2024 Workshop on Counting, Sampling, and Synthesis (in person event)<br/>
+- 2025 Workshop on Counting, Sampling, and Synthesis (in person event)<br/>
   ([program](../2025/mcw_description))
 - 2024 Workshop on Counting, Sampling, and Synthesis (in person event)<br/>
   ([program](../2024/mcw_description))
