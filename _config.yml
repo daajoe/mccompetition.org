@@ -24,6 +24,11 @@ menu:
     icon: ""
     #TODO: Newsletter
 
+#  - text: ESSAi 2026
+#    link: /2026/essai
+#    icon: ""
+#    #TODO: Newsletter
+
   - text: About
     link: /about
     icon: ""
