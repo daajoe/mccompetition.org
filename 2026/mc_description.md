@@ -16,18 +16,24 @@ The competition will be co-located with the competitions at [SAT 2026](https://s
 
 ## Tracks / Challenges
 - Track 1: Model Counting
-- ~~Track 2: Weighted Model Counting~~ (subsumed by Track 4)
+- Track 1F: Model Counting (same instances, timeout of 120s)
+- Track 2B: Weighted Model Counting (New instances with negative weights in 2026)
 - Track 3: Projected Model Counting
-- Track 4: Projected Weighted Model Counting
+- Track 4: Projected Weighted Model Counting (Mixed instances, wmc,pmc,pwmc)
 - Track 5B: Algebraic Model Counting (AMC): Field (complex numbers)
 <!--- - Track 6B: Bitvector Counting (tbd) --->
 
+<!--
 Track 2: Since the results no Track 2 were quite similar to Track 4 in 2024,
 we omit weighted model counting unless requested by solver developer
 who has not been participating in the competition.
+-->
 
-Tracks 5 is a bonus track, which will be experimental and
+Tracks 1F, 2B, 5B are bonus track, which will be experimental.
+<!--
+and
 runs in collaboration with the solver developers.
+-->
 
 ## Submission
 See [submission instructions](submission) for details.
@@ -40,7 +46,7 @@ The slides of the presentation of the results at SAT 2025 are available [here](.
 
 ## Public Instances
 - [Instances for Track 1,3](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo) (last updated June 6, 2026)
-- Tracks 2,4,5B: tbd
+- [Instances for Track 2B, 4, 5](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo) (last updated June 28, 2026)
 
 <!-- 
 - Tracks 1, 3, and 4: [link](https://nextcloud.liu.se/s/2zbn4APWnjLxRLo)
