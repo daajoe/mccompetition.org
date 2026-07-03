@@ -41,7 +41,7 @@ See [submission instructions](submission) for details.
 -  Please register in [this form (Solver Submissions)](https://forms.gle/nQAwRxKu11UmLbVc8)
 
 <!-- ## Results
-The slides of the presentation of the results at SAT 2025 are available [here](../../assets/files/2025/mccomp_results_25.pdf).
+The slides of the presentation of the results at SAT 2025 are available [here](../../assets/files/2025/MC2025_awards.pdf).
 --->
 
 ## Public Instances
