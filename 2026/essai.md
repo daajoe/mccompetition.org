@@ -34,4 +34,4 @@ properties that guide the choice of target languages. Finally, we demonstrate ho
 counting, uniform and weighted sampling, and direct access to structural features of the solution space.
 
 ### Materials
-tba
+- [Material Lecture No 1](../../assets/files/2026/expo_1.pdf)
