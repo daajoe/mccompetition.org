@@ -36,3 +36,4 @@ counting, uniform and weighted sampling, and direct access to structural feature
 ### Materials
 - [Material Lecture No 1](../../assets/files/2026/essai/expo_1.pdf)
 - [Material Lecture No 2](../../assets/files/2026/essai/expo_2.pdf)
+- [Material Lecture No 3](../../assets/files/2026/essai/expo_3.pdf)
