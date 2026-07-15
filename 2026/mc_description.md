@@ -44,6 +44,11 @@ See [submission instructions](submission) for details.
 The slides of the presentation of the results at SAT 2025 are available [here](../../assets/files/2025/MC2025_awards.pdf).
 --->
 
+## Results
+- Presenting at SAT2026 (Thursday 13:30 on 23 July). <a href="https://program.floc26.org/SAT-2026-07-23">Link to the Program</a>
+- <a href="https://www.floc26.org/olympics">Special Awards</a> during the FLoC Banquet
+
+
 ## Public Instances
 - [Instances for Track 1,3](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo) (last updated June 6, 2026)
 - [Instances for Track 2B, 4, 5](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo) (last updated June 28, 2026)
@@ -106,8 +111,11 @@ Mario Alviano
 * Martin Gebser (AAU Klagenfurt, Austria)
 -->
 
+<!--
 ### Technical and Reproducibility Advisor
 * tbd
+-->
+
 
 <!--
 * Daniel Le Berre
