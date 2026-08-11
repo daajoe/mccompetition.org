@@ -3,7 +3,7 @@
 
 # Model Counting Competition 2026
 
-The competition will be co-located with the competitions at [SAT 2026](https://satisfiability.org/SAT26/).
+The competition was co-located with the competitions at [SAT 2026](https://satisfiability.org/SAT26/).
 <br><br>
 
 [//]: # (<!--)
@@ -21,6 +21,19 @@ The competition will be co-located with the competitions at [SAT 2026](https://s
 - Track 3: Projected Model Counting
 - Track 4: Projected Weighted Model Counting (Mixed instances, wmc,pmc,pwmc)
 - Track 5B: Algebraic Model Counting (AMC): Field (complex numbers)
+
+Tracks 1F, 2B, 5B are bonus track, which will be experimental.
+
+
+## Results
+The slides of the presentation of the results at SAT 2026 are available [here](../../assets/files/2026/MC2026_awards.pdf).
+
+## Downloads (Draft)
+- [Private Instances](https://tcgcr-my.sharepoint.com/:f:/g/personal/arijit_shaw_tcgcrest_org/IgDlwGsU23AkS6rIoJS9nQLFAQzx9yCcfvxMsUFjxoBKAOs?e=n3THzw)
+- Public Instances [Track 1,3](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo), [Track 2B, 4, 5](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo).
+- [Competition Logfiles](https://tcgcr-my.sharepoint.com/:f:/g/personal/arijit_shaw_tcgcrest_org/IgDSnK0lpbEPTJiQdUVopcoaAWEa069aRvn9S-NSHtXokE0?e=9gYgnY)
+- Submitted Solvers Coming soon.
+
 <!--- - Track 6B: Bitvector Counting (tbd) --->
 
 <!--
@@ -29,7 +42,6 @@ we omit weighted model counting unless requested by solver developer
 who has not been participating in the competition.
 -->
 
-Tracks 1F, 2B, 5B are bonus track, which will be experimental.
 <!--
 and
 runs in collaboration with the solver developers.
@@ -49,14 +61,11 @@ The slides of the presentation of the results at SAT 2025 are available [here](.
 - <a href="https://www.floc26.org/olympics">Special Awards</a> during the FLoC Banquet
 
 
-## Public Instances
-- [Instances for Track 1,3](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo) (last updated June 6, 2026)
-- [Instances for Track 2B, 4, 5](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo) (last updated June 28, 2026)
 
-<!-- 
+<!--
 - Tracks 1, 3, and 4: [link](https://nextcloud.liu.se/s/2zbn4APWnjLxRLo)
 - Remaining tracks coming soon.
---> 
+-->
 
 ## Rules
 ### Ranking
