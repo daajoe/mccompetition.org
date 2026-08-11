@@ -29,9 +29,9 @@ Tracks 1F, 2B, 5B are bonus track, which will be experimental.
 The slides of the presentation of the results at SAT 2026 are available [here](../../assets/files/2026/MC2026_awards.pdf).
 
 ## Downloads (Draft)
-- [Private Instances](https://tcgcr-my.sharepoint.com/:f:/g/personal/arijit_shaw_tcgcrest_org/IgDlwGsU23AkS6rIoJS9nQLFAQzx9yCcfvxMsUFjxoBKAOs?e=n3THzw)
+- [Private Instances](https://tcgcr-my.sharepoint.com/:f:/g/personal/arijit_shaw_tcgcrest_org/IgDlwGsU23AkS6rIoJS9nQLFAXledhVEyBLWmLK3D2Ltc0U?e=tvn0Vj)
 - Public Instances [Track 1,3](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo), [Track 2B, 4, 5](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo).
-- [Competition Logfiles](https://tcgcr-my.sharepoint.com/:f:/g/personal/arijit_shaw_tcgcrest_org/IgDSnK0lpbEPTJiQdUVopcoaAWEa069aRvn9S-NSHtXokE0?e=9gYgnY)
+- [Competition Logfiles](https://tcgcr-my.sharepoint.com/:f:/g/personal/arijit_shaw_tcgcrest_org/IgDSnK0lpbEPTJiQdUVopcoaAdKwuF-vxJ0uJJtIsFYYGFg?e=uNGvhO)
 - [Submitted Solvers](https://tcgcr-my.sharepoint.com/:f:/g/personal/arijit_shaw_tcgcrest_org/IgDvPkaFar5NSKh-eR4yxhE1AYsuQXnBkOx1LXfLDatac-c?e=uKgdYz).
 
 <!--- - Track 6B: Bitvector Counting (tbd) --->
