@@ -32,7 +32,7 @@ The slides of the presentation of the results at SAT 2026 are available [here](.
 - [Private Instances](https://tcgcr-my.sharepoint.com/:f:/g/personal/arijit_shaw_tcgcrest_org/IgDlwGsU23AkS6rIoJS9nQLFAQzx9yCcfvxMsUFjxoBKAOs?e=n3THzw)
 - Public Instances [Track 1,3](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo), [Track 2B, 4, 5](https://nextcloud.liu.se/s/STzdpXNgZDZaPRo).
 - [Competition Logfiles](https://tcgcr-my.sharepoint.com/:f:/g/personal/arijit_shaw_tcgcrest_org/IgDSnK0lpbEPTJiQdUVopcoaAWEa069aRvn9S-NSHtXokE0?e=9gYgnY)
-- Submitted Solvers Coming soon.
+- [Submitted Solvers](https://tcgcr-my.sharepoint.com/:f:/g/personal/arijit_shaw_tcgcrest_org/IgDvPkaFar5NSKh-eR4yxhE1AYsuQXnBkOx1LXfLDatac-c?e=uKgdYz).
 
 <!--- - Track 6B: Bitvector Counting (tbd) --->
 
